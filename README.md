@@ -16,8 +16,9 @@ The dataset consists of structural software metrics and labeled code smell annot
 - `README.md` — This file. -->
 
 
-##⚠️ **Note:** The **full raw dataset is NOT included here** due to privacy, licensing, or storage constraints.
-     To request access to the complete dataset, please contact any of the authors:
+## **Note:** The **full raw dataset is NOT included here** due to privacy, licensing, or storage constraints.
+
+To request access to the complete dataset, please contact any of the authors:
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
   <strong>Name:</strong> ZENUN CHOWDHURY<br>
