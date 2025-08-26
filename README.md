@@ -5,8 +5,11 @@ This repository accompanies the thesis **"Enhancing Code Smell Detection through
 
 ## DESCRIPTION
 
-The dataset consists of structural software metrics and labeled code smell annotations collected from multiple open-source Java projects. It supports research on automated code smell detection, transferability, and explainability using deep learning, AutoML, and SHAP.
+The dataset consists of structural software metrics and labeled code smell annotations collected from multiple open-source Java projects. It supports research on automated code smell detection, transferability, and explainability using deep learning, AutoML, and SHAP. The considered code smells are: Anti singleton, Class Data Should be Private, Base Class should be Abstract, Blob, Complex Class, Large Class and Lazy Class
 
+## Folder Informations
+__Final Datasets: This folder contains binary data on existence of code smell of seven code smells individually.  
+__7 smell Dataset: This folder contains seven folder of seven code smells. Each folder has a compilation of that smell from open source projects.
 
 <!-- ## REPOSITORY CONTENTS
 
