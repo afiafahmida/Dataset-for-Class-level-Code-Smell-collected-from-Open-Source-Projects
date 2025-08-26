@@ -1,0 +1,1040 @@
+Project,Full Path,Class Name,Kind,All Methods,Average Blank Lines,Average Code Lines,Average Comment Lines,Average Cyclomatic Complexity,Average Lines,Base Classes,Blank Lines,Class Methods,Class Variables,Code Lines,Comment Lines,Comment to Code Ratio,Coupled Classes,Coupled Classes Modified,Declarative Code Lines,Declarative Statements,Default Methods,Derived Classes,Executable Code Lines,Executable Statements,Instance Methods,Instance Variables,Lines,Max Cyclomatic Complexity,Max Inheritance Tree,Max Nesting,Methods,Percent Lack of Cohesion,Percent Lack of Cohesion Modified,Private Methods,Protected Methods,Public Methods,Semicolons,Statements,Sum Cyclomatic Complexity,Code Smell
+Ant-ivy,org.asciidoctor.ast.AbstractBlock,AbstractBlock,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.asciidoctor.extension.InlineMacroProcessor,InlineMacroProcessor,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.asciidoc.JiraMacro,JiraMacro,Public Class,2,0,5,1,1,5,1,3,0,0,12,1,0.08,5,5,5,4,0,0,5,5,2,0,15,1,2,0,2,0,0,0,0,2,5,8,2,No
+Ant-ivy,org.apache.commons.lang.WordUtils,WordUtils,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.CommandLine,CommandLine,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.CommandLineParser,CommandLineParser,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.DefaultParser,DefaultParser,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.Options,Options,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.ParseException,ParseException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.collections4.CollectionUtils,CollectionUtils,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.collections4.Predicate,Predicate,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.junit.Assert,org.junit.Assert,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.httpclient.methods.HeadMethod,HeadMethod,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.httpclient.HttpClient,HttpClient,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.Option,Option,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.cli.HelpFormatter,HelpFormatter,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.AddPathTask,AddPathTask,Public Class,12,0,4,0,1,4,1,14,0,0,55,6,0.11,8,8,18,18,0,0,24,21,12,3,75,4,2,1,12,61,61,0,0,12,22,38,15,No
+Ant-ivy,org.apache.tools.ant.BuildException,BuildException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.DirSet,DirSet,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.FileList,FileList,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.FileSet,FileSet,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.Path,Path,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.Path.PathElement,PathElement,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.Project,Project,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.Task,Task,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Ant,Ant,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.AntBuildTrigger,AntBuildTrigger,Public Class,21,0,7,0,2,7,2,20,0,0,87,23,0.26,15,15,24,24,0,0,51,43,12,5,130,9,2,4,12,80,73,3,0,9,39,61,21,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Property,Property,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.core.IvyContext,IvyContext,Public Class,29,0,6,4,2,10,1,37,7,1,195,123,0.63,20,20,55,51,0,0,103,97,22,6,355,5,1,2,29,89,77,2,0,27,79,132,50,No
+Ant-ivy,org.apache.ivy.core.IvyPatternHelper,IvyPatternHelper,Public Final Class,26,1,12,0,3,13,1,75,25,13,382,27,0.07,22,22,115,105,0,0,256,204,1,0,483,23,1,4,26,0,0,4,0,22,190,268,82,No
+Ant-ivy,org.apache.ivy.core.event.IvyEvent,IvyEvent,Public Class,13,0,4,1,1,5,1,16,0,0,59,28,0.47,10,10,19,19,0,8,28,25,13,3,103,2,1,1,13,77,51,0,7,6,28,43,14,No
+Ant-ivy,org.apache.ivy.plugins.trigger.AbstractTrigger,AbstractTrigger,Public Abstract Class,9,0,3,0,1,3,2,13,0,0,36,8,0.22,6,6,14,14,0,4,12,11,9,4,57,2,1,1,9,78,61,2,0,7,14,25,10,No
+Ant-ivy,org.apache.ivy.util.Message,Message,Public Final Class,26,0,5,0,1,5,1,33,25,7,134,27,0.2,10,10,34,34,0,0,73,55,1,0,194,6,1,1,26,94,94,2,0,24,54,88,37,No
+Ant-ivy,org.apache.ivy.ant.IvyTask,IvyTask,Public Abstract Class,29,0,7,1,2,7,1,33,1,1,194,23,0.12,20,20,46,43,0,22,112,94,28,2,250,4,2,2,29,89,84,1,21,7,80,129,47,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings,IvySettings,Public Class,169,0,6,1,2,7,11,244,4,1,1110,110,0.1,106,106,289,286,0,0,633,542,165,48,1463,8,1,5,169,98,96,15,0,154,486,767,264,No
+Ant-ivy,org.apache.ivy.ant.AntCallTrigger,AntCallTrigger,Public Class,18,1,6,0,2,6,2,17,0,0,59,18,0.31,13,13,19,20,0,0,34,31,9,4,94,6,2,2,9,72,67,2,0,7,30,45,15,No
+Ant-ivy,org.apache.tools.ant.taskdefs.CallTarget,CallTarget,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.AntMessageLogger,AntMessageLogger,Public Class,26,1,9,4,2,15,1,20,1,1,71,31,0.44,7,7,15,23,0,1,42,28,6,3,122,3,2,2,7,48,48,0,1,6,28,48,11,No
+Ant-ivy,org.apache.ivy.ant.AntMessageLogger.register.(Anon_1),(Anon_1),Anonymous Class,7,0,3,1,1,4,1,7,0,0,22,5,0.23,4,4,0,8,0,0,14,5,7,1,34,2,2,1,7,71,71,0,0,7,5,13,8,No
+Ant-ivy,org.apache.tools.ant.BuildEvent,BuildEvent,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.BuildListener,BuildListener,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.ProjectComponent,ProjectComponent,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.Ivy,Ivy,Public Class,74,0,7,2,1,9,1,105,6,4,559,245,0.44,55,55,122,107,0,0,310,262,68,14,908,11,1,2,74,93,83,2,0,72,219,359,94,No
+Ant-ivy,org.apache.ivy.util.AbstractMessageLogger,AbstractMessageLogger,Public Abstract Class,19,0,4,0,1,4,2,23,0,0,70,14,0.2,5,5,24,24,0,3,30,29,19,4,107,2,1,1,19,82,74,0,2,17,30,50,19,No
+Ant-ivy,org.apache.ivy.util.Checks,Checks,Public Final Class,4,0,6,3,2,8,1,3,3,0,24,13,0.54,4,4,6,6,0,0,11,11,1,0,40,2,1,1,4,0,0,1,0,3,8,16,7,No
+Ant-ivy,org.apache.ivy.util.MessageLoggerEngine,MessageLoggerEngine,Public Class,26,0,4,1,1,5,2,32,0,0,109,40,0.37,8,8,33,35,0,0,50,49,26,5,181,2,1,1,26,90,61,2,0,24,45,79,32,No
+Ant-ivy,org.apache.ivy.ant.AntWorkspaceResolver,AntWorkspaceResolver,Public Class,6,0,5,0,2,5,1,31,0,0,152,2,0.01,9,9,47,48,0,0,88,72,6,5,185,3,2,2,6,80,80,1,0,5,67,108,9,No
+Ant-ivy,org.apache.ivy.ant.AntWorkspaceResolver.Resolver,Resolver,Private Class,79,1,24,1,5,25,1,9,0,0,97,2,0.02,35,35,25,26,0,0,66,51,4,1,108,7,3,5,4,50,25,1,1,2,42,68,20,No
+Ant-ivy,org.apache.ivy.ant.AntWorkspaceResolver.WorkspaceArtifact,WorkspaceArtifact,Public Static Final Class,4,0,3,0,1,3,1,8,0,0,18,0,0,1,1,9,9,0,0,4,4,4,4,26,1,1,0,4,75,75,0,0,4,8,13,4,No
+Ant-ivy,org.apache.tools.ant.types.DataType,DataType,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.resources.FileResource,FileResource,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.Resource,Resource,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.ResourceCollection,ResourceCollection,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultArtifact,DefaultArtifact,Public Class,30,0,4,0,1,4,1,25,7,0,92,3,0.03,7,7,32,26,0,0,37,29,14,4,120,3,2,1,21,85,33,0,0,21,31,55,23,No
+Ant-ivy,org.apache.ivy.core.report.ArtifactDownloadReport,ArtifactDownloadReport,Public Class,25,0,4,0,1,4,1,35,0,1,110,26,0.24,5,5,39,39,0,1,46,38,25,9,171,5,1,2,25,88,88,0,0,25,45,77,33,No
+Ant-ivy,org.apache.ivy.core.report.DownloadReport,DownloadReport,Public Class,4,0,5,0,2,5,1,4,0,0,21,3,0.14,7,7,7,8,0,0,9,9,4,1,28,3,1,2,4,0,0,0,0,4,7,15,6,No
+Ant-ivy,org.apache.ivy.core.report.DownloadStatus,DownloadStatus,Public Final Class,3,0,6,3,2,9,1,6,1,3,24,14,0.58,2,2,8,8,0,0,12,12,2,1,44,4,1,1,3,0,0,1,0,2,10,17,6,No
+Ant-ivy,org.apache.ivy.core.resolve.DownloadOptions,DownloadOptions,Public Class,5,0,2,0,1,2,1,2,0,0,4,0,0,0,0,2,2,0,0,0,0,1,0,6,1,2,0,1,0,0,0,0,1,0,2,1,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveData,ResolveData,Public Class,29,1,6,2,2,9,1,49,2,0,179,72,0.4,26,26,58,60,3,0,95,87,27,6,300,7,1,3,29,83,75,2,0,24,79,130,49,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolvedModuleRevision,ResolvedModuleRevision,Public Class,12,0,4,3,1,7,1,18,0,0,52,44,0.85,6,6,20,18,0,0,20,19,12,5,114,1,1,0,12,73,68,0,0,12,24,37,12,No
+Ant-ivy,org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry,ModuleDescriptorParserRegistry,Public Final Class,11,0,5,1,2,7,1,10,1,1,47,10,0.21,14,14,15,14,0,0,23,22,7,1,67,3,2,2,8,50,13,1,0,7,18,32,12,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractWorkspaceResolver,AbstractWorkspaceResolver,Public Abstract Class,75,3,24,2,5,29,1,30,0,0,149,12,0.08,32,32,31,35,0,1,105,91,7,2,191,21,2,3,7,67,67,0,3,4,72,110,32,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractResolver,AbstractResolver,Public Abstract Class,68,0,5,1,1,6,4,101,0,0,424,55,0.13,48,48,118,110,0,5,205,160,68,15,579,4,1,3,68,96,86,6,21,41,148,263,96,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRevisionId,ModuleRevisionId,Public Class,33,0,8,2,2,10,1,44,11,8,211,55,0.26,16,16,66,56,0,0,128,91,14,4,310,9,2,2,25,90,46,4,0,21,88,132,48,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleId,ModuleId,Public Class,13,0,6,5,2,12,2,23,4,3,95,81,0.85,11,11,31,27,0,0,52,43,9,4,199,3,1,1,13,71,50,0,0,13,40,63,23,No
+Ant-ivy,org.apache.ivy.ant.BuildOBRTask,BuildOBRTask,Public Class,89,1,12,0,3,13,1,26,0,0,128,3,0.02,28,28,32,32,0,0,80,64,10,8,157,17,5,2,10,78,78,0,1,9,55,88,29,No
+Ant-ivy,org.apache.ivy.ant.BuildOBRTask.doExecute.AntMessageLogger2,AntMessageLogger2,Class,27,0,3,0,1,3,1,0,0,0,5,0,0,1,1,2,2,1,0,1,1,1,0,5,1,3,0,1,0,0,0,0,0,1,3,1,No
+Ant-ivy,org.xml.sax.ContentHandler,ContentHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.xml.sax.SAXException,SAXException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManager,DefaultRepositoryCacheManager,Public Class,85,0,12,2,2,15,3,173,0,11,1118,233,0.21,81,81,297,260,1,0,743,609,85,17,1523,22,1,8,85,97,84,31,1,52,516,751,211,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLWriter,OBRXMLWriter,Public Class,15,0,15,0,3,15,1,16,15,0,226,2,0.01,34,34,48,47,0,0,157,137,0,0,244,9,1,4,15,0,0,12,0,3,115,164,47,No
+Ant-ivy,org.apache.ivy.osgi.repo.ArtifactReportManifestIterable,ArtifactReportManifestIterable,Public Class,2,0,8,0,2,8,2,13,0,0,97,1,0.01,9,9,22,23,0,0,63,46,2,2,111,3,1,2,2,50,50,0,0,2,40,64,4,No
+Ant-ivy,org.apache.ivy.osgi.repo.FSManifestIterable,FSManifestIterable,Public Class,15,0,5,1,1,5,1,15,0,4,59,19,0.32,15,15,20,20,0,0,31,19,9,2,93,3,2,1,9,78,78,0,4,5,21,36,11,No
+Ant-ivy,org.apache.ivy.osgi.repo.ManifestAndLocation,ManifestAndLocation,Public Class,4,0,4,0,1,4,1,7,0,0,19,6,0.32,2,2,8,8,0,0,6,6,4,3,32,1,1,0,4,50,50,0,0,4,9,14,4,No
+Ant-ivy,org.apache.ivy.osgi.repo.ResolverManifestIterable,ResolverManifestIterable,Public Class,2,0,3,0,1,3,2,24,0,0,132,3,0.02,3,3,35,34,0,0,83,71,2,1,159,1,1,0,2,50,50,0,0,2,74,99,2,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver,BasicResolver,Public Abstract Class,126,1,15,1,3,17,1,116,0,3,861,99,0.11,76,76,207,191,0,2,595,461,58,11,1075,22,2,4,58,96,92,10,19,29,374,565,158,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheTask,IvyCacheTask,Public Abstract Class,79,2,22,0,5,24,1,6,0,0,46,4,0.09,20,20,15,16,0,4,31,27,2,0,56,7,4,3,2,0,0,1,1,0,19,34,10,No
+Ant-ivy,org.apache.ivy.ant.ConvertManifestTask,ConvertManifestTask,Public Class,33,1,11,0,3,12,1,11,0,0,50,0,0,14,14,12,11,0,0,30,22,4,3,61,9,3,2,4,50,50,0,0,4,20,32,12,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleInfo,BundleInfo,Public Class,43,0,6,0,2,6,1,66,0,5,274,6,0.02,12,12,74,79,0,0,146,134,43,17,346,27,1,2,43,91,91,0,0,43,119,203,87,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleInfoAdapter,BundleInfoAdapter,Public Class,10,2,24,2,5,27,1,40,10,8,256,15,0.06,43,43,69,66,0,0,183,138,0,0,309,17,1,4,10,0,0,3,0,7,114,180,54,No
+Ant-ivy,org.apache.ivy.osgi.core.ExecutionEnvironmentProfileProvider,ExecutionEnvironmentProfileProvider,Public Class,5,1,14,1,3,16,1,18,3,3,81,3,0.04,13,13,27,25,0,0,50,43,2,1,102,8,1,3,5,60,60,1,0,4,34,56,16,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestParser,ManifestParser,Public Class,10,2,18,1,4,21,1,44,10,17,198,18,0.09,24,24,75,70,0,0,143,101,0,0,260,12,1,4,10,0,0,4,0,6,98,143,35,No
+Ant-ivy,org.apache.ivy.osgi.core.OSGiManifestParser,OSGiManifestParser,Public Class,9,0,5,0,1,5,2,11,1,1,53,0,0,25,25,19,15,0,0,25,21,8,1,64,2,1,2,9,78,67,0,0,9,18,32,11,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriter,XmlModuleDescriptorWriter,Public Final Class,20,1,20,1,5,22,1,32,19,0,407,27,0.07,38,38,59,72,0,0,285,234,1,0,466,17,1,4,20,0,0,16,2,2,167,280,93,No
+Ant-ivy,org.apache.ivy.ant.FixDepsTask,FixDepsTask,Public Class,80,1,10,0,2,12,1,15,0,0,45,0,0,11,11,16,16,0,0,23,20,3,2,60,5,4,1,3,33,33,0,0,3,19,31,7,No
+Ant-ivy,org.apache.ivy.ant.FixDepsTask.Keep,Keep,Public Static Class,2,0,3,0,1,3,1,4,0,0,10,0,0,1,1,5,5,0,0,2,2,2,2,14,1,1,0,2,50,50,0,0,2,4,7,2,No
+Ant-ivy,org.apache.ivy.core.report.ResolveReport,ResolveReport,Public Class,33,0,7,2,2,10,1,47,0,0,250,76,0.3,30,30,68,85,0,0,135,128,33,9,373,11,1,3,33,89,87,2,0,31,99,193,70,No
+Ant-ivy,org.apache.ivy.ant.IvyPostResolveTask,IvyPostResolveTask,Public Abstract Class,77,0,6,0,2,7,1,81,0,0,323,13,0.04,24,24,89,89,0,8,192,154,48,19,417,17,3,3,48,95,90,1,8,39,149,225,79,No
+Ant-ivy,org.apache.ivy.ant.IvyAntSettings,IvyAntSettings,Public Class,27,0,8,1,2,9,1,58,3,0,258,32,0.12,27,27,69,68,1,0,155,118,24,10,348,8,2,4,27,90,73,3,1,22,112,172,50,No
+Ant-ivy,org.apache.ivy.ant.IvyAntSettings.Credentials,Credentials,Public Static Class,8,0,3,0,1,3,1,11,0,0,30,0,0,2,2,13,13,0,0,8,8,8,4,41,1,1,0,8,75,75,0,0,8,12,21,8,No
+Ant-ivy,org.apache.ivy.ant.IvyAntSettings.createIvyEngine.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,2,2,1,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.util.url.CredentialsStore,CredentialsStore,Public Final Class,4,0,5,0,1,5,1,7,0,3,24,6,0.25,7,7,10,10,0,0,13,13,4,0,37,2,1,1,4,0,0,1,0,3,12,18,5,No
+Ant-ivy,org.apache.ivy.util.url.URLHandlerDispatcher,URLHandlerDispatcher,Public Class,25,0,6,0,2,6,2,28,1,0,155,5,0.03,13,13,70,39,0,0,59,54,24,2,188,3,1,1,25,86,14,1,0,24,46,83,38,No
+Ant-ivy,org.apache.ivy.util.url.URLHandlerRegistry,URLHandlerRegistry,Public Final Class,4,0,6,3,1,8,1,5,3,1,27,13,0.48,8,8,11,8,0,0,13,10,1,0,45,2,1,1,4,50,50,1,0,3,9,15,5,No
+Ant-ivy,org.apache.ivy.ant.IvyAntVariableContainer,IvyAntVariableContainer,Class,15,0,8,2,2,11,2,9,0,0,54,14,0.26,8,8,14,14,0,0,31,29,6,2,77,4,2,2,6,33,33,1,0,5,23,38,13,No
+Ant-ivy,org.apache.ivy.util.StringUtils,StringUtils,Public Final Class,14,0,8,5,3,13,1,15,13,1,128,81,0.63,10,10,39,30,0,0,76,61,1,0,223,5,1,2,14,0,0,2,0,12,46,84,35,No
+Ant-ivy,org.apache.ivy.core.settings.IvyVariableContainerImpl,IvyVariableContainerImpl,Public Class,9,0,5,0,1,6,2,12,0,0,53,11,0.21,7,7,14,14,0,1,26,21,9,2,76,2,1,1,9,50,50,0,3,6,21,35,13,No
+Ant-ivy,org.apache.ivy.ant.IvyArtifactProperty,IvyArtifactProperty,Public Class,84,0,7,0,2,7,1,12,0,0,51,3,0.06,12,12,19,19,0,0,28,23,7,3,66,5,4,3,7,71,57,1,0,6,21,36,12,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveOptions,ResolveOptions,Public Class,36,0,4,1,1,5,1,49,2,3,145,88,0.61,9,9,51,50,0,0,75,60,30,13,282,2,2,1,32,90,90,0,0,32,75,109,33,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportParser,XmlReportParser,Public Class,8,0,5,1,1,6,1,43,0,0,234,10,0.04,9,9,68,64,0,0,154,119,8,1,287,3,1,1,8,0,0,0,0,8,110,158,10,No
+Ant-ivy,org.xml.sax.helpers.AttributesImpl,AttributesImpl,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyArtifactReport,IvyArtifactReport,Public Class,90,1,13,0,2,15,1,32,0,0,178,6,0.03,36,36,55,45,0,0,123,99,13,2,216,7,4,6,13,73,73,7,0,6,86,121,31,No
+Ant-ivy,org.apache.ivy.core.cache.ArtifactOrigin,ArtifactOrigin,Public Class,16,0,5,3,2,8,1,25,4,2,85,49,0.58,5,5,27,26,0,0,40,35,12,5,159,7,1,2,16,71,63,0,0,16,38,61,25,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNode,IvyNode,Public Class,102,0,9,2,2,11,2,153,1,1,904,235,0.26,71,71,223,216,3,0,554,471,101,17,1289,19,1,7,102,93,87,22,1,76,371,615,222,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveOptions,RetrieveOptions,Public Class,28,0,4,1,1,5,1,39,0,4,114,48,0.42,6,6,43,40,0,0,59,46,24,11,201,2,2,0,24,88,88,0,0,24,61,86,25,No
+Ant-ivy,org.apache.ivy.core.LogOptions,LogOptions,Public Class,4,0,3,0,1,3,1,7,0,3,18,13,0.72,1,1,9,9,0,3,8,4,4,1,38,1,1,0,4,25,25,0,0,4,8,13,4,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveEngine,ResolveEngine,Public Class,33,2,23,9,5,33,1,104,0,0,750,303,0.4,68,68,159,156,0,0,543,419,33,4,1156,25,1,7,33,80,67,13,0,20,305,490,163,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveEngine,RetrieveEngine,Public Class,9,4,38,5,8,47,1,47,0,1,344,49,0.14,46,46,95,91,0,0,259,212,9,2,438,27,1,6,9,67,50,5,0,4,164,242,70,No
+Ant-ivy,org.apache.tools.ant.DirectoryScanner,DirectoryScanner,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildList,IvyBuildList,Public Class,69,1,9,2,2,12,1,112,0,1,438,70,0.16,37,37,142,149,0,0,264,218,40,15,620,22,3,5,40,93,91,10,0,30,195,317,96,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildList.BuildListModule,BuildListModule,Public Static Final Class,10,0,3,0,1,3,1,16,0,0,37,0,0,2,2,16,16,0,0,10,10,10,5,53,1,1,0,10,80,80,0,0,10,15,26,10,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildList.OnMissingDescriptor,OnMissingDescriptor,Public Static Final Class,1,0,2,0,1,2,1,5,0,5,9,0,0,1,1,7,7,0,0,5,0,1,0,14,1,1,0,1,0,0,1,0,0,5,7,1,No
+Ant-ivy,org.apache.ivy.core.sort.SortOptions,SortOptions,Public Class,4,0,4,0,1,4,1,7,0,2,22,8,0.36,3,3,11,9,0,0,11,9,4,2,37,1,1,0,4,50,50,0,0,4,10,15,4,No
+Ant-ivy,org.apache.ivy.plugins.matcher.MapMatcher,MapMatcher,Public Class,5,0,6,0,2,6,1,8,0,0,35,0,0,8,8,13,14,0,0,16,16,5,3,43,3,1,2,5,47,47,0,0,5,14,26,9,No
+Ant-ivy,org.apache.ivy.util.extendable.UnmodifiableExtendableItem,UnmodifiableExtendableItem,Public Class,8,0,5,0,2,6,2,15,0,0,53,5,0.09,5,5,21,18,0,5,29,26,8,6,73,4,1,2,8,77,73,0,2,6,21,36,13,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumber,IvyBuildNumber,Public Class,52,1,10,0,3,10,1,67,0,0,283,8,0.03,21,21,88,86,0,0,160,129,23,9,356,17,3,3,23,86,85,4,0,19,121,193,58,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumber.NewRevision,NewRevision,Private Static Class,5,0,4,0,1,4,1,8,0,0,25,0,0,1,1,11,10,0,0,8,8,5,4,33,1,1,0,5,60,60,0,0,5,12,18,5,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumber.Range,Range,Private Static Class,3,0,3,0,1,3,1,4,0,0,14,0,0,0,0,6,6,0,0,4,4,3,2,18,1,1,0,3,33,33,0,0,3,6,10,3,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumber.ResolvedModuleRevisionArtifactInfo,ResolvedModuleRevisionArtifactInfo,Public Static Class,3,0,3,0,1,3,2,4,0,0,12,0,0,2,2,5,5,0,0,3,3,3,1,16,1,1,0,3,33,33,0,0,3,4,8,3,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumber.doExecute.(Anon_1),(Anon_1),Anonymous Class,2,0,6,0,2,6,2,3,0,0,14,0,0,5,5,1,4,0,0,11,6,2,2,17,2,1,1,2,50,50,0,0,2,5,8,3,No
+Ant-ivy,org.apache.ivy.core.search.SearchEngine,SearchEngine,Public Class,13,3,20,4,4,27,1,57,0,0,268,49,0.18,28,28,100,109,0,0,194,157,13,1,373,15,1,4,13,23,23,1,0,12,124,206,56,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcher,ExactOrRegexpPatternMatcher,Public Final Class,7,0,4,0,1,4,1,8,0,1,27,14,0.52,4,4,11,10,0,0,9,9,2,0,47,1,2,0,2,0,0,0,1,1,10,18,2,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactPatternMatcher,ExactPatternMatcher,Public Final Class,7,0,4,0,1,4,1,7,0,1,25,9,0.36,4,4,10,9,0,0,8,8,2,0,39,1,2,0,2,0,0,0,1,1,8,16,2,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheFileset,IvyCacheFileset,Public Class,87,0,12,6,3,19,1,25,0,0,132,53,0.4,12,12,35,37,2,0,75,65,8,1,209,6,5,3,8,63,63,2,0,4,52,90,24,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheFileset.EmptyDirectoryScanner,EmptyDirectoryScanner,Private Static Class,1,0,3,0,1,3,1,2,0,0,5,0,0,1,1,2,2,0,0,1,1,1,0,7,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheFileset.EmptyFileSet,EmptyFileSet,Private Static Class,4,0,3,0,1,3,1,5,0,0,15,0,0,5,5,6,6,0,0,5,5,4,1,20,1,2,0,4,75,75,0,0,4,5,10,4,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheFileset.EmptyIterator,EmptyIterator,Private Static Generic Class,3,0,3,0,1,3,2,4,0,0,11,0,0,2,2,4,4,0,0,3,3,3,0,15,1,1,0,3,0,0,0,0,3,3,7,3,No
+Ant-ivy,org.apache.tools.ant.types.PatternSet.NameEntry,NameEntry,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyCachePath,IvyCachePath,Public Class,85,0,10,1,3,11,1,11,0,0,65,7,0.11,11,11,16,17,0,0,38,35,6,3,83,6,5,3,6,61,56,0,1,5,28,47,16,No
+Ant-ivy,org.apache.ivy.core.report.ConfigurationResolveReport,ConfigurationResolveReport,Public Class,30,0,7,2,2,9,1,42,1,0,225,57,0.25,33,33,71,76,0,0,126,115,29,10,324,6,1,3,30,89,80,2,0,28,96,166,59,No
+Ant-ivy,org.apache.ivy.ant.IvyCheck,IvyCheck,Public Class,35,0,6,1,2,8,1,11,0,0,42,13,0.31,10,10,14,16,0,0,21,19,6,3,66,7,3,4,6,56,56,0,0,6,15,30,12,No
+Ant-ivy,org.apache.ivy.ant.IvyCleanCache,IvyCleanCache,Public Class,34,0,6,3,2,9,1,8,0,2,36,17,0.47,6,6,12,13,0,0,20,15,5,2,61,6,3,2,5,60,40,0,0,5,14,26,10,No
+Ant-ivy,org.apache.ivy.ant.IvyConfigure,IvyConfigure,Public Class,20,0,4,0,1,4,1,29,0,4,91,13,0.14,13,13,31,29,0,0,44,35,20,2,133,3,2,1,20,50,50,1,0,19,35,60,24,No
+Ant-ivy,org.apache.ivy.ant.IvyConflict,IvyConflict,Public Class,6,0,5,0,2,5,1,12,0,0,35,0,0,8,8,16,16,1,0,15,10,6,5,47,6,1,1,6,67,67,0,0,5,17,26,11,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultModuleDescriptor,DefaultModuleDescriptor,Public Class,88,0,7,1,2,7,2,125,6,0,621,57,0.09,58,58,179,186,0,2,352,309,82,27,803,10,1,4,88,95,92,4,0,84,263,446,161,No
+Ant-ivy,org.apache.ivy.plugins.conflict.FixedConflictManager,FixedConflictManager,Public Class,9,0,6,0,2,6,1,5,0,0,20,0,0,6,6,7,8,0,0,9,9,3,1,25,3,2,2,3,0,0,0,0,3,8,15,5,No
+Ant-ivy,org.apache.ivy.ant.IvyConvertPom,IvyConvertPom,Public Class,34,0,7,0,2,7,1,6,0,0,39,3,0.08,9,9,10,9,0,0,24,15,5,2,48,6,3,2,5,40,40,0,0,5,14,23,10,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParser,PomModuleDescriptorParser,Public Final Class,13,3,25,2,5,29,2,50,1,2,326,32,0.1,48,48,69,72,0,0,239,189,12,0,408,35,1,5,13,0,0,5,0,8,137,222,65,No
+Ant-ivy,org.apache.ivy.plugins.repository.url.URLResource,URLResource,Public Class,13,0,6,0,2,6,2,18,0,0,86,0,0,15,15,25,23,0,0,42,36,13,6,104,3,1,1,13,74,53,1,0,12,35,57,21,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Echo,Echo,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Input,Input,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyDeliver,IvyDeliver,Public Class,63,0,6,0,2,6,1,73,0,0,317,24,0.08,16,16,81,76,0,0,202,165,34,16,414,19,3,3,34,91,91,2,0,32,162,224,52,No
+Ant-ivy,org.apache.ivy.ant.IvyDeliver.DeliverDRResolver,DeliverDRResolver,Private Final Class,3,8,50,10,5,67,1,17,0,0,101,20,0.2,10,10,19,15,0,0,86,75,2,0,138,7,2,2,2,0,0,0,0,2,70,80,10,No
+Ant-ivy,org.apache.ivy.core.deliver.DefaultPublishingDRResolver,DefaultPublishingDRResolver,Public Class,1,0,4,0,1,4,2,0,0,0,6,0,0,3,3,3,2,0,1,1,1,1,0,6,1,1,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.core.deliver.DeliverOptions,DeliverOptions,Public Class,26,0,4,4,1,8,1,37,1,0,111,106,0.95,5,5,40,38,0,0,50,42,25,11,254,1,1,0,26,88,86,0,0,26,52,79,26,No
+Ant-ivy,org.apache.ivy.core.module.status.StatusManager,StatusManager,Public Class,13,0,7,0,2,7,1,18,2,0,95,5,0.05,14,14,22,25,0,0,49,48,11,5,118,5,1,3,13,77,58,1,0,12,38,69,27,No
+Ant-ivy,org.apache.ivy.util.DateUtil,DateUtil,Public Final Class,3,0,3,0,1,4,1,5,2,1,13,1,0.08,4,4,7,7,0,0,5,4,1,0,19,1,1,0,3,0,0,1,0,2,5,9,3,No
+Ant-ivy,org.apache.ivy.ant.IvyDependency,IvyDependency,Public Class,21,0,5,0,1,5,1,39,0,0,114,0,0,15,15,44,46,1,0,55,52,21,12,153,8,1,1,21,87,87,0,0,20,53,86,28,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor,DefaultDependencyDescriptor,Public Class,56,0,8,2,2,10,2,80,5,2,487,109,0.22,31,31,143,136,0,1,292,252,51,14,676,27,1,7,56,92,83,11,3,42,209,344,124,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultExcludeRule,DefaultExcludeRule,Public Class,19,0,3,0,1,3,2,2,0,0,8,0,0,4,4,3,3,0,0,2,2,2,0,10,1,3,0,2,0,0,0,0,2,2,5,2,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultIncludeRule,DefaultIncludeRule,Public Class,19,0,3,0,1,3,2,2,0,0,8,0,0,4,4,3,3,0,0,2,2,2,0,10,1,3,0,2,0,0,0,0,2,2,5,2,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyConf,IvyDependencyConf,Public Class,3,0,6,0,2,6,1,8,0,0,28,0,0,6,6,10,12,1,0,11,11,3,2,36,4,1,2,3,33,33,0,0,2,10,21,6,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyArtifact,IvyDependencyArtifact,Public Class,5,0,5,0,2,5,1,9,0,0,31,0,0,7,7,15,14,1,0,13,9,5,4,40,5,1,1,5,60,60,0,0,4,15,22,9,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyExclude,IvyDependencyExclude,Public Class,7,0,4,0,2,4,1,13,0,0,37,0,0,6,6,22,21,1,0,15,8,7,6,50,7,1,0,7,71,71,0,0,6,20,28,13,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyInclude,IvyDependencyInclude,Public Class,5,0,4,0,2,4,1,10,0,0,27,0,0,6,6,16,15,1,0,11,6,5,4,37,5,1,0,5,60,60,0,0,4,14,20,9,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultDependencyArtifactDescriptor,DefaultDependencyArtifactDescriptor,Public Class,20,0,5,1,1,6,3,18,0,0,64,13,0.2,8,8,22,20,0,0,30,28,12,6,95,2,2,1,12,75,71,1,0,11,33,47,15,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyConf.IvyDependencyConfMapped,IvyDependencyConfMapped,Public Static Class,1,0,3,0,1,3,1,2,0,0,6,0,0,1,1,3,3,0,0,1,1,1,1,8,1,1,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.module.id.ArtifactId,ArtifactId,Public Class,9,0,4,3,1,7,1,12,0,0,46,32,0.7,2,2,16,16,0,0,21,17,9,4,90,2,1,1,9,78,39,0,0,9,22,33,11,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyTree,IvyDependencyTree,Public Class,85,0,11,0,3,12,1,13,0,0,95,3,0.03,14,14,23,26,0,0,61,58,8,2,111,11,4,4,8,50,38,5,0,3,45,72,24,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeCallers.Caller,Caller,Public Static Class,15,0,5,0,1,5,1,20,0,0,84,3,0.04,13,13,33,29,0,0,38,34,15,6,107,4,1,3,15,77,74,1,0,14,36,58,20,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeEviction.EvictionData,EvictionData,Public Static Class,9,0,4,3,1,8,1,13,0,0,46,42,0.91,5,5,18,15,0,0,17,15,9,5,101,3,1,1,9,64,53,0,0,9,19,30,11,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeCallers,IvyNodeCallers,Public Class,12,0,11,2,3,14,1,38,0,0,226,31,0.14,19,19,69,70,4,0,125,113,12,3,295,8,1,4,12,61,53,1,0,7,92,161,37,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeEviction,IvyNodeEviction,Public Class,19,0,10,1,3,11,1,47,0,0,272,78,0.29,14,14,87,87,0,0,150,134,19,6,397,8,1,4,19,82,78,1,0,18,110,192,53,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyUpdateChecker,IvyDependencyUpdateChecker,Public Class,89,1,10,1,3,12,1,24,0,0,131,6,0.05,18,18,33,38,0,0,80,61,12,4,161,8,4,5,12,75,73,3,0,9,47,92,35,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.Configuration,Configuration,Public Class,28,0,7,2,2,9,2,34,1,0,146,45,0.31,14,14,44,40,0,2,75,62,16,7,225,6,3,2,17,85,62,2,0,15,58,96,30,No
+Ant-ivy,org.apache.ivy.ant.IvyExclude,IvyExclude,Public Class,7,0,4,0,2,4,1,13,0,0,37,0,0,6,6,22,21,1,0,15,8,7,6,50,7,1,0,7,71,71,0,0,6,20,28,13,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Concat,Concat,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.FilterChain,FilterChain,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyExtractFromSources,IvyExtractFromSources,Public Class,16,0,7,0,2,7,1,26,0,0,131,9,0.07,25,25,41,43,0,0,75,68,16,8,165,8,2,3,16,83,81,2,0,14,66,98,27,No
+Ant-ivy,org.apache.ivy.ant.IvyExtractFromSources.Ignore,Ignore,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,1,1,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.tools.ant.filters.LineContainsRegExp,LineContainsRegExp,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.RegularExpression,RegularExpression,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.filters.TokenFilter,TokenFilter,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.PackageMapping,PackageMapping,Public Class,9,0,3,0,1,3,1,12,0,0,33,3,0.09,2,2,14,14,0,0,9,9,9,4,48,1,1,0,9,69,69,0,0,9,13,23,9,No
+Ant-ivy,org.apache.ivy.ant.IvyFindRevision,IvyFindRevision,Public Class,40,0,5,0,1,5,1,16,0,0,58,4,0.07,7,7,21,20,0,0,25,23,11,5,78,6,3,1,11,73,73,0,0,11,23,40,16,No
+Ant-ivy,org.apache.ivy.ant.IvyInfo,IvyInfo,Public Class,43,1,9,0,2,10,1,27,0,0,132,4,0.03,23,23,35,37,0,0,82,67,14,6,163,11,3,3,14,79,77,1,0,13,57,92,32,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.Configuration.Visibility,Visibility,Public Static Final Class,3,0,6,0,2,6,1,5,1,2,22,0,0,3,3,8,7,0,0,11,8,2,1,27,3,1,1,3,33,33,1,0,2,8,13,5,No
+Ant-ivy,org.apache.ivy.ant.IvyInstall,IvyInstall,Public Class,57,0,5,0,1,5,1,42,0,0,156,3,0.02,12,12,47,46,0,0,78,53,28,13,201,12,3,2,28,90,89,0,0,28,56,96,39,No
+Ant-ivy,org.apache.ivy.core.install.InstallOptions,InstallOptions,Public Class,14,0,4,0,1,4,1,20,0,0,58,0,0,4,4,22,22,0,0,28,21,14,7,78,2,1,0,14,86,86,0,0,14,28,43,15,No
+Ant-ivy,org.apache.ivy.util.filter.FilterHelper,FilterHelper,Public Final Class,4,0,9,4,3,13,1,4,3,1,39,15,0.38,8,8,11,12,0,0,22,22,1,0,58,4,1,2,4,0,0,1,0,3,15,28,11,No
+Ant-ivy,org.apache.ivy.ant.IvyListModules,IvyListModules,Public Class,46,0,5,0,1,5,1,28,0,0,98,4,0.04,9,9,34,35,0,0,47,40,17,8,130,9,3,2,17,82,82,0,0,17,41,68,25,No
+Ant-ivy,org.apache.ivy.ant.IvyMakePom,IvyMakePom,Public Class,53,0,5,0,1,5,1,64,0,0,201,3,0.01,23,23,73,74,0,0,95,72,24,11,268,6,3,3,24,90,84,3,0,21,81,138,35,No
+Ant-ivy,org.apache.ivy.ant.IvyMakePom.Dependency,Dependency,Public Class,14,0,3,0,1,3,1,20,0,0,51,0,0,1,1,22,22,0,0,21,14,14,7,71,1,1,0,14,86,86,0,0,14,21,36,14,No
+Ant-ivy,org.apache.ivy.ant.IvyMakePom.Mapping,Mapping,Public Class,4,0,3,0,1,3,1,5,0,0,16,0,0,1,1,7,7,0,0,4,4,4,2,21,1,1,0,4,50,50,0,0,4,6,11,4,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter,PomModuleDescriptorWriter,Public Final Class,9,3,28,1,5,32,1,44,8,2,288,14,0.05,33,33,63,59,0,0,206,182,1,0,346,12,1,4,9,0,0,8,0,1,149,212,48,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomWriterOptions,PomWriterOptions,Public Class,18,0,4,0,1,4,1,48,0,0,134,8,0.06,5,5,50,50,0,0,51,50,18,9,190,2,1,1,18,89,89,0,0,18,63,99,19,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomWriterOptions.ExtraDependency,ExtraDependency,Public Static Class,8,0,4,0,1,4,1,14,0,0,40,0,0,1,1,17,16,0,0,14,14,8,7,54,1,1,0,8,75,75,0,0,8,21,30,8,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser,XmlModuleDescriptorParser,Public Class,11,0,8,3,1,10,1,145,1,2,1013,150,0.15,21,21,270,245,1,0,714,565,7,0,1306,4,2,2,8,0,0,0,2,5,457,695,11,No
+Ant-ivy,org.apache.ivy.util.FileUtil,FileUtil,Public Final Class,24,1,16,7,4,24,1,63,23,2,450,184,0.41,34,34,115,100,0,0,264,235,1,0,695,13,1,5,24,0,0,3,0,21,178,301,98,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomWriterOptions.ConfigurationScopeMapping,ConfigurationScopeMapping,Public Static Class,3,0,5,3,2,8,1,4,0,0,17,8,0.47,3,3,5,6,0,0,6,6,3,1,29,3,1,2,3,33,0,0,0,3,5,12,5,No
+Ant-ivy,org.apache.ivy.ant.IvyOverride,IvyOverride,Public Class,6,0,4,0,2,4,1,12,0,0,29,0,0,6,6,15,15,1,0,10,6,6,5,41,4,1,0,6,67,67,0,0,5,14,21,9,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.OverrideDependencyDescriptorMediator,OverrideDependencyDescriptorMediator,Public Class,4,1,6,6,2,13,2,8,0,0,29,27,0.93,4,4,10,10,0,0,15,12,4,2,64,5,1,1,4,25,25,0,0,4,12,19,8,No
+Ant-ivy,org.apache.ivy.ant.IvyResolve,IvyResolve,Public Class,81,0,7,0,2,7,1,86,0,0,373,12,0.03,33,33,105,106,0,0,231,182,52,25,470,36,3,4,52,94,94,1,2,49,174,264,89,No
+Ant-ivy,org.apache.tools.ant.DynamicAttribute,DynamicAttribute,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyPublish,IvyPublish,Public Class,75,0,5,0,1,6,1,95,0,0,335,11,0.03,21,21,108,104,0,0,164,131,46,22,441,17,3,2,46,94,93,0,0,46,140,224,63,No
+Ant-ivy,org.apache.ivy.ant.IvyPublish.ArtifactsPattern,ArtifactsPattern,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,1,1,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.ant.IvyPublish.PublishArtifact,PublishArtifact,Public Class,18,0,3,0,1,3,3,21,0,0,60,0,0,7,7,23,23,0,0,19,19,18,4,81,2,1,0,18,82,82,0,0,18,22,41,19,No
+Ant-ivy,org.apache.ivy.core.module.id.ArtifactRevisionId,ArtifactRevisionId,Public Class,21,0,5,1,1,6,1,17,2,0,67,14,0.21,5,5,21,18,0,0,33,26,11,2,98,2,2,1,13,69,23,0,0,13,29,44,15,No
+Ant-ivy,org.apache.ivy.core.publish.PublishOptions,PublishOptions,Public Class,26,0,4,0,1,4,1,39,0,0,106,15,0.14,3,3,40,40,0,0,40,39,26,13,160,1,1,0,26,92,92,0,0,26,52,79,26,No
+Ant-ivy,org.apache.ivy.ant.IvyReport,IvyReport,Public Class,62,1,7,0,2,9,1,70,0,0,263,16,0.06,35,35,74,77,0,0,153,128,33,14,349,16,3,4,33,89,87,6,0,27,113,181,64,No
+Ant-ivy,org.apache.tools.ant.util.JAXPUtils,JAXPUtils,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.taskdefs.XSLTProcess,XSLTProcess,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportOutputter,XmlReportOutputter,Public Class,3,1,11,0,2,11,2,5,0,0,35,4,0.11,14,14,14,12,0,0,22,18,3,1,44,3,1,1,3,67,33,0,0,3,15,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyRepositoryReport,IvyRepositoryReport,Public Class,64,0,5,0,1,6,1,59,0,0,208,11,0.05,24,24,74,71,0,0,119,97,35,14,278,11,3,2,35,91,89,6,0,29,99,148,47,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveProcessException,ResolveProcessException,Public Class,4,0,3,0,1,3,1,4,0,0,14,10,0.71,3,3,6,5,0,2,3,3,4,0,28,1,2,0,4,0,0,0,0,4,3,8,4,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.AbstractIncludeExcludeRule,AbstractIncludeExcludeRule,Public Abstract Class,17,0,4,1,1,5,2,12,0,0,46,9,0.2,8,8,16,14,0,2,21,20,9,3,67,2,2,1,9,63,56,1,0,8,22,33,10,No
+Ant-ivy,org.apache.tools.ant.types.resources.BaseResourceCollectionWrapper,BaseResourceCollectionWrapper,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyResources,IvyResources,Public Class,89,0,5,0,1,5,2,21,0,0,53,10,0.19,13,13,15,16,0,0,24,23,10,1,84,4,5,2,10,30,30,1,0,9,20,37,13,No
+Ant-ivy,org.apache.ivy.ant.IvyResources.IvyBaseResourceCollectionWrapper,IvyBaseResourceCollectionWrapper,Private Class,1,0,3,0,1,3,1,2,0,0,5,3,0.6,2,2,2,2,0,0,1,1,1,0,10,1,2,0,1,0,0,0,1,0,1,3,1,No
+Ant-ivy,org.apache.tools.ant.Location,Location,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.Reference,Reference,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.util.FileNameMapper,FileNameMapper,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyRetrieve,IvyRetrieve,Public Class,96,1,6,2,2,9,1,40,0,1,131,39,0.3,22,22,45,43,0,0,77,57,19,9,209,9,4,3,19,88,85,1,1,17,57,89,30,No
+Ant-ivy,org.apache.tools.ant.types.Mapper,Mapper,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.types.PatternSet,PatternSet,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveReport,RetrieveReport,Public Class,10,0,4,3,1,6,1,14,0,0,41,28,0.68,7,7,16,16,0,0,18,18,10,4,83,1,1,0,10,68,68,0,0,10,19,30,10,No
+Ant-ivy,org.apache.ivy.ant.MapperAdapter,MapperAdapter,Class,2,1,5,0,2,6,2,6,0,1,14,0,0,2,2,6,6,1,0,6,5,2,1,20,2,1,1,2,0,0,0,0,1,6,10,3,No
+Ant-ivy,org.apache.ivy.ant.IvyVar,IvyVar,Public Class,41,0,6,0,2,6,1,16,0,0,80,4,0.05,11,11,23,24,0,0,41,34,12,5,100,8,3,4,12,83,73,1,0,11,31,54,21,No
+Ant-ivy,org.apache.ivy.core.cache.CacheDownloadOptions,CacheDownloadOptions,Public Class,4,0,4,0,1,4,1,6,0,0,18,0,0,1,1,7,7,0,2,8,6,4,2,24,1,1,0,4,50,50,0,0,4,8,13,4,No
+Ant-ivy,org.apache.ivy.core.cache.CacheMetadataOptions,CacheMetadataOptions,Public Class,18,0,4,0,1,4,1,20,0,0,58,0,0,3,3,22,22,0,0,28,21,14,7,78,1,2,0,14,86,86,0,0,14,28,43,14,No
+Ant-ivy,org.apache.ivy.plugins.namespace.Namespace,Namespace,Public Class,7,0,3,0,1,3,1,14,0,1,68,0,0,5,5,19,22,0,0,36,31,7,5,82,1,1,0,7,80,80,0,0,7,26,48,7,No
+Ant-ivy,org.apache.ivy.core.cache.CacheResourceOptions,CacheResourceOptions,Public Class,6,0,3,0,1,3,1,3,0,0,9,1,0.11,0,0,4,4,0,0,3,2,2,1,13,1,2,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.core.cache.CacheUtil,CacheUtil,Public Final Class,2,0,8,4,3,12,1,2,1,0,17,12,0.71,2,2,3,3,0,0,8,6,1,0,31,4,1,1,2,0,0,1,0,1,3,9,5,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManager.BackupResourceDownloader,BackupResourceDownloader,Private Final Class,4,0,6,0,2,6,2,8,0,0,28,6,0.21,6,6,9,9,0,0,12,12,4,3,42,2,1,1,4,42,42,1,0,3,12,20,7,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManager.ConfiguredTTL,ConfiguredTTL,Private Static Final Class,1,0,13,0,3,13,1,3,0,1,23,1,0.04,6,6,8,8,0,0,12,11,1,3,27,3,1,2,1,0,0,1,0,0,12,17,3,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManager.MyModuleDescriptorProvider,MyModuleDescriptorProvider,Private Class,2,0,4,0,1,4,2,4,0,0,12,0,0,6,6,6,5,0,0,3,3,2,2,16,1,1,0,2,0,0,0,0,2,5,8,2,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManager.cacheModuleDescriptor.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,3,3,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRules,ModuleRules,Public Generic Class,14,0,5,7,2,13,1,17,0,0,79,121,1.53,16,16,24,28,0,0,42,42,14,2,217,3,1,2,14,61,14,3,0,11,35,61,21,No
+Ant-ivy,org.apache.ivy.core.pack.PackagingManager,PackagingManager,Public Class,3,2,25,1,5,28,2,10,0,0,78,3,0.04,13,13,17,18,0,0,55,44,3,1,91,8,1,3,3,0,0,0,0,3,35,52,15,No
+Ant-ivy,org.apache.ivy.core.report.MetadataArtifactDownloadReport,MetadataArtifactDownloadReport,Public Class,30,0,3,3,1,6,1,7,0,0,19,14,0.74,2,2,8,8,0,0,5,5,5,2,40,1,2,0,5,60,60,0,0,5,7,13,5,No
+Ant-ivy,org.apache.ivy.plugins.matcher.NoMatcher,NoMatcher,Public Final Class,3,0,4,0,1,4,2,5,0,1,14,4,0.29,2,2,5,5,0,0,5,5,3,0,22,2,1,1,3,0,0,0,0,3,4,9,4,No
+Ant-ivy,org.apache.ivy.plugins.namespace.NameSpaceHelper,NameSpaceHelper,Public Final Class,10,0,7,0,2,7,1,9,9,0,73,0,0,16,16,18,15,0,0,41,37,1,0,82,3,1,1,10,0,0,1,0,9,29,48,18,No
+Ant-ivy,org.apache.ivy.plugins.repository.ResourceHelper,ResourceHelper,Public Final Class,3,0,10,0,3,10,1,4,2,0,31,0,0,6,6,5,5,0,0,18,16,1,0,35,6,1,2,3,0,0,1,0,2,10,20,9,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.ResolvedResource,ResolvedResource,Public Class,5,0,3,0,1,3,2,6,0,0,21,0,0,3,3,9,8,0,1,6,6,5,2,27,1,1,0,5,40,30,0,0,5,8,14,5,No
+Ant-ivy,org.apache.ivy.util.HexEncoder,HexEncoder,Public Class,1,0,9,0,2,9,1,3,1,1,13,3,0.23,2,2,7,7,0,0,8,4,0,0,19,2,1,1,1,0,0,0,0,1,6,10,2,No
+Ant-ivy,org.apache.ivy.util.PropertiesFile,PropertiesFile,Public Class,2,0,19,1,5,20,1,4,0,0,42,5,0.12,8,8,8,7,0,0,25,19,2,2,51,5,2,3,2,0,0,0,0,2,15,26,10,No
+Ant-ivy,org.apache.ivy.core.cache.ModuleDescriptorMemoryCache,ModuleDescriptorMemoryCache,Class,5,0,12,2,2,14,1,14,0,0,79,17,0.22,11,11,24,19,2,0,44,38,5,2,110,4,1,2,5,40,0,0,0,3,35,52,11,No
+Ant-ivy,org.apache.ivy.core.cache.ParserSettingsMonitor,ParserSettingsMonitor,Class,4,0,5,3,2,8,1,21,0,0,78,23,0.29,6,6,12,27,0,0,47,32,4,3,122,3,1,2,4,50,50,0,0,4,30,55,6,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultResolutionCacheManager,DefaultResolutionCacheManager,Public Class,22,0,6,0,1,6,3,62,0,2,200,8,0.04,19,19,83,76,0,0,96,81,22,5,270,3,1,2,22,88,67,1,1,20,85,138,29,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultResolutionCacheManager.CacheParserSettings,CacheParserSettings,Private Static Class,15,0,3,0,1,3,2,17,0,0,51,0,0,15,15,19,18,0,0,16,16,15,2,68,1,1,0,15,43,43,0,0,15,18,34,15,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultResolutionCacheManager.MapURLResolver,MapURLResolver,Private Static Final Class,4,1,8,0,2,9,1,6,0,0,19,0,0,5,5,8,8,0,0,9,9,2,2,25,3,2,2,2,0,0,1,0,1,9,14,4,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultResolutionCacheManager.getConfigurationResolveReportsInCache.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,3,3,0,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.RelativeUrlResolver,RelativeUrlResolver,Public Abstract Class,2,0,14,13,4,27,1,2,0,0,17,26,1.53,4,4,4,4,0,3,10,8,2,0,45,4,1,2,2,0,0,0,0,2,6,11,4,No
+Ant-ivy,org.apache.ivy.core.cache.ModuleDescriptorMemoryCache.CacheEntry,CacheEntry,Private Static Class,2,0,6,0,1,6,1,4,0,0,16,0,0,4,4,7,6,2,0,6,4,2,3,20,1,1,0,2,0,0,0,0,0,7,10,2,No
+Ant-ivy,org.apache.ivy.core.cache.ParserSettingsMonitor.(Anon_1),(Anon_1),Anonymous Class,14,0,4,0,1,4,2,14,0,0,52,0,0,17,17,3,17,0,0,36,20,14,0,66,2,1,1,14,0,0,0,0,14,18,35,16,No
+Ant-ivy,org.apache.ivy.core.check.CheckEngine,CheckEngine,Public Class,2,1,33,8,9,42,1,6,0,0,70,16,0.23,21,21,13,18,0,0,49,39,2,2,92,16,1,6,2,0,0,0,0,2,29,51,17,No
+Ant-ivy,org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser,AbstractModuleDescriptorParser,Public Abstract Class,3,0,3,0,1,3,2,54,0,0,247,23,0.09,12,12,74,70,0,3,135,119,3,0,320,1,1,0,3,0,0,0,0,3,95,168,3,No
+Ant-ivy,org.apache.ivy.core.deliver.DeliverEngine,DeliverEngine,Public Class,4,3,28,11,5,40,1,14,0,0,115,42,0.37,30,30,36,33,0,0,88,66,4,1,168,15,1,4,4,25,0,1,0,3,54,75,20,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.UpdateOptions,UpdateOptions,Public Class,28,0,4,0,1,4,1,41,0,0,115,39,0.34,7,7,43,43,0,0,56,44,28,14,195,1,1,0,28,93,93,0,0,28,56,85,28,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater,XmlModuleDescriptorUpdater,Public Final Class,5,0,16,3,3,19,1,153,4,1,986,170,0.17,22,22,232,238,0,0,689,576,1,0,1307,6,1,2,5,80,20,1,0,4,467,708,16,Yes
+Ant-ivy,org.apache.ivy.util.ConfigurationUtils,ConfigurationUtils,Public Final Class,2,1,17,11,7,29,1,5,1,0,36,25,0.69,7,7,5,9,0,0,22,21,1,0,66,12,1,4,2,0,0,1,0,1,10,28,13,No
+Ant-ivy,org.apache.ivy.core.event.download.DownloadEvent,DownloadEvent,Public Abstract Class,16,0,4,0,1,4,1,4,0,0,16,0,0,3,3,5,5,0,3,7,7,3,1,20,1,2,0,3,33,33,0,1,2,8,12,3,No
+Ant-ivy,org.apache.ivy.core.event.download.EndArtifactDownloadEvent,EndArtifactDownloadEvent,Public Class,19,0,9,0,1,9,1,6,0,1,31,0,0,7,7,9,8,0,0,19,17,3,2,37,2,3,1,3,33,33,0,0,3,19,24,4,No
+Ant-ivy,org.apache.ivy.core.event.download.NeedArtifactEvent,NeedArtifactEvent,Public Class,18,0,4,0,1,4,1,4,0,1,12,0,0,3,3,5,5,0,0,5,4,2,1,16,1,3,0,2,0,0,0,0,2,6,9,2,No
+Ant-ivy,org.apache.ivy.core.event.download.PrepareDownloadEvent,PrepareDownloadEvent,Public Class,15,0,4,0,1,4,1,3,0,1,11,0,0,2,2,5,5,0,0,4,3,2,1,14,1,2,0,2,0,0,0,0,2,5,8,2,No
+Ant-ivy,org.apache.ivy.core.event.download.StartArtifactDownloadEvent,StartArtifactDownloadEvent,Public Class,19,0,5,0,1,5,1,6,0,1,20,0,0,4,4,8,7,0,0,9,8,3,2,26,1,3,0,3,33,33,0,0,3,11,15,3,No
+Ant-ivy,org.apache.ivy.core.event.EventManager,EventManager,Public Class,11,0,5,0,2,5,2,13,0,0,63,0,0,9,9,17,21,0,0,29,31,11,1,76,4,1,3,11,18,0,0,1,10,23,47,21,No
+Ant-ivy,org.apache.ivy.plugins.repository.TransferEvent,TransferEvent,Public Class,36,0,5,3,2,9,1,51,1,13,150,124,0.83,6,6,52,49,0,0,84,55,22,10,325,6,2,3,23,90,84,2,6,15,72,104,37,No
+Ant-ivy,org.apache.ivy.core.event.IvyEventFilter,IvyEventFilter,Public Class,3,0,21,2,4,24,2,9,0,3,72,48,0.67,13,13,15,19,0,0,49,34,3,3,129,6,1,4,3,33,33,1,0,2,30,48,11,No
+Ant-ivy,org.apache.ivy.core.event.FilteredIvyListener,FilteredIvyListener,Public Class,4,0,4,0,1,4,2,6,0,0,19,0,0,2,2,7,7,0,0,6,6,4,2,25,2,1,1,4,25,25,0,0,4,7,13,5,No
+Ant-ivy,org.apache.ivy.core.event.IvyEventFilter.IvyEventFilter.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,3,3,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.event.IvyEventFilter.parseExpression.(Anon_2),(Anon_2),Anonymous Class,1,0,12,0,4,12,2,0,0,0,13,0,0,4,4,1,3,0,0,9,7,1,0,13,4,1,2,1,0,0,0,0,1,4,9,4,No
+Ant-ivy,org.apache.ivy.util.filter.AndFilter,AndFilter,Public Generic Class,4,0,3,0,1,3,2,5,0,0,17,0,0,0,0,7,7,0,0,5,5,4,2,22,1,1,0,4,25,25,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.util.filter.NoFilter,NoFilter,Public Final Generic Class,4,0,3,0,1,3,2,5,1,1,17,0,0,3,3,9,6,0,0,4,4,3,0,22,1,1,0,4,0,0,1,0,3,4,9,4,No
+Ant-ivy,org.apache.ivy.util.filter.NotFilter,NotFilter,Public Generic Class,3,0,3,0,1,3,2,3,0,0,12,0,0,0,0,5,5,0,0,3,3,3,1,15,1,1,0,3,0,0,0,0,3,4,8,3,No
+Ant-ivy,org.apache.ivy.util.filter.OrFilter,OrFilter,Public Generic Class,4,0,3,0,1,3,2,5,0,0,17,0,0,0,0,7,7,0,0,5,5,4,2,22,1,1,0,4,25,25,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.core.event.publish.EndArtifactPublishEvent,EndArtifactPublishEvent,Public Class,20,0,5,2,2,6,1,6,0,3,15,9,0.6,4,4,8,7,0,0,7,4,2,1,30,2,3,0,2,0,0,0,0,2,8,11,3,No
+Ant-ivy,org.apache.ivy.core.event.publish.PublishEvent,PublishEvent,Public Abstract Class,18,0,5,1,1,6,1,11,0,0,31,10,0.32,5,5,11,10,0,2,14,14,5,4,52,1,2,0,5,60,60,0,1,4,18,24,5,No
+Ant-ivy,org.apache.ivy.core.event.publish.StartArtifactPublishEvent,StartArtifactPublishEvent,Public Class,19,0,4,0,1,4,1,3,0,1,7,6,0.86,4,4,4,3,0,0,2,1,1,0,16,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.event.resolve.EndResolveDependencyEvent,EndResolveDependencyEvent,Public Class,19,0,8,5,1,13,1,7,0,1,29,15,0.52,7,7,8,7,0,0,17,12,3,2,51,2,3,1,3,33,33,0,0,3,14,19,4,No
+Ant-ivy,org.apache.ivy.core.event.resolve.ResolveDependencyEvent,ResolveDependencyEvent,Public Class,16,0,7,0,1,7,1,5,0,0,26,0,0,5,5,7,6,0,2,15,14,3,2,31,1,2,0,3,33,33,0,1,2,16,20,3,No
+Ant-ivy,org.apache.ivy.core.event.resolve.EndResolveEvent,EndResolveEvent,Public Class,17,0,7,0,1,7,1,4,0,1,17,0,0,3,3,5,5,0,0,10,9,2,1,21,1,3,0,2,0,0,0,0,2,11,14,2,No
+Ant-ivy,org.apache.ivy.core.event.resolve.ResolveEvent,ResolveEvent,Public Class,15,0,5,0,1,5,1,2,0,0,12,0,0,2,2,4,4,0,2,5,5,2,1,14,1,2,0,2,0,0,0,1,1,6,9,2,No
+Ant-ivy,org.apache.ivy.core.event.resolve.StartResolveDependencyEvent,StartResolveDependencyEvent,Public Class,17,0,4,0,1,4,1,2,0,1,7,0,0,4,4,4,3,0,0,2,1,1,0,9,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.event.resolve.StartResolveEvent,StartResolveEvent,Public Class,16,0,3,0,1,3,1,2,0,1,6,0,0,2,2,3,3,0,0,2,1,1,0,8,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.EndRetrieveArtifactEvent,EndRetrieveArtifactEvent,Public Class,18,0,3,0,1,3,1,1,0,1,6,0,0,3,3,3,3,0,0,2,1,1,0,7,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.RetrieveArtifactEvent,RetrieveArtifactEvent,Public Class,17,0,5,0,1,5,1,6,0,0,24,0,0,5,5,7,7,0,2,12,12,4,2,30,1,2,0,4,50,50,0,1,3,14,19,4,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.EndRetrieveEvent,EndRetrieveEvent,Public Class,21,0,5,4,1,9,1,10,0,1,31,21,0.68,3,3,12,11,0,0,14,13,5,4,62,1,3,0,5,60,60,0,0,5,18,24,5,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.RetrieveEvent,RetrieveEvent,Public Class,16,0,5,0,1,5,1,4,0,0,20,0,0,3,3,7,6,0,2,9,9,3,2,24,1,2,0,3,33,33,0,1,2,11,15,3,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.StartRetrieveArtifactEvent,StartRetrieveArtifactEvent,Public Class,18,0,3,0,1,3,1,1,0,1,6,0,0,3,3,3,3,0,0,2,1,1,0,7,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.event.retrieve.StartRetrieveEvent,StartRetrieveEvent,Public Class,17,0,3,0,1,3,1,1,0,1,6,0,0,3,3,3,3,0,0,2,1,1,0,7,1,3,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.core.ExecutionRelativeUrlResolver,ExecutionRelativeUrlResolver,Public Class,3,0,3,0,1,3,1,2,0,0,5,5,1,3,3,2,2,0,0,1,1,1,0,12,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.core.install.InstallEngine,InstallEngine,Public Class,2,8,61,5,8,74,1,21,0,0,126,10,0.08,33,33,31,28,0,0,99,67,2,3,157,14,1,6,2,0,0,0,0,2,56,78,15,No
+Ant-ivy,org.apache.ivy.plugins.conflict.NoConflictManager,NoConflictManager,Public Class,8,0,3,0,1,3,1,1,0,0,8,0,0,2,2,3,3,0,0,2,2,2,0,9,1,2,0,2,0,0,0,0,2,2,5,2,No
+Ant-ivy,org.apache.ivy.plugins.matcher.MatcherHelper,MatcherHelper,Public Final Class,8,0,4,0,1,4,1,8,7,0,32,5,0.16,6,6,9,9,0,0,14,7,1,0,45,1,1,0,8,0,0,1,0,7,7,16,8,No
+Ant-ivy,org.apache.ivy.core.IvyPatternHelper.OriginalArtifactNameValue,OriginalArtifactNameValue,Private Static Class,3,2,14,2,2,18,1,18,0,0,54,15,0.28,11,11,25,20,0,0,30,26,3,10,87,5,1,2,3,33,33,0,0,3,32,40,7,No
+Ant-ivy,org.apache.ivy.core.IvyThread,IvyThread,Public Class,10,0,3,0,1,3,1,10,0,0,34,7,0.21,4,4,12,12,0,3,12,12,10,1,51,1,2,0,10,90,80,0,1,9,12,23,10,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.AbstractArtifact,AbstractArtifact,Public Abstract Class,9,0,5,0,1,5,2,9,0,0,46,5,0.11,4,4,12,12,0,2,24,17,9,0,60,3,1,1,9,0,0,0,0,9,17,29,12,No
+Ant-ivy,org.apache.ivy.util.extendable.DefaultExtendableItem,DefaultExtendableItem,Public Class,11,0,3,0,1,3,1,3,0,0,11,3,0.27,2,2,4,4,0,1,3,3,3,0,17,1,2,0,3,0,0,0,0,3,3,7,3,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.ConfigurationGroup,ConfigurationGroup,Public Class,32,0,5,5,2,9,1,5,0,0,21,22,1.05,3,3,6,7,0,0,8,8,4,1,48,3,4,2,4,0,0,0,0,4,7,15,6,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.ConfigurationIntersection,ConfigurationIntersection,Public Class,32,0,5,5,2,10,1,5,0,0,22,22,1,3,3,7,7,0,0,8,8,4,1,49,3,4,2,4,0,0,0,0,4,7,15,6,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultExtendsDescriptor,DefaultExtendsDescriptor,Public Class,13,0,3,0,1,3,2,17,0,0,50,0,0,6,6,19,18,0,0,17,17,13,4,67,1,1,0,13,71,63,0,0,13,21,35,13,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.ExtraInfoHolder,ExtraInfoHolder,Public Class,10,0,3,0,1,3,1,16,0,0,36,0,0,5,5,15,15,0,0,12,12,10,4,52,1,1,0,10,75,75,0,0,10,14,25,10,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.License,License,Public Class,3,0,3,0,1,3,1,5,0,0,14,0,0,1,1,6,6,0,0,4,4,3,2,19,1,1,0,3,33,33,0,0,3,6,10,3,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.MDArtifact,MDArtifact,Public Class,23,0,4,0,1,5,1,22,1,0,72,4,0.06,10,10,24,23,0,0,32,29,13,8,98,5,2,1,14,81,64,0,0,14,32,51,18,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultWorkspaceModuleDescriptor,DefaultWorkspaceModuleDescriptor,Public Class,91,0,3,0,1,3,2,4,0,0,13,0,0,5,5,6,4,0,0,3,3,3,0,17,1,2,0,3,0,0,0,0,3,3,7,3,No
+Ant-ivy,org.apache.ivy.core.module.id.MatcherLookup,MatcherLookup,Public Class,3,0,17,9,5,26,1,8,0,1,57,51,0.89,9,9,15,18,0,0,36,34,3,2,116,11,1,4,3,33,33,1,0,2,22,42,16,No
+Ant-ivy,org.apache.ivy.core.module.status.Status,Status,Public Class,6,0,3,0,1,3,1,7,0,0,22,0,0,1,1,9,9,0,0,6,6,6,2,29,1,1,0,6,50,50,0,0,6,8,15,6,No
+Ant-ivy,org.apache.ivy.core.NormalRelativeUrlResolver,NormalRelativeUrlResolver,Public Class,3,0,3,0,1,3,1,2,0,0,5,3,0.6,3,3,2,2,0,0,1,1,1,0,10,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.core.pack.ArchivePacking,ArchivePacking,Public Abstract Class,3,0,0,0,0,0,1,4,0,0,5,0,0,4,4,4,4,0,2,0,0,3,0,9,0,1,0,3,0,0,0,0,3,3,4,0,No
+Ant-ivy,org.apache.ivy.core.pack.OsgiBundlePacking,OsgiBundlePacking,Public Class,9,0,6,1,2,7,1,3,0,1,15,4,0.27,5,5,6,4,0,0,6,5,2,0,22,2,3,1,2,0,0,0,1,1,5,9,3,No
+Ant-ivy,org.apache.ivy.core.pack.ZipPacking,ZipPacking,Public Class,7,1,10,0,2,11,1,9,0,1,42,1,0.02,10,10,12,9,0,1,22,19,4,0,52,4,2,3,4,0,0,0,1,3,14,26,9,No
+Ant-ivy,org.apache.ivy.core.pack.Pack200Packing,Pack200Packing,Public Class,8,0,8,0,2,8,1,5,0,1,26,0,0,5,5,8,5,0,0,12,11,3,0,31,5,3,2,3,0,0,0,0,3,8,16,7,No
+Ant-ivy,org.apache.ivy.core.pack.StreamPacking,StreamPacking,Public Abstract Class,5,0,4,0,1,4,1,3,0,0,7,0,0,5,5,4,3,0,1,1,1,2,0,10,1,2,0,2,0,0,0,0,2,2,4,1,No
+Ant-ivy,org.apache.ivy.core.pack.PackingRegistry,PackingRegistry,Public Class,3,0,4,0,1,5,1,4,0,0,16,1,0.06,7,7,5,6,0,0,7,7,3,1,21,2,1,1,3,33,0,0,0,3,6,12,4,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEngine,PublishEngine,Public Class,4,3,46,7,8,56,1,15,0,0,188,29,0.15,42,42,39,35,0,0,144,98,4,2,231,17,1,4,4,38,38,1,0,3,74,114,33,No
+Ant-ivy,org.apache.ivy.core.sort.SortEngine,SortEngine,Public Class,5,0,10,7,2,17,1,8,0,0,51,34,0.67,16,16,19,17,0,0,31,25,5,1,93,5,1,3,5,40,0,0,2,3,22,35,11,No
+Ant-ivy,org.apache.ivy.core.repository.RepositoryManagementEngine,RepositoryManagementEngine,Public Class,14,0,10,3,2,13,1,27,0,2,156,101,0.65,28,28,41,44,0,0,101,81,14,10,284,8,1,5,14,83,74,8,0,6,71,109,33,No
+Ant-ivy,org.apache.ivy.core.repository.RepositoryManagementEngine.getAllRevisions.(Anon_1),(Anon_1),Anonymous Class,1,0,4,2,2,6,1,0,0,0,5,2,0.4,5,5,0,1,0,0,4,1,1,0,7,2,2,0,1,0,0,0,0,1,1,2,2,No
+Ant-ivy,org.apache.ivy.plugins.matcher.RegexpPatternMatcher,RegexpPatternMatcher,Public Final Class,7,0,4,0,1,4,1,12,0,1,45,12,0.27,4,4,14,14,0,0,20,18,2,0,67,1,2,0,2,0,0,0,1,1,17,31,2,No
+Ant-ivy,org.apache.ivy.util.MemoryUtil,MemoryUtil,Public Final Class,5,0,9,3,2,11,1,6,4,2,47,17,0.36,4,4,15,16,0,0,32,26,1,0,70,3,1,2,5,0,0,2,0,3,29,38,8,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestCompatibleConflictManager,LatestCompatibleConflictManager,Public Class,25,1,16,7,3,23,1,15,0,0,163,90,0.55,28,28,50,39,0,0,108,84,10,0,267,8,3,3,10,0,0,4,1,5,62,100,34,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeUsage,IvyNodeUsage,Public Class,21,0,7,2,2,9,1,44,1,0,207,63,0.3,20,20,71,68,0,0,107,95,20,5,314,7,1,2,21,82,79,5,12,4,86,146,39,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeBlacklist,IvyNodeBlacklist,Public Class,7,0,4,0,1,4,1,11,0,0,34,4,0.12,2,2,14,13,0,0,12,11,7,5,49,1,1,0,7,57,57,0,0,7,16,24,7,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeEviction.ModuleIdConf,ModuleIdConf,Private Static Final Class,5,0,6,0,1,6,1,6,0,0,33,2,0.06,4,4,11,9,0,0,15,12,5,2,41,3,1,1,5,60,20,0,0,5,13,21,7,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeUsage.Depender,Depender,Private Static Final Class,4,0,6,0,1,6,1,5,0,0,27,0,0,3,3,12,9,0,0,11,9,4,2,32,2,1,1,4,0,0,0,0,4,12,18,5,No
+Ant-ivy,org.apache.ivy.core.resolve.IvyNodeUsage.NodeConf,NodeConf,Private Static Final Class,6,0,5,0,1,6,1,7,0,0,35,2,0.06,4,4,13,10,0,0,14,13,6,2,44,3,1,1,6,58,25,0,0,6,14,23,8,No
+Ant-ivy,org.apache.ivy.core.resolve.VisitNode,VisitNode,Public Class,48,0,6,1,2,7,1,68,1,0,279,128,0.46,24,24,80,79,1,0,145,126,47,10,473,5,1,4,48,85,76,7,1,39,112,192,77,No
+Ant-ivy,org.apache.ivy.core.resolve.VisitData,VisitData,Public Class,6,0,4,0,1,4,1,7,0,0,28,13,0.46,7,7,11,11,0,0,12,12,6,2,48,2,1,1,6,67,50,0,0,6,12,20,7,No
+Ant-ivy,org.apache.ivy.core.resolve.RestartResolveProcess,RestartResolveProcess,Public Class,5,0,3,0,1,3,1,2,0,0,6,8,1.33,2,2,3,2,0,0,1,1,1,0,16,1,3,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveEngine.getConflictResolvingPolicy.(Anon_1),(Anon_1),Anonymous Class,1,0,11,2,3,13,1,0,0,0,12,3,0.25,2,2,2,3,0,0,10,7,1,0,15,3,2,1,1,0,0,0,0,1,5,8,3,No
+Ant-ivy,org.apache.ivy.core.search.ModuleEntry,ModuleEntry,Public Class,6,0,3,0,1,3,1,7,0,0,23,0,0,3,3,9,9,0,0,7,7,6,2,30,1,1,0,6,33,33,0,0,6,9,16,6,No
+Ant-ivy,org.apache.ivy.core.search.OrganisationEntry,OrganisationEntry,Public Class,4,0,3,0,1,3,1,5,0,0,17,0,0,2,2,7,7,0,0,5,5,4,2,22,1,1,0,4,38,38,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.core.search.RevisionEntry,RevisionEntry,Public Class,8,0,3,0,1,3,1,9,0,0,29,0,0,4,4,11,11,0,0,9,9,8,2,38,1,1,0,8,38,38,0,0,8,11,20,8,No
+Ant-ivy,org.apache.ivy.core.settings.IvyPattern,IvyPattern,Public Class,2,0,3,0,1,3,1,2,0,0,9,3,0.33,1,1,4,4,0,0,2,2,2,1,14,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings.ModuleSettings,ModuleSettings,Private Static Class,6,0,4,0,2,4,1,9,0,0,32,0,0,2,2,13,11,0,0,12,9,6,4,41,5,1,0,6,50,50,0,0,6,13,20,10,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings.getConflictManager.(Anon_3),(Anon_3),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,1,1,1,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings.getDefaultBranch.(Anon_2),(Anon_2),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,1,1,1,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings.getResolveMode.(Anon_4),(Anon_4),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,1,1,1,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettings.getResolverName.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,1,1,1,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.core.OsgiLatestStrategy,OsgiLatestStrategy,Public Class,10,0,4,0,1,4,1,16,0,0,74,17,0.23,3,3,25,25,0,0,49,45,1,2,107,1,3,0,1,50,50,0,0,1,34,53,1,No
+Ant-ivy,org.apache.ivy.plugins.circular.ErrorCircularDependencyStrategy,ErrorCircularDependencyStrategy,Public Final Class,6,0,3,0,1,3,1,4,1,1,13,0,0,2,2,6,5,0,0,4,4,2,0,17,1,2,0,3,0,0,1,0,2,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.circular.IgnoreCircularDependencyStrategy,IgnoreCircularDependencyStrategy,Public Final Class,10,0,3,0,1,3,1,5,1,1,13,0,0,3,3,5,5,0,0,5,4,2,0,18,1,3,0,3,0,0,1,1,1,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.circular.WarnCircularDependencyStrategy,WarnCircularDependencyStrategy,Public Final Class,10,0,3,0,1,3,1,5,1,1,12,0,0,3,3,5,5,0,0,4,4,2,0,17,1,3,0,3,0,0,1,1,1,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestConflictManager,LatestConflictManager,Public Class,15,0,9,1,3,10,1,19,0,0,105,14,0.13,16,16,28,29,0,1,53,47,9,2,138,11,2,3,9,56,44,0,1,8,35,70,24,No
+Ant-ivy,org.apache.ivy.plugins.conflict.StrictConflictManager,StrictConflictManager,Public Class,8,2,8,1,3,10,1,6,0,0,18,1,0.06,6,6,5,6,0,0,9,8,2,0,25,4,2,2,2,0,0,0,0,2,6,13,5,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestLexicographicStrategy,LatestLexicographicStrategy,Public Class,10,0,4,0,1,4,1,3,0,1,25,6,0.24,1,1,6,6,0,0,15,14,1,0,34,1,3,0,1,0,0,0,0,1,10,17,1,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategy,LatestRevisionStrategy,Public Class,14,0,5,0,1,5,1,25,0,1,129,18,0.14,7,7,42,41,0,0,75,73,5,4,172,3,3,2,5,80,65,0,0,5,64,96,7,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestTimeStrategy,LatestTimeStrategy,Public Class,10,0,4,0,1,4,1,2,0,1,11,0,0,1,1,4,4,0,0,5,4,1,0,13,1,3,0,1,0,0,0,0,1,4,7,1,No
+Ant-ivy,org.apache.ivy.plugins.latest.WorkspaceLatestStrategy,WorkspaceLatestStrategy,Public Class,6,1,10,0,2,11,1,6,0,0,22,5,0.23,4,4,8,9,0,0,13,12,2,1,33,3,2,2,2,0,0,0,0,2,11,17,4,No
+Ant-ivy,org.apache.ivy.plugins.lock.CreateFileLockStrategy,CreateFileLockStrategy,Public Class,20,0,4,0,1,4,1,2,0,0,6,0,0,1,1,2,2,0,0,2,2,1,0,8,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.plugins.lock.NIOFileLockStrategy,NIOFileLockStrategy,Public Class,20,0,4,0,1,4,1,2,0,0,6,0,0,1,1,2,2,0,0,2,2,1,0,8,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.plugins.lock.NoLockStrategy,NoLockStrategy,Public Class,9,0,3,0,1,3,1,2,0,0,10,0,0,2,2,4,4,0,0,2,2,3,0,12,1,2,0,3,0,0,0,0,3,2,6,3,No
+Ant-ivy,org.apache.ivy.plugins.report.LogReportOutputter,LogReportOutputter,Public Class,4,2,34,1,6,37,2,14,0,0,137,7,0.05,21,21,22,28,0,0,106,94,4,0,158,21,1,5,4,0,0,1,0,3,76,109,25,No
+Ant-ivy,org.apache.ivy.plugins.resolver.ChainResolver,ChainResolver,Public Class,95,0,9,0,2,9,1,38,3,0,256,4,0.02,31,31,74,71,0,1,141,124,24,3,298,13,2,3,27,79,68,7,0,20,96,177,63,No
+Ant-ivy,org.apache.ivy.plugins.resolver.DualResolver,DualResolver,Public Class,89,0,7,0,2,7,1,27,0,2,147,18,0.12,19,19,38,29,0,0,81,59,21,3,192,5,2,2,21,48,46,0,0,21,52,86,35,No
+Ant-ivy,org.apache.ivy.plugins.resolver.WorkspaceChainResolver,WorkspaceChainResolver,Public Class,96,0,8,0,1,8,1,1,0,0,10,5,0.5,2,2,3,2,0,0,5,5,1,0,16,1,3,0,1,0,0,0,0,1,5,7,1,No
+Ant-ivy,org.apache.ivy.plugins.version.ChainVersionMatcher,ChainVersionMatcher,Public Class,19,0,9,3,2,11,1,9,0,0,82,33,0.4,10,10,18,20,0,0,48,47,9,1,124,3,2,2,9,11,11,0,0,9,34,60,22,No
+Ant-ivy,org.apache.ivy.plugins.version.ExactVersionMatcher,ExactVersionMatcher,Public Class,13,0,3,0,1,3,1,3,0,0,11,0,0,1,1,4,4,0,0,3,3,3,0,14,1,2,0,3,0,0,0,0,3,3,7,3,No
+Ant-ivy,org.apache.ivy.plugins.version.LatestVersionMatcher,LatestVersionMatcher,Public Class,16,0,5,2,2,7,1,5,0,0,33,9,0.27,7,7,16,14,0,0,17,15,6,0,47,3,2,1,6,0,0,0,0,6,14,22,9,No
+Ant-ivy,org.apache.ivy.plugins.version.SubVersionMatcher,SubVersionMatcher,Public Class,14,0,5,0,1,5,1,3,0,0,20,0,0,3,3,7,6,0,0,8,7,4,0,23,2,2,1,4,0,0,0,0,4,6,12,5,No
+Ant-ivy,org.apache.ivy.plugins.version.VersionRangeMatcher,VersionRangeMatcher,Public Class,21,0,9,0,2,9,1,44,0,26,157,18,0.11,9,9,74,65,0,0,104,65,11,3,219,5,2,2,11,79,76,2,0,9,82,110,24,No
+Ant-ivy,org.apache.ivy.core.settings.NamedTimeoutConstraint,NamedTimeoutConstraint,Public Class,8,0,3,1,1,5,2,11,0,0,32,14,0.44,3,3,14,12,0,0,11,9,8,3,57,1,1,0,8,71,71,0,0,8,12,21,8,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParser,XmlSettingsParser,Public Class,22,0,22,1,5,23,1,47,0,0,535,19,0.04,44,44,118,110,0,0,383,319,22,12,601,19,2,6,22,80,73,17,0,5,239,367,117,No
+Ant-ivy,org.apache.ivy.plugins.conflict.AbstractConflictManager,AbstractConflictManager,Public Abstract Class,6,0,3,0,1,3,3,7,0,0,23,0,0,5,5,11,9,0,5,5,5,6,2,30,1,1,0,6,58,58,0,0,6,7,14,6,No
+Ant-ivy,org.xml.sax.Attributes,Attributes,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.xml.sax.helpers.DefaultHandler,DefaultHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.xml.sax.InputSource,InputSource,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParser.IvyVariableContainerWrapper,IvyVariableContainerWrapper,Private Static Final Class,5,0,5,0,2,5,2,7,0,1,31,5,0.16,6,6,10,9,0,0,15,12,5,2,43,3,1,2,5,40,40,1,0,4,10,19,8,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParser.parse.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,3,3,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.util.Configurator,Configurator,Public Class,22,0,13,0,3,13,1,98,0,1,578,31,0.05,25,25,155,154,0,0,350,303,22,4,706,17,1,4,22,76,70,2,0,20,249,403,71,No
+Ant-ivy,org.apache.ivy.util.Configurator.MacroDef,MacroDef,Public Static Class,12,0,7,0,2,7,1,15,0,0,90,1,0.01,13,13,24,27,0,0,50,46,12,4,106,9,1,5,12,81,71,2,0,10,37,66,23,No
+Ant-ivy,org.apache.ivy.core.sort.CollectionOfModulesToSort,CollectionOfModulesToSort,Class,5,0,9,3,2,12,2,10,0,0,49,22,0.45,14,14,17,17,0,0,27,24,5,4,81,4,1,2,5,50,50,1,0,4,23,36,10,No
+Ant-ivy,org.apache.ivy.core.sort.ModuleInSort,ModuleInSort,Class,14,0,6,3,2,8,1,19,1,0,89,54,0.61,11,11,24,25,0,0,50,38,13,5,162,3,1,2,14,70,66,1,0,13,37,60,21,No
+Ant-ivy,org.apache.ivy.core.sort.MessageBasedNonMatchingVersionReporter,MessageBasedNonMatchingVersionReporter,Abstract Class,2,0,13,3,2,16,2,3,0,0,16,3,0.19,5,5,6,6,0,2,10,6,2,0,22,2,1,1,2,0,0,0,1,1,6,9,2,No
+Ant-ivy,org.apache.ivy.core.sort.ModuleDescriptorSorter,ModuleDescriptorSorter,Public Class,3,0,12,6,3,18,1,7,0,0,41,29,0.71,11,11,12,11,0,0,23,21,3,3,77,5,1,2,3,22,11,1,0,2,18,29,8,No
+Ant-ivy,org.apache.ivy.plugins.circular.CircularDependencyException,CircularDependencyException,Public Class,3,0,3,1,1,5,1,6,0,1,14,10,0.71,3,3,6,6,0,0,5,4,3,1,30,1,2,0,3,33,33,0,0,3,6,10,3,No
+Ant-ivy,org.apache.ivy.plugins.circular.CircularDependencyHelper,CircularDependencyHelper,Public Final Class,4,0,7,3,2,10,1,5,3,0,30,13,0.43,9,9,8,10,0,0,16,15,1,0,48,4,1,2,4,0,0,1,0,3,11,22,8,No
+Ant-ivy,org.apache.ivy.core.sort.SilentNonMatchingVersionReporter,SilentNonMatchingVersionReporter,Public Class,3,0,3,0,1,3,2,2,0,0,6,3,0.5,2,2,3,2,0,0,1,1,1,0,11,1,2,0,1,0,0,0,1,0,1,3,1,No
+Ant-ivy,org.apache.ivy.core.sort.SimpleSortEngineSettings,SimpleSortEngineSettings,Public Class,4,0,3,0,1,3,2,7,0,0,16,0,0,2,2,7,7,0,0,4,4,4,2,23,1,1,0,4,50,50,0,0,4,6,11,4,No
+Ant-ivy,org.apache.ivy.core.sort.WarningNonMatchingVersionReporter,WarningNonMatchingVersionReporter,Public Class,3,0,3,0,1,3,2,2,0,0,6,3,0.5,2,2,3,2,0,0,1,1,1,0,11,1,2,0,1,0,0,0,1,0,1,3,1,No
+Ant-ivy,org.apache.ivy.Ivy.bind.(Anon_1),(Anon_1),Anonymous Class,1,0,21,0,5,21,2,0,0,0,22,0,0,6,6,1,2,0,0,17,10,1,0,22,5,1,2,1,0,0,0,0,1,8,12,5,No
+Ant-ivy,org.apache.ivy.util.HostUtil,HostUtil,Public Final Class,2,0,6,5,2,11,1,3,1,1,15,13,0.87,3,3,4,4,0,0,7,5,1,0,31,3,1,2,2,50,50,1,0,1,4,9,4,No
+Ant-ivy,org.apache.ivy.Ivy14,Ivy14,Public Class,58,0,5,0,1,5,1,60,0,0,317,24,0.08,44,44,118,61,0,0,135,73,58,1,401,2,1,1,58,3,0,1,0,57,68,133,64,No
+Ant-ivy,org.apache.ivy.Main,Main,Public Final Class,15,3,33,2,5,38,1,55,14,1,499,38,0.08,57,57,77,74,2,0,406,205,1,0,592,27,1,4,15,0,0,11,0,2,153,235,77,No
+Ant-ivy,org.apache.ivy.util.DefaultMessageLogger,DefaultMessageLogger,Public Class,25,0,3,1,1,4,1,6,0,0,23,3,0.13,2,2,8,8,0,0,8,7,6,1,32,2,2,1,6,50,33,0,0,6,7,15,7,No
+Ant-ivy,org.apache.ivy.util.cli.CommandLine,CommandLine,Public Class,7,0,3,0,1,3,1,9,0,0,27,0,0,3,3,12,12,2,0,10,10,7,2,36,2,1,0,7,64,50,0,0,5,11,19,9,No
+Ant-ivy,org.apache.ivy.util.cli.CommandLineParser,CommandLineParser,Public Class,5,2,15,2,4,18,1,16,0,2,81,9,0.11,14,14,22,24,0,0,57,51,5,2,106,9,1,3,5,40,40,0,0,5,44,65,18,No
+Ant-ivy,org.apache.ivy.util.cli.OptionBuilder,OptionBuilder,Public Class,7,0,4,0,1,4,1,12,0,0,35,0,0,4,4,14,14,0,0,18,13,7,6,47,1,1,0,7,71,71,0,0,7,18,26,7,No
+Ant-ivy,org.apache.ivy.util.cli.ParseException,ParseException,Public Class,1,0,3,0,1,3,1,0,0,0,6,0,0,2,2,3,2,0,0,1,1,1,0,6,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleArtifact,BundleArtifact,Public Class,4,0,4,0,1,4,1,8,0,0,19,0,0,2,2,8,8,0,0,7,6,4,3,27,1,1,0,4,50,50,0,0,4,9,14,4,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleCapability,BundleCapability,Public Class,8,0,6,0,2,6,1,12,0,0,52,0,0,2,2,15,15,0,1,26,23,8,3,64,8,1,2,8,46,46,0,0,8,23,38,18,No
+Ant-ivy,org.apache.ivy.osgi.util.Version,Version,Public Class,14,0,10,1,3,11,2,23,0,0,152,11,0.07,4,4,29,29,0,0,98,83,14,8,186,10,1,2,14,58,25,2,0,12,77,110,40,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleRequirement,BundleRequirement,Public Class,8,0,8,0,3,8,1,12,0,0,71,0,0,2,2,16,16,0,0,40,36,8,4,83,14,1,2,8,41,41,0,0,8,31,52,27,No
+Ant-ivy,org.apache.ivy.osgi.core.ExportPackage,ExportPackage,Public Class,14,0,5,0,2,5,1,8,0,0,31,0,0,5,5,11,11,0,0,15,13,6,1,39,4,2,1,6,33,33,0,0,6,13,22,11,No
+Ant-ivy,org.apache.ivy.osgi.core.BundleInfoAdapter.ProfileNotFoundException,ProfileNotFoundException,Public Static Class,1,0,3,0,1,3,1,2,0,0,6,0,0,2,2,3,2,0,0,1,1,1,0,8,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.osgi.util.VersionRange,VersionRange,Public Class,14,0,7,0,2,7,1,36,0,0,261,27,0.1,6,6,48,47,0,0,173,129,14,4,324,8,1,2,14,32,25,0,0,14,116,172,34,No
+Ant-ivy,org.apache.ivy.osgi.core.ExecutionEnvironmentProfile,ExecutionEnvironmentProfile,Public Class,6,0,7,0,3,7,1,8,0,0,43,0,0,3,3,12,12,0,0,23,20,6,2,51,8,1,2,6,25,25,0,0,6,18,31,15,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderElement,ManifestHeaderElement,Public Class,8,0,8,0,3,8,1,10,0,0,70,0,0,7,7,14,20,0,0,38,37,8,3,80,11,1,2,8,50,50,0,0,8,24,53,22,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderValue,ManifestHeaderValue,Public Class,9,0,7,0,2,7,1,34,1,0,286,68,0.24,9,9,45,49,2,0,196,153,8,1,388,5,1,2,9,33,33,0,0,7,133,195,21,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderValue.ManifestHeaderParser,ManifestHeaderParser,Class,14,0,15,2,5,17,1,23,0,0,217,53,0.24,5,5,30,30,2,0,159,116,14,9,293,19,1,3,14,64,43,12,0,0,106,143,63,No
+Ant-ivy,org.apache.ivy.osgi.core.OsgiLatestStrategy.ArtifactInfoComparator,ArtifactInfoComparator,Final Class,2,3,25,6,7,34,2,8,0,0,51,17,0.33,13,13,17,17,0,0,36,34,2,0,76,8,1,3,2,0,0,1,0,1,25,38,14,No
+Ant-ivy,org.apache.ivy.osgi.core.OsgiLatestStrategy.MridComparator,MridComparator,Final Class,1,0,13,0,3,13,2,2,0,0,15,0,0,4,4,4,4,0,0,9,7,1,0,17,3,1,2,1,0,0,0,0,1,5,9,3,No
+Ant-ivy,org.apache.ivy.plugins.latest.ComparatorLatestStrategy,ComparatorLatestStrategy,Public Class,9,0,3,0,1,3,1,7,0,0,19,0,0,6,6,8,8,0,4,6,6,5,1,26,1,2,0,5,20,20,0,0,5,7,13,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.MDResolvedResource,MDResolvedResource,Public Class,7,0,4,0,1,4,1,3,0,0,10,0,0,3,3,4,4,0,0,3,3,2,1,13,1,2,0,2,0,0,0,0,2,4,7,2,No
+Ant-ivy,org.apache.ivy.osgi.filter.AndFilter,AndFilter,Public Class,15,0,5,0,2,5,1,4,0,0,21,0,0,2,2,7,6,0,0,7,7,4,0,25,3,3,2,4,0,0,0,1,3,5,13,6,No
+Ant-ivy,org.apache.ivy.osgi.filter.MultiOperatorFilter,MultiOperatorFilter,Public Abstract Class,11,0,6,0,2,6,1,9,0,0,48,1,0.02,4,4,16,16,0,2,23,18,8,1,58,4,2,1,8,29,14,0,1,7,17,33,14,No
+Ant-ivy,org.apache.ivy.osgi.filter.OSGiFilter,OSGiFilter,Public Abstract Class,3,0,6,0,1,6,1,4,0,0,10,0,0,4,4,6,5,0,3,3,3,3,0,14,1,1,0,3,0,0,0,0,3,5,7,1,No
+Ant-ivy,org.apache.ivy.osgi.filter.CompareFilter,CompareFilter,Public Class,11,0,11,0,4,12,1,17,0,0,109,2,0.02,6,6,29,22,0,0,61,52,8,4,128,11,2,2,8,38,38,0,0,8,47,72,30,No
+Ant-ivy,org.apache.ivy.osgi.filter.CompareFilter.Operator,Operator,Public Enum Type,4,0,2,0,1,2,1,4,0,0,12,0,0,2,2,7,4,1,0,2,2,4,8,16,1,1,0,4,25,15,0,0,3,4,6,2,No
+Ant-ivy,org.apache.ivy.osgi.filter.NotFilter,NotFilter,Public Class,12,0,4,0,1,4,1,3,0,0,13,0,0,2,2,6,4,0,0,3,3,3,0,16,1,3,0,3,0,0,0,1,2,3,7,3,No
+Ant-ivy,org.apache.ivy.osgi.filter.UniOperatorFilter,UniOperatorFilter,Public Abstract Class,9,0,7,0,2,7,1,7,0,0,38,0,0,2,2,14,11,0,1,18,15,6,1,45,5,2,1,6,0,0,0,1,5,17,26,10,No
+Ant-ivy,org.apache.ivy.osgi.filter.OrFilter,OrFilter,Public Class,15,0,5,0,2,5,1,4,0,0,21,0,0,2,2,7,6,0,0,7,7,4,0,25,3,3,2,4,0,0,0,1,3,5,13,6,No
+Ant-ivy,org.apache.ivy.osgi.filter.OSGiFilterParser,OSGiFilterParser,Public Class,1,0,3,0,1,3,1,23,1,0,160,25,0.16,4,4,30,30,0,0,105,87,0,0,208,1,1,0,1,0,0,0,0,1,77,110,1,No
+Ant-ivy,org.apache.ivy.osgi.filter.OSGiFilterParser.Parser,Parser,Static Class,15,0,10,1,3,11,1,20,0,0,155,25,0.16,10,10,28,28,2,0,104,86,15,4,200,9,1,2,15,67,15,13,0,0,76,107,38,No
+Ant-ivy,org.apache.ivy.osgi.obr.OBRResolver,OBRResolver,Public Class,155,1,14,0,3,15,1,13,0,0,92,1,0.01,23,23,20,19,0,0,57,40,6,4,106,10,4,3,6,67,67,1,1,4,35,55,19,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser,OBRXMLParser,Public Class,1,0,10,0,2,10,1,85,1,0,285,4,0.01,8,8,90,93,0,0,182,98,0,0,373,2,1,1,1,0,0,0,0,1,124,179,2,No
+Ant-ivy,org.apache.ivy.osgi.repo.AbstractOSGiResolver,AbstractOSGiResolver,Public Abstract Class,149,1,18,1,4,20,1,55,0,2,412,18,0.04,55,55,127,112,0,3,280,246,23,3,485,18,3,6,23,91,79,3,8,12,192,296,85,No
+Ant-ivy,org.apache.ivy.plugins.repository.AbstractRepository,AbstractRepository,Public Abstract Class,22,0,4,0,1,4,2,25,0,0,99,0,0,13,13,30,29,0,8,44,45,22,4,124,3,1,2,22,82,68,0,11,11,45,72,26,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.Capability,Capability,Public Class,5,0,4,0,1,4,1,7,0,0,26,0,0,6,6,10,10,0,0,11,11,5,2,33,2,1,1,5,40,40,0,0,5,11,19,6,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.CapabilityProperty,CapabilityProperty,Public Class,5,0,4,0,1,4,1,9,0,0,23,0,0,2,2,10,9,0,0,7,7,5,3,32,2,1,0,5,40,40,0,0,5,10,16,6,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.CapabilityAdapter,CapabilityAdapter,Public Class,3,1,26,0,6,27,1,5,3,0,79,1,0.01,10,10,15,16,0,0,60,39,0,0,85,8,1,2,3,0,0,2,0,1,35,51,17,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.AbstractRequirementHandler,AbstractRequirementHandler,Static Class,62,2,13,0,3,15,1,12,0,4,34,0,0,10,10,14,13,0,2,21,15,2,2,46,5,3,2,2,50,50,0,1,1,17,24,6,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.CapabilityHandler,CapabilityHandler,Static Class,62,1,9,0,1,10,1,7,0,2,23,0,0,6,6,11,11,0,0,14,5,2,1,30,1,3,0,2,50,50,0,1,1,11,15,2,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.CapabilityHandler.CapabilityHandler.(Anon_10),(Anon_10),Anonymous Class,4,1,7,0,1,8,1,1,0,0,8,0,0,5,5,3,4,0,0,7,1,1,0,9,1,2,0,1,0,0,0,0,1,4,5,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.CapabilityPropertyHandler,CapabilityPropertyHandler,Static Class,62,0,5,0,1,5,1,9,0,4,18,0,0,4,4,11,10,0,0,8,4,2,3,27,1,3,0,2,50,50,0,1,1,11,14,2,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ExtendHandler,ExtendHandler,Static Class,63,0,3,0,1,3,1,3,0,1,6,0,0,1,1,3,3,0,0,2,1,1,0,9,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.RepositoryHandler,RepositoryHandler,Static Class,62,1,9,0,1,10,1,9,0,3,24,0,0,7,7,9,9,0,0,14,7,2,2,33,1,3,0,2,25,25,0,1,1,12,16,2,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.RepositoryHandler.RepositoryHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,4,4,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.RequireHandler,RequireHandler,Static Class,63,0,3,0,1,3,1,3,0,1,6,0,0,1,1,3,3,0,0,2,1,1,0,9,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceDescriptionHandler,ResourceDescriptionHandler,Static Class,61,0,4,0,1,4,1,3,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,10,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceDocumentationHandler,ResourceDocumentationHandler,Static Class,61,0,4,0,1,4,1,2,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,9,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler,ResourceHandler,Static Class,63,1,39,1,2,41,1,16,0,7,127,4,0.03,18,18,20,26,0,0,100,50,3,1,146,4,3,2,3,33,33,0,2,1,50,70,6,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,17,1,3,18,1,0,0,0,18,1,0.06,10,10,1,2,0,0,15,8,1,0,19,3,2,1,1,0,0,0,0,1,6,9,3,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_3),(Anon_3),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_4),(Anon_4),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_5),(Anon_5),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_6),(Anon_6),Anonymous Class,4,0,11,0,2,11,1,0,0,0,12,0,0,8,8,1,2,0,0,10,4,1,0,12,2,2,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_7),(Anon_7),Anonymous Class,4,1,9,0,2,10,1,1,0,0,10,0,0,7,7,0,1,0,0,8,3,1,0,11,2,2,1,1,0,0,0,0,1,2,4,2,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_8),(Anon_8),Anonymous Class,4,0,13,0,3,13,1,0,0,0,14,0,0,10,10,0,1,0,0,12,4,1,0,14,3,2,1,1,0,0,0,0,1,3,5,3,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceHandler.ResourceHandler.(Anon_9),(Anon_9),Anonymous Class,4,0,3,1,1,4,1,0,0,0,4,1,0.25,3,3,0,1,0,0,3,0,1,0,5,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceLicenseHandler,ResourceLicenseHandler,Static Class,61,0,4,0,1,4,1,3,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,10,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceSizeHandler,ResourceSizeHandler,Static Class,61,0,4,0,1,4,1,2,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,9,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.OBRXMLParser.ResourceSourceHandler,ResourceSourceHandler,Static Class,61,0,4,0,1,4,1,3,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,10,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.xml.sax.SAXParseException,SAXParseException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.osgi.repo.BundleRepoDescriptor,BundleRepoDescriptor,Public Class,24,0,5,0,1,5,1,9,0,0,33,0,0,10,10,12,11,0,0,15,12,6,2,42,3,3,2,6,67,67,0,0,6,12,21,8,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler,DelegatingHandler,Public Class,60,0,7,2,2,9,4,82,1,2,448,140,0.31,20,20,123,97,0,46,221,177,59,11,669,6,2,3,60,91,85,5,30,25,136,262,113,No
+Ant-ivy,org.apache.ivy.util.XMLHelper,XMLHelper,Public Abstract Class,13,1,11,2,2,13,1,29,12,7,148,29,0.2,26,26,40,31,0,0,92,70,1,0,200,7,1,3,13,88,46,3,0,10,60,93,32,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.Requirement,Requirement,Public Class,7,0,3,0,1,3,1,12,0,0,28,0,0,2,2,12,12,0,0,9,8,7,4,40,1,1,0,7,71,71,0,0,7,12,20,7,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.ChildElementHandler,ChildElementHandler,Public Static Abstract Generic Class,3,0,4,3,1,7,1,4,0,0,11,6,0.55,4,4,6,4,0,44,2,2,3,0,21,1,1,0,3,0,0,1,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.osgi.repo.EditableRepoDescriptor,EditableRepoDescriptor,Public Class,18,0,7,0,2,7,1,20,0,0,110,0,0,15,15,36,32,0,3,62,52,14,5,130,5,2,2,14,74,69,1,0,13,45,75,29,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.UnsupportedFilterException,UnsupportedFilterException,Public Class,1,0,3,0,1,3,1,1,0,0,6,0,0,2,2,3,2,0,0,1,1,1,0,7,1,2,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.osgi.obr.xml.RequirementAdapter,RequirementAdapter,Public Class,5,0,28,0,8,29,1,12,1,0,150,0,0,15,15,26,25,0,0,117,79,4,6,162,26,1,3,5,60,7,4,0,1,69,97,39,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2Artifact,P2Artifact,Public Class,5,0,4,0,1,4,1,9,0,0,23,0,0,3,3,10,9,0,0,7,7,5,3,32,1,1,0,5,40,40,0,0,5,10,16,5,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser,P2ArtifactParser,Public Class,2,0,6,0,2,6,2,44,0,0,140,20,0.14,9,9,48,52,0,0,82,47,2,2,204,2,1,1,2,0,0,0,0,2,60,91,3,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.ArtifactHandler,ArtifactHandler,Private Static Class,62,1,8,0,1,9,1,9,0,4,24,0,0,8,8,13,13,0,0,14,7,2,2,33,1,3,0,2,75,75,0,1,1,13,17,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.ArtifactHandler.ArtifactHandler.(Anon_5),(Anon_5),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.ArtifactsHandler,ArtifactsHandler,Private Static Class,61,1,36,0,1,37,1,6,0,1,39,5,0.13,4,4,7,9,0,0,27,17,1,0,50,1,3,0,1,0,0,0,0,1,15,24,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.ArtifactsHandler.ArtifactsHandler.(Anon_4),(Anon_4),Anonymous Class,5,0,15,0,3,15,1,1,0,0,31,0,0,15,15,3,6,0,0,24,15,2,0,32,3,2,2,2,0,0,1,0,1,12,19,6,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.MappingsHandler,MappingsHandler,Private Static Class,62,0,7,0,1,7,1,6,0,2,19,0,0,6,6,8,8,0,0,10,5,2,1,25,1,3,0,2,50,50,0,1,1,8,12,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.MappingsHandler.MappingsHandler.(Anon_3),(Anon_3),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.RepositoryHandler,RepositoryHandler,Private Static Class,61,1,23,5,1,29,1,5,0,1,27,15,0.56,6,6,5,8,0,0,18,9,1,1,47,1,3,0,1,0,0,0,0,1,9,16,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.RepositoryHandler.RepositoryHandler.(Anon_1),(Anon_1),Anonymous Class,4,1,12,0,3,13,1,1,0,0,13,0,0,8,8,1,3,0,0,9,5,1,0,14,3,2,2,1,0,0,0,0,1,4,8,3,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.RepositoryHandler.RepositoryHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,3,1,1,4,1,0,0,0,4,1,0.25,2,2,0,1,0,0,3,0,1,0,5,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2ArtifactParser.RuleHandler,RuleHandler,Private Static Class,62,0,4,0,1,4,1,8,0,3,15,0,0,3,3,9,8,0,0,6,3,2,2,23,1,3,0,2,50,50,0,1,1,8,11,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.PropertiesParser.PropertiesHandler,PropertiesHandler,Static Class,62,0,9,0,1,9,1,6,0,2,22,0,0,8,8,9,9,0,0,12,7,2,1,28,1,3,0,2,50,50,0,1,1,9,14,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.PropertiesParser,PropertiesParser,Public Class,0,0,0,0,0,0,1,17,0,0,39,0,0,0,0,19,18,0,0,18,10,0,0,56,0,1,0,0,0,0,0,0,0,17,26,0,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2Descriptor,P2Descriptor,Public Class,23,1,19,1,5,21,1,12,0,0,100,5,0.05,11,11,20,23,0,0,67,61,5,2,117,8,3,3,5,50,50,1,0,4,41,72,26,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser,P2CompositeParser,Public Class,2,0,6,0,2,6,2,23,0,0,59,10,0.17,9,9,24,24,0,0,30,18,2,1,92,2,1,1,2,0,0,0,0,2,24,38,3,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser.ChildHandler,ChildHandler,Private Static Class,62,0,4,0,1,4,1,6,0,2,12,0,0,3,3,7,6,0,0,4,2,2,1,18,1,3,0,2,50,50,0,1,1,5,8,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser.ChildrenHandler,ChildrenHandler,Private Static Class,62,0,7,0,1,7,1,6,0,2,19,0,0,6,6,8,8,0,0,10,5,2,1,25,1,3,0,2,50,50,0,1,1,8,12,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser.ChildrenHandler.ChildrenHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser.RepositoryHandler,RepositoryHandler,Private Static Class,61,0,9,0,1,9,1,4,0,1,13,10,0.77,4,4,4,5,0,0,8,4,1,1,27,1,3,0,1,100,100,0,0,1,5,8,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2CompositeParser.RepositoryHandler.RepositoryHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.repo.ModuleDescriptorWrapper,ModuleDescriptorWrapper,Public Class,7,0,7,0,2,7,1,12,1,0,53,0,0,12,12,17,14,0,0,23,21,6,4,65,4,1,2,7,64,36,0,0,7,19,34,12,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser,P2MetadataParser,Public Class,4,0,7,0,2,7,2,155,1,0,481,260,0.54,11,11,154,161,0,0,284,162,3,2,896,4,1,1,4,63,63,1,0,3,192,302,8,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.AbstractRequirementHandler,AbstractRequirementHandler,Abstract Class,62,0,13,0,1,13,1,5,0,1,29,0,0,6,6,11,11,0,3,18,9,2,1,34,1,3,0,2,50,50,0,1,1,12,18,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.AbstractRequirementHandler.AbstractRequirementHandler.(Anon_14),(Anon_14),Anonymous Class,4,0,15,0,4,15,1,0,0,0,16,0,0,8,8,4,5,0,0,13,5,1,0,16,4,2,2,1,0,0,0,0,1,6,9,4,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ArtifactHandler,ArtifactHandler,Private Class,62,0,5,0,1,5,1,8,0,4,17,0,0,6,6,12,11,0,0,9,5,2,1,25,1,3,0,2,50,50,0,1,1,10,13,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ArtifactsHandler,ArtifactsHandler,Private Class,62,0,7,0,1,7,1,6,0,2,19,0,0,6,6,8,8,0,0,10,5,2,1,25,1,3,0,2,50,50,0,1,1,8,12,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ArtifactsHandler.ArtifactsHandler.(Anon_15),(Anon_15),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.FilterHandler,FilterHandler,Private Static Class,61,0,4,0,1,4,1,3,0,1,7,0,0,1,1,3,3,0,0,3,2,1,0,10,1,3,0,1,0,0,0,0,1,3,5,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.HostRequirementsHandler,HostRequirementsHandler,Private Class,63,0,3,0,1,3,1,3,0,1,6,0,0,1,1,3,3,0,0,2,1,1,0,9,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.InstructionHandler,InstructionHandler,Private Class,62,0,4,0,1,4,1,6,0,2,13,0,0,3,3,7,6,0,0,5,3,2,1,19,1,3,0,2,50,50,0,1,1,6,9,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.InstructionsHandler,InstructionsHandler,Private Class,62,0,10,1,1,10,1,7,0,1,24,2,0.08,5,5,8,8,0,0,13,9,2,2,33,1,3,0,2,100,100,0,1,1,10,16,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.InstructionsHandler.InstructionsHandler.(Anon_17),(Anon_17),Anonymous Class,4,0,11,0,3,11,1,0,0,0,12,0,0,6,6,1,2,0,0,10,7,1,0,12,3,2,1,1,0,0,0,0,1,5,8,3,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.MetaRequirementsHandler,MetaRequirementsHandler,Private Class,63,0,3,0,1,3,1,3,0,1,6,0,0,1,1,3,3,0,0,2,1,1,0,9,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ProvidedHandler,ProvidedHandler,Private Static Class,62,0,5,0,1,5,1,10,0,4,18,0,0,5,5,11,10,0,0,8,4,2,3,28,1,3,0,2,50,50,0,1,1,11,14,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ProvidesHandler,ProvidesHandler,Private Class,62,0,16,0,1,16,1,7,0,2,38,0,0,6,6,11,11,0,0,23,15,2,2,45,1,3,0,2,75,75,0,1,1,16,24,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ProvidesHandler.ProvidesHandler.(Anon_13),(Anon_13),Anonymous Class,4,0,22,0,5,22,1,0,0,0,23,0,0,10,10,2,3,0,0,17,11,1,0,23,5,2,3,1,0,0,0,0,1,8,13,5,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ReferencesHandler,ReferencesHandler,Private Class,62,0,8,0,1,8,1,5,0,2,20,0,0,7,7,8,8,0,0,11,5,2,1,25,1,3,0,2,50,50,0,1,1,8,12,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.ReferencesHandler.ReferencesHandler.(Anon_3),(Anon_3),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RepositoryHandler,RepositoryHandler,Private Class,61,0,16,9,1,25,1,5,0,1,19,26,1.37,4,4,3,6,0,0,12,5,1,0,50,1,3,0,1,0,0,0,0,1,5,11,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RepositoryHandler.RepositoryHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,6,0,2,6,1,0,0,0,7,0,0,5,5,0,2,0,0,5,2,1,0,7,2,2,1,1,0,0,0,0,1,1,4,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RepositoryHandler.RepositoryHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,0,1,0,4,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RepositoryReferenceHandler,RepositoryReferenceHandler,Private Class,62,1,12,2,3,15,1,10,0,3,30,13,0.43,7,7,10,9,0,0,18,11,2,1,53,5,3,2,2,50,50,0,1,1,11,18,6,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RequiredHandler,RequiredHandler,Private Class,62,0,7,3,2,10,1,14,0,5,25,10,0.4,8,8,13,12,0,0,13,7,2,4,49,2,3,1,2,50,50,0,1,1,15,19,3,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.RequiresHandler,RequiresHandler,Private Class,63,0,3,0,1,3,1,3,0,1,6,0,0,1,1,3,3,0,0,2,1,1,0,9,1,4,0,1,0,0,0,0,1,2,4,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.TouchpointDataHandler,TouchpointDataHandler,Private Class,62,0,7,1,1,7,1,7,0,1,18,2,0.11,5,5,7,7,0,0,8,4,2,2,27,1,3,0,2,100,100,0,1,1,7,11,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.TouchpointDataHandler.TouchpointDataHandler.(Anon_16),(Anon_16),Anonymous Class,4,0,5,0,1,5,1,0,0,0,6,0,0,3,3,0,1,0,0,5,2,1,0,6,1,2,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler,UnitHandler,Class,62,1,64,15,1,79,1,10,0,4,135,30,0.22,14,14,17,26,0,0,101,56,2,1,175,1,3,0,2,50,50,0,1,1,45,75,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_10),(Anon_10),Anonymous Class,4,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,0,1,0,4,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_11),(Anon_11),Anonymous Class,4,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,0,1,0,4,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_12),(Anon_12),Anonymous Class,4,0,59,2,14,61,1,0,0,0,60,2,0.03,12,12,4,5,0,0,46,30,1,0,62,14,2,3,1,0,0,0,0,1,19,32,14,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_5),(Anon_5),Anonymous Class,4,0,8,1,2,9,1,0,0,0,9,1,0.11,6,6,1,2,0,0,7,4,1,0,10,2,2,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_6),(Anon_6),Anonymous Class,4,0,15,5,4,20,1,0,0,0,16,5,0.31,6,6,1,3,0,0,12,8,1,0,21,4,2,2,1,0,0,0,0,1,5,10,4,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_7),(Anon_7),Anonymous Class,4,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,0,1,0,4,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_8),(Anon_8),Anonymous Class,4,0,6,0,2,6,1,0,0,0,7,0,0,6,6,0,2,0,0,5,2,1,0,7,2,2,1,1,0,0,0,0,1,1,4,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitHandler.UnitHandler.(Anon_9),(Anon_9),Anonymous Class,4,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,0,1,0,4,1,2,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitsHandler,UnitsHandler,Private Class,62,0,8,0,1,8,1,6,0,2,21,0,0,6,6,8,8,0,0,11,6,2,1,27,1,3,0,2,50,50,0,1,1,8,13,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2MetadataParser.UnitsHandler.UnitsHandler.(Anon_4),(Anon_4),Anonymous Class,4,0,6,0,2,6,1,0,0,0,7,0,0,4,4,0,1,0,0,5,2,1,0,7,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.PropertiesParser.PropertiesHandler.PropertiesHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,6,0,2,6,1,0,0,0,7,0,0,3,3,0,1,0,0,5,2,1,0,7,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.PropertiesParser.PropertyHandler,PropertyHandler,Static Class,62,0,4,0,1,4,1,8,0,3,15,0,0,3,3,9,8,0,0,6,3,2,2,23,1,3,0,2,50,50,0,1,1,8,11,2,No
+Ant-ivy,org.apache.ivy.osgi.repo.AbstractFSManifestIterable,AbstractFSManifestIterable,Public Abstract Generic Class,6,0,3,0,1,3,2,16,0,0,76,19,0.25,6,6,20,20,0,2,47,35,6,1,111,1,1,0,6,50,50,0,4,2,34,52,2,No
+Ant-ivy,org.apache.ivy.osgi.repo.AbstractFSManifestIterable.FSManifestIterator,FSManifestIterator,Class,4,0,14,3,4,17,2,8,0,0,63,19,0.3,11,11,12,12,1,0,45,33,4,4,90,11,1,4,4,63,44,0,0,3,27,42,15,No
+Ant-ivy,org.apache.ivy.osgi.repo.AbstractOSGiResolver.RequirementStrategy,RequirementStrategy,Public Static Class,1,0,9,0,3,9,1,2,1,2,13,2,0.15,2,2,4,4,0,0,7,7,0,0,17,3,1,1,1,0,0,0,0,1,5,9,3,No
+Ant-ivy,org.apache.ivy.plugins.repository.url.URLRepository,URLRepository,Public Class,28,1,14,0,4,15,1,12,0,0,89,0,0,18,18,22,24,0,1,61,54,6,3,101,10,2,3,6,78,67,0,0,6,41,64,21,No
+Ant-ivy,org.apache.ivy.osgi.repo.RepoDescriptor,RepoDescriptor,Public Abstract Class,4,0,0,0,0,0,1,5,0,0,6,0,0,3,3,5,5,0,2,0,0,4,0,11,0,1,0,4,0,0,0,0,4,4,5,0,No
+Ant-ivy,org.apache.ivy.osgi.repo.AggregatedOSGiResolver,AggregatedOSGiResolver,Public Class,151,0,6,0,2,6,1,4,0,0,14,0,0,4,4,6,6,0,0,6,6,2,1,18,2,4,1,2,0,0,0,1,1,5,10,3,No
+Ant-ivy,org.apache.ivy.osgi.repo.AggregatedRepoDescriptor,AggregatedRepoDescriptor,Public Class,9,1,14,0,2,15,1,12,0,0,75,0,0,6,6,20,24,0,0,44,36,5,1,87,3,2,2,5,0,0,0,0,5,29,52,11,No
+Ant-ivy,org.apache.ivy.osgi.repo.AggregatedRepoDescriptor.getModules.(Anon_1),(Anon_1),Anonymous Class,3,0,9,0,3,9,1,5,0,0,31,0,0,5,5,2,7,0,0,23,15,3,2,36,5,2,3,3,50,33,0,0,3,13,21,8,No
+Ant-ivy,org.apache.ivy.osgi.repo.ArtifactReportManifestIterable.ArtifactReportManifestIterator,ArtifactReportManifestIterator,Class,4,0,18,0,5,19,2,7,0,0,77,1,0.01,15,15,14,15,0,0,53,36,4,2,85,14,1,4,4,50,38,0,0,4,31,49,18,No
+Ant-ivy,org.apache.ivy.osgi.repo.BundleCapabilityAndLocation,BundleCapabilityAndLocation,Public Class,5,0,4,0,1,4,1,10,0,0,25,0,0,3,3,11,10,0,0,8,8,5,4,35,1,1,0,5,60,60,0,0,5,12,18,5,No
+Ant-ivy,org.apache.ivy.osgi.repo.FSManifestIterable.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,3,3,1,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.repo.FSManifestIterable.(Anon_2),(Anon_2),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,2,2,1,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.repo.FSManifestIterable.listBundleFiles.(Anon_3),(Anon_3),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.repo.FSManifestIterable.listDirs.(Anon_4),(Anon_4),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.repo.RelativeURLRepository,RelativeURLRepository,Public Class,33,0,7,1,2,8,1,9,1,0,38,7,0.18,11,11,11,10,0,0,20,18,4,2,54,4,3,2,5,60,50,1,0,4,17,26,8,No
+Ant-ivy,org.apache.ivy.osgi.repo.RepositoryManifestIterable,RepositoryManifestIterable,Public Class,12,0,5,1,1,6,1,7,0,0,30,7,0.23,12,12,9,9,0,0,13,12,6,1,44,2,2,1,6,17,17,1,4,1,11,20,8,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.ResolverHelper,ResolverHelper,Public Final Class,7,1,30,1,6,32,1,11,6,0,212,69,0.33,18,18,54,54,0,0,162,133,1,0,292,10,1,5,7,0,0,2,0,5,104,148,41,No
+Ant-ivy,org.apache.ivy.osgi.repo.ResolverManifestIterable.ResolverManifestIterator,ResolverManifestIterator,Class,4,0,27,0,5,27,2,19,0,0,123,1,0.01,28,28,31,30,0,0,81,69,4,15,143,16,1,3,4,70,47,0,0,4,71,93,20,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.PluginAdapter,PluginAdapter,Public Class,2,4,21,0,4,24,1,9,2,0,43,0,0,11,11,12,13,0,0,29,24,0,0,52,6,1,2,2,0,0,0,0,2,22,32,7,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseFeature,EclipseFeature,Public Class,30,0,3,1,1,4,1,51,0,0,85,16,0.19,6,6,38,38,0,0,18,18,30,7,152,1,1,0,30,92,92,0,0,30,23,54,30,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipsePlugin,EclipsePlugin,Public Class,7,0,3,0,1,3,1,13,0,0,22,3,0.14,2,2,10,10,0,0,4,4,7,2,38,1,1,0,7,71,71,0,0,7,6,14,7,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.Require,Require,Public Class,10,0,3,0,1,3,1,15,0,0,37,0,0,2,2,16,16,0,0,10,10,10,5,52,1,1,0,10,80,80,0,0,10,15,26,10,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteDescriptor,UpdateSiteDescriptor,Public Class,20,1,5,0,2,5,1,4,0,0,11,0,0,5,5,3,4,0,0,4,4,2,0,15,2,3,1,2,0,0,0,0,2,3,8,3,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteLoader,UpdateSiteLoader,Public Class,15,1,16,0,3,17,1,36,0,0,240,6,0.03,36,36,74,62,0,0,159,143,15,5,281,6,1,3,15,69,28,12,0,3,110,167,49,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser,EclipseUpdateSiteParser,Public Class,1,0,9,0,2,9,1,43,1,0,116,84,0.72,7,7,45,44,0,0,76,48,0,0,243,2,1,1,1,0,0,0,0,1,60,83,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser,FeatureParser,Public Class,1,0,9,0,2,9,1,72,1,0,170,111,0.65,7,7,69,70,0,0,109,59,0,0,353,2,1,1,1,0,0,0,0,1,91,122,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.UpdateSite,UpdateSite,Public Class,9,0,3,0,1,3,1,15,0,0,35,1,0.03,6,6,17,15,0,0,9,9,9,5,51,1,1,0,9,82,82,0,0,9,13,23,9,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.UpdateSiteDigestParser,UpdateSiteDigestParser,Public Class,1,0,10,0,2,10,1,7,1,0,27,0,0,8,8,8,8,0,0,15,9,0,0,34,2,1,1,1,0,0,0,0,1,10,16,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteResolver,UpdateSiteResolver,Public Class,154,0,17,0,4,18,1,11,0,0,92,0,0,14,14,15,17,0,0,60,45,5,4,103,15,4,2,5,60,60,0,1,4,36,60,19,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteResolver.init.(Anon_1),(Anon_1),Anonymous Class,3,0,7,0,2,7,2,2,0,0,22,0,0,9,9,0,3,0,0,15,8,3,0,24,3,1,2,3,0,0,0,0,3,4,11,7,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.Archive,Archive,Public Class,2,1,2,1,1,4,1,5,0,0,6,2,0.33,1,1,3,3,0,0,0,0,2,0,13,1,1,0,2,0,0,0,0,2,0,3,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.CategoryDef,CategoryDef,Public Class,3,1,2,1,1,4,1,7,0,0,8,3,0.38,1,1,4,4,0,0,0,0,3,0,18,1,1,0,3,0,0,0,0,3,0,4,3,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser.CategoryHandler,CategoryHandler,Private Static Class,62,0,4,0,1,4,1,5,0,2,12,0,0,4,4,7,6,0,0,4,2,2,1,17,1,3,0,2,50,50,0,1,1,5,8,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser.FeatureHandler,FeatureHandler,Private Static Class,62,1,13,0,2,14,1,16,0,11,40,0,0,7,7,19,19,0,0,30,16,2,1,56,2,3,1,2,50,50,0,1,1,27,32,3,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser.FeatureHandler.FeatureHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,4,4,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser.SiteHandler,SiteHandler,Private Static Class,62,3,22,8,5,32,1,14,0,6,53,15,0.28,10,10,16,16,0,0,36,25,2,1,82,9,3,2,2,50,50,0,1,1,24,36,10,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.EclipseUpdateSiteParser.SiteHandler.SiteHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,4,4,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.CopyrightHandler,CopyrightHandler,Private Static Class,62,0,4,1,1,4,1,4,0,1,10,2,0.2,4,4,5,4,0,0,3,2,2,0,16,1,3,0,2,0,0,0,1,1,3,6,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.DescriptionHandler,DescriptionHandler,Private Static Class,62,0,4,1,1,4,1,4,0,1,10,2,0.2,4,4,5,4,0,0,3,2,2,0,16,1,3,0,2,0,0,0,1,1,3,6,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler,FeatureHandler,Static Class,62,1,27,2,1,29,1,20,0,15,71,4,0.06,11,11,22,27,0,0,57,27,2,1,95,1,3,0,2,50,50,0,1,1,42,52,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler.FeatureHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler.FeatureHandler.(Anon_2),(Anon_2),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler.FeatureHandler.(Anon_3),(Anon_3),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,5,5,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler.FeatureHandler.(Anon_4),(Anon_4),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,4,4,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.FeatureHandler.FeatureHandler.(Anon_5),(Anon_5),Anonymous Class,4,0,6,0,2,6,1,0,0,0,7,0,0,5,5,0,2,0,0,5,2,1,0,7,2,2,1,1,0,0,0,0,1,1,4,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.ImportHandler,ImportHandler,Private Static Class,62,1,7,0,1,8,1,11,0,6,22,0,0,6,6,12,11,0,0,14,8,2,1,33,1,3,0,2,50,50,0,1,1,15,18,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.LicenseHandler,LicenseHandler,Private Static Class,62,0,4,1,1,4,1,5,0,1,10,2,0.2,4,4,5,4,0,0,3,2,2,0,17,1,3,0,2,0,0,0,1,1,3,6,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.PluginHandler,PluginHandler,Private Static Class,62,1,7,0,1,8,1,11,0,6,23,0,0,6,6,13,12,0,0,15,9,2,1,34,1,3,0,2,50,50,0,1,1,16,19,2,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.RequiresHandler,RequiresHandler,Static Class,61,0,9,0,1,9,1,3,0,1,13,0,0,4,4,4,5,0,0,8,4,1,1,16,1,3,0,1,100,100,0,0,1,5,8,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.FeatureParser.RequiresHandler.RequiresHandler.(Anon_6),(Anon_6),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,3,3,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.UpdateSiteDigestParser.DigestHandler,DigestHandler,Static Class,61,0,11,0,1,11,1,4,0,1,15,0,0,5,5,4,5,0,0,9,4,1,1,19,1,3,0,1,0,0,0,0,1,6,9,1,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.xml.UpdateSiteDigestParser.DigestHandler.DigestHandler.(Anon_1),(Anon_1),Anonymous Class,4,0,4,0,1,4,1,0,0,0,5,0,0,4,4,0,1,0,0,4,1,1,0,5,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.xml.sax.DTDHandler,DTDHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.endElement.(Anon_4),(Anon_4),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.endElement.(Anon_5),(Anon_5),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,3,3,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.startElement.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.startElement.(Anon_2),(Anon_2),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.osgi.util.DelegatingHandler.startElement.(Anon_3),(Anon_3),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.xml.sax.ErrorHandler,ErrorHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.xml.sax.Locator,Locator,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.osgi.util.ParseUtil,ParseUtil,Public Class,1,8,35,11,8,54,1,9,1,0,37,12,0.32,5,5,11,12,0,0,29,22,0,0,58,8,1,2,1,0,0,0,0,1,21,31,8,No
+Ant-ivy,org.apache.ivy.osgi.util.VersionComparator,VersionComparator,Public Class,2,0,4,0,2,4,2,6,0,2,12,0,0,1,1,7,7,0,0,5,5,2,1,18,2,1,0,2,0,0,1,0,1,6,9,3,No
+Ant-ivy,org.apache.ivy.osgi.util.VersionRange.VersionRangeParser,VersionRangeParser,Class,12,0,13,1,4,14,1,16,0,0,164,24,0.15,6,6,24,24,2,0,119,83,12,4,204,14,1,3,12,65,10,10,0,0,72,104,47,No
+Ant-ivy,org.apache.ivy.osgi.util.ZipUtil,ZipUtil,Public Class,2,2,15,0,3,16,1,4,2,0,31,3,0.1,7,7,10,10,0,0,21,20,0,0,38,3,1,2,2,0,0,1,0,1,17,24,5,No
+Ant-ivy,org.apache.ivy.plugins.circular.AbstractCircularDependencyStrategy,AbstractCircularDependencyStrategy,Public Abstract Class,3,0,3,0,1,3,2,3,0,0,12,0,0,1,1,5,5,0,2,3,3,3,1,15,1,1,0,3,33,0,0,1,2,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.circular.AbstractLogCircularDependencyStrategy,AbstractLogCircularDependencyStrategy,Public Abstract Class,7,0,6,0,2,6,1,6,0,0,23,0,0,8,8,10,9,0,2,11,10,4,1,29,2,2,1,4,67,67,0,3,1,10,16,5,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestConflictManager.NoConflictResolvedYetException,NoConflictResolvedYetException,Public Static Class,0,0,0,0,0,0,1,0,0,0,3,0,0,1,1,2,1,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,1,0,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestConflictManager.IvyNodeArtifactInfo,IvyNodeArtifactInfo,Protected Static Final Class,4,0,4,1,1,5,2,4,0,0,20,3,0.15,4,4,7,7,0,0,8,7,4,1,27,2,1,1,4,0,0,1,0,3,7,13,5,No
+Ant-ivy,org.apache.ivy.plugins.conflict.StrictConflictException,StrictConflictException,Public Class,9,0,3,0,1,3,1,6,0,0,20,0,0,5,5,7,6,0,0,7,5,5,0,26,1,3,0,5,0,0,0,0,5,5,11,5,No
+Ant-ivy,org.apache.ivy.plugins.conflict.RegexpConflictManager,RegexpConflictManager,Public Class,14,0,7,0,2,8,1,11,0,0,62,17,0.27,11,11,19,19,0,0,36,28,8,2,90,4,2,2,8,75,31,4,0,4,24,41,15,No
+Ant-ivy,org.apache.ivy.plugins.latest.AbstractLatestStrategy,AbstractLatestStrategy,Public Abstract Class,4,0,5,1,2,6,2,5,0,0,24,2,0.08,6,6,10,9,0,2,10,10,4,1,31,3,1,2,4,25,25,0,0,4,9,16,6,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestLexicographicStrategy.(Anon_1),(Anon_1),Anonymous Class,1,0,17,0,5,17,1,0,0,0,18,0,0,2,2,3,3,0,0,13,11,1,0,18,5,2,1,1,0,0,0,0,1,7,12,5,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategy.ArtifactInfoComparator,ArtifactInfoComparator,Final Class,1,3,15,8,5,26,2,3,0,0,17,13,0.76,7,7,9,9,0,0,12,12,1,0,33,5,1,1,1,0,0,0,0,1,10,14,5,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategy.MridComparator,MridComparator,Final Class,2,2,25,1,7,27,2,4,0,0,52,5,0.1,6,6,13,13,0,0,36,36,2,0,61,13,1,3,2,0,0,1,0,1,28,40,14,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategy.SpecialMeaning,SpecialMeaning,Public Static Class,5,0,4,0,1,4,1,6,0,0,24,0,0,3,3,8,8,0,0,8,8,5,2,30,3,1,1,5,40,40,0,0,5,8,16,7,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestTimeStrategy.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,1,1,1,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.plugins.lock.AbstractLockStrategy,AbstractLockStrategy,Public Abstract Class,6,0,3,0,1,3,2,7,0,0,21,0,0,1,1,9,9,0,3,6,5,6,2,28,1,1,0,6,58,58,0,2,4,7,14,6,No
+Ant-ivy,org.apache.ivy.plugins.lock.ArtifactLockStrategy,ArtifactLockStrategy,Public Abstract Class,19,0,3,0,1,3,1,3,0,0,12,0,0,4,4,5,4,0,2,3,3,3,0,15,1,3,0,3,0,0,0,1,2,3,7,3,No
+Ant-ivy,org.apache.ivy.plugins.lock.FileBasedLockStrategy,FileBasedLockStrategy,Public Abstract Class,16,0,14,5,4,19,1,31,1,3,234,63,0.27,12,12,56,56,0,1,144,119,9,2,328,12,2,4,10,80,70,4,6,0,94,156,39,No
+Ant-ivy,org.apache.ivy.plugins.lock.FileBasedLockStrategy.CreateFileLocker,CreateFileLocker,Public Static Class,3,0,8,0,2,9,2,3,0,0,28,5,0.18,5,5,5,5,0,0,15,12,3,1,36,5,1,4,3,33,33,0,0,3,9,17,7,No
+Ant-ivy,org.apache.ivy.plugins.lock.DeleteOnExitHook,DeleteOnExitHook,Final Class,4,0,4,0,1,4,1,6,3,1,25,0,0,4,4,8,8,3,0,11,9,1,0,31,2,1,1,4,0,0,1,0,0,8,15,5,No
+Ant-ivy,org.apache.ivy.plugins.lock.DeleteOnExitHook.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,1,1,0,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.plugins.lock.FileBasedLockStrategy.NIOFileLocker,NIOFileLocker,Public Static Class,3,0,14,1,3,15,2,10,0,0,53,5,0.09,11,11,14,13,0,0,29,25,3,2,68,5,1,4,3,33,33,0,0,3,20,34,9,No
+Ant-ivy,org.apache.ivy.plugins.lock.FileBasedLockStrategy.NIOFileLocker.LockData,LockData,Private Static Class,1,0,4,0,1,4,1,2,0,0,8,0,0,2,2,4,4,1,0,2,2,1,2,10,1,1,0,1,0,0,0,0,0,4,6,1,No
+Ant-ivy,org.apache.ivy.plugins.matcher.AbstractPatternMatcher,AbstractPatternMatcher,Public Abstract Class,5,0,5,2,2,6,2,5,0,0,23,20,0.87,5,5,8,7,0,4,8,8,5,1,44,3,1,1,5,50,25,0,1,4,8,15,6,No
+Ant-ivy,org.apache.ivy.plugins.matcher.AnyMatcher,AnyMatcher,Public Class,3,0,4,0,1,4,2,4,0,1,14,4,0.29,2,2,5,5,0,0,5,5,3,0,21,2,1,1,3,0,0,0,0,3,4,9,4,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcher.ExactOrRegexpMatcher,ExactOrRegexpMatcher,Private Static Final Class,3,0,4,0,1,4,2,4,0,0,17,1,0.06,5,5,6,6,0,0,6,6,3,2,21,2,1,1,3,17,17,0,0,3,7,12,4,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactPatternMatcher.ExactMatcher,ExactMatcher,Private Static Class,3,0,4,0,1,4,2,3,0,0,15,1,0.07,2,2,5,5,0,0,5,5,3,1,18,2,1,1,3,33,33,0,0,3,5,10,4,No
+Ant-ivy,org.apache.oro.text.GlobCompiler,GlobCompiler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.matcher.GlobPatternMatcher,GlobPatternMatcher,Public Final Class,7,0,4,0,1,4,1,14,0,1,45,20,0.44,4,4,14,14,0,0,20,18,2,0,78,1,2,0,2,0,0,0,1,1,17,31,2,No
+Ant-ivy,org.apache.ivy.plugins.matcher.GlobPatternMatcher.GlobMatcher,GlobMatcher,Private Static Class,4,1,8,0,2,8,2,8,0,0,35,0,0,8,8,9,10,0,0,17,15,4,3,43,3,1,2,4,58,50,1,0,3,14,25,9,No
+Ant-ivy,org.apache.oro.text.regex.MalformedPatternException,MalformedPatternException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.oro.text.regex.Pattern,Pattern,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.oro.text.regex.Perl5Matcher,Perl5Matcher,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.matcher.RegexpPatternMatcher.RegexpMatcher,RegexpMatcher,Private Static Class,4,1,8,0,2,8,2,8,0,0,35,1,0.03,5,5,9,10,0,0,17,15,4,3,43,3,1,2,4,58,50,1,0,3,14,25,9,No
+Ant-ivy,org.apache.ivy.plugins.namespace.MRIDRule,MRIDRule,Public Class,11,0,3,0,1,3,1,14,0,0,40,0,0,1,1,16,16,0,0,12,12,11,4,54,2,1,0,11,66,66,0,0,11,16,28,12,No
+Ant-ivy,org.apache.ivy.plugins.namespace.MRIDTransformationRule,MRIDTransformationRule,Public Class,4,0,6,0,2,6,2,17,0,0,94,3,0.03,7,7,24,27,0,0,59,52,4,2,114,3,1,2,4,50,50,0,0,4,45,70,7,No
+Ant-ivy,org.apache.ivy.plugins.namespace.MRIDTransformationRule.MridRuleMatcher,MridRuleMatcher,Private Static Class,5,1,12,1,3,14,1,10,0,1,66,3,0.05,7,7,15,17,0,0,45,39,5,1,79,6,1,2,5,60,40,3,0,2,34,50,16,No
+Ant-ivy,org.apache.ivy.plugins.namespace.Namespace.(Anon_1),(Anon_1),Anonymous Class,2,0,9,0,3,9,2,1,0,0,18,0,0,4,4,2,4,0,0,13,10,2,0,19,5,1,2,2,0,0,0,0,2,6,13,6,No
+Ant-ivy,org.apache.ivy.plugins.namespace.Namespace.(Anon_2),(Anon_2),Anonymous Class,2,0,9,0,3,9,2,1,0,0,18,0,0,4,4,2,4,0,0,13,10,2,0,19,5,1,2,2,0,0,0,0,2,6,13,6,No
+Ant-ivy,org.apache.ivy.plugins.namespace.NamespaceRule,NamespaceRule,Public Class,8,0,4,0,1,4,1,11,0,0,36,0,0,3,3,13,13,0,0,12,12,8,4,47,2,1,1,8,75,75,0,0,8,14,25,10,No
+Ant-ivy,org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.AbstractParser,AbstractParser,Protected Static Abstract Class,28,1,8,1,2,9,1,50,0,1,235,23,0.1,22,22,69,66,0,1,132,116,28,7,304,15,2,7,28,88,69,5,17,6,92,161,64,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.DefaultPomDependencyMgt,DefaultPomDependencyMgt,Public Class,6,0,4,0,1,4,2,10,0,0,30,0,0,2,2,13,12,0,0,10,10,6,5,40,1,1,0,6,67,67,0,0,6,15,22,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.MavenVersionRangeParser,MavenVersionRangeParser,Class,4,0,22,4,6,26,1,49,4,1,253,101,0.4,9,9,80,76,2,0,139,126,0,0,400,14,1,4,4,0,0,2,0,0,117,182,22,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.MavenVersionRangeParser.BasicRange,BasicRange,Private Static Final Class,2,0,7,0,2,7,2,5,0,0,19,0,0,2,2,9,7,0,0,7,5,2,4,24,3,1,0,2,0,0,1,0,1,9,12,4,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.MavenVersionRangeParser.DeweyDecimal,DeweyDecimal,Private Static Final Class,13,1,8,6,3,15,1,30,0,0,111,77,0.69,6,6,39,37,0,0,58,55,13,1,215,6,1,3,13,31,0,0,0,13,53,84,37,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.MavenVersionRangeParser.MultiSetRange,MultiSetRange,Private Static Final Class,2,0,9,1,4,10,2,3,0,0,21,1,0.05,4,4,5,5,0,0,9,9,2,1,25,5,1,2,2,0,0,1,0,1,6,14,7,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder,PomModuleDescriptorBuilder,Public Class,36,0,11,1,3,12,1,87,11,9,565,52,0.09,47,47,156,152,0,0,373,261,25,4,702,17,1,4,36,79,75,10,0,26,221,359,99,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.(Anon_1),(Anon_1),Anonymous Class,1,1,10,2,2,13,2,1,0,0,11,2,0.18,1,1,0,1,0,0,9,6,1,0,14,2,1,1,1,0,0,0,0,1,5,7,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.(Anon_2),(Anon_2),Anonymous Class,1,0,13,0,2,13,2,0,0,0,14,0,0,1,1,0,1,0,0,12,9,1,0,14,2,1,1,1,0,0,0,0,1,8,10,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.(Anon_3),(Anon_3),Anonymous Class,1,1,11,0,2,12,2,1,0,0,12,0,0,1,1,0,1,0,0,10,7,1,0,13,2,1,1,1,0,0,0,0,1,6,8,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.(Anon_4),(Anon_4),Anonymous Class,1,0,4,1,1,5,2,0,0,0,5,1,0.2,1,1,0,1,0,0,4,2,1,0,6,1,1,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.(Anon_5),(Anon_5),Anonymous Class,1,0,3,1,1,4,2,0,0,0,4,1,0.25,1,1,0,1,0,0,3,1,1,0,5,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.PomDependencyDescriptor,PomDependencyDescriptor,Public Static Class,58,0,4,3,1,7,1,2,0,0,11,9,0.82,3,3,5,4,0,0,3,3,2,1,22,1,2,0,2,0,0,1,0,1,4,7,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.PomModuleDescriptor,PomModuleDescriptor,Public Static Class,92,0,4,0,1,4,1,4,0,0,20,1,0.05,9,9,8,7,0,0,9,7,4,2,25,1,2,0,4,63,63,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder.PomPluginElement,PomPluginElement,Private Static Class,6,0,3,0,1,3,2,8,0,0,25,1,0.04,3,3,10,10,0,0,8,8,6,3,33,1,1,0,6,67,67,0,0,6,11,18,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyData,PomDependencyData,Public Class,14,0,4,1,1,6,1,7,0,0,32,10,0.31,4,4,13,12,1,0,13,13,7,1,49,3,2,1,7,14,14,1,0,5,13,22,9,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader,PomReader,Public Class,28,0,11,1,3,12,1,138,5,29,622,66,0.11,33,33,231,237,0,0,393,337,23,3,824,6,1,3,28,68,56,9,0,19,317,471,76,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.PomDependencyMgtElement,PomDependencyMgtElement,Public Class,7,0,6,0,2,6,2,7,0,0,44,15,0.34,9,9,19,20,1,1,23,25,7,1,66,5,1,3,7,0,0,0,0,6,22,34,11,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.PomPluginElement,PomPluginElement,Public Class,6,0,4,0,1,4,2,6,0,0,24,2,0.08,5,5,11,11,1,0,9,9,6,1,30,1,1,0,6,33,33,0,0,5,10,17,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.PomProfileElement,PomProfileElement,Public Class,12,0,9,1,2,10,1,28,0,14,127,14,0.11,7,7,51,51,1,0,83,67,12,1,169,7,1,1,12,8,0,0,0,11,67,96,29,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter.(Anon_1),(Anon_1),Anonymous Class,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,6,5,0,0,8,0,2,0,0,0,0,0,0,0,5,5,0,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriter.IvyVariableContainerWrapper,IvyVariableContainerWrapper,Private Static Final Class,5,0,4,0,1,4,2,7,0,0,23,5,0.22,4,4,9,9,0,0,9,9,5,2,35,2,1,1,5,50,50,1,0,4,9,16,6,No
+Ant-ivy,org.w3c.dom.Document,Document,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.w3c.dom.Element,Element,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.xml.sax.EntityResolver,EntityResolver,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.w3c.dom.Node,Node,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.w3c.dom.NodeList,NodeList,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.AddDTDFilterInputStream,AddDTDFilterInputStream,Private Static Final Class,3,3,20,1,4,24,1,16,0,2,66,3,0.05,10,10,22,20,0,0,47,40,3,2,85,6,2,2,3,17,17,1,0,2,36,50,13,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomReader.PomReader.(Anon_1),(Anon_1),Anonymous Class,1,0,8,0,2,8,1,0,0,0,9,0,0,5,5,1,1,0,0,7,3,1,0,9,2,2,1,1,0,0,0,0,1,2,4,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser,Parser,Public Static Class,96,1,13,2,4,16,1,134,3,1,948,123,0.13,73,73,249,229,0,0,674,538,65,15,1204,31,3,3,68,91,88,4,54,10,431,657,238,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.Parser.State,State,Public Static Final Class,1,0,2,0,1,2,1,13,0,13,17,0,0,0,0,15,15,0,0,13,0,1,0,30,1,1,0,1,0,0,1,0,0,13,15,1,No
+Ant-ivy,org.apache.ivy.plugins.repository.file.FileResource,FileResource,Public Class,11,0,3,0,1,3,2,12,0,0,38,0,0,6,6,14,14,0,0,12,12,11,2,50,1,1,0,11,50,41,0,0,11,14,26,11,No
+Ant-ivy,org.apache.ivy.util.extendable.ExtendableItemHelper,ExtendableItemHelper,Public Final Class,8,1,9,5,2,14,1,17,7,1,71,39,0.55,11,11,31,26,0,0,41,37,1,0,127,3,1,2,8,0,0,1,0,7,34,51,16,No
+Ant-ivy,org.xml.sax.ext.LexicalHandler,LexicalHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ConfigurationPrinter,ConfigurationPrinter,Protected Static Class,1,0,3,0,1,3,2,2,0,1,6,0,0,4,4,3,3,0,0,2,2,1,0,8,1,1,0,1,0,0,0,0,1,2,4,1,Yes
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.DependencyPrinter,DependencyPrinter,Protected Static Class,1,0,3,0,1,3,2,2,0,1,6,3,0.5,4,4,3,3,0,0,2,2,1,0,11,1,1,0,1,0,0,0,0,1,2,4,1,Yes
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.ExtendedBuffer,ExtendedBuffer,Private Static Class,7,0,4,0,1,4,1,11,0,0,32,0,0,4,4,13,13,6,0,15,12,7,5,43,2,1,1,7,74,74,0,0,1,14,23,8,Yes
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.UpdaterHandler,UpdaterHandler,Private Static Class,42,1,19,3,5,23,2,125,0,5,857,136,0.16,45,45,193,203,0,0,617,517,42,29,1116,31,2,6,42,92,83,25,0,17,418,625,202,Yes
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorUpdater.UpdaterHandler.includeStarted.(Anon_1),(Anon_1),Anonymous Class,2,1,25,0,7,26,1,4,0,0,53,0,0,8,8,8,11,0,0,40,29,2,2,57,12,2,5,2,25,25,0,0,2,20,35,14,Yes
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportWriter,XmlReportWriter,Public Class,8,1,26,0,5,27,1,18,0,2,208,5,0.02,35,35,29,34,0,0,160,119,8,0,231,14,1,3,8,0,0,6,0,2,98,140,39,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportParser.SaxXmlReportParser,SaxXmlReportParser,Private Static Class,9,0,3,0,1,3,1,33,1,0,192,5,0.03,12,12,56,53,1,0,132,104,8,9,230,1,1,0,9,90,90,1,0,7,96,133,9,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportParser.SaxXmlReportParser.XmlReportParserHandler,XmlReportParserHandler,Private Final Class,3,1,47,1,10,49,1,15,0,0,153,5,0.03,22,22,36,33,0,0,115,88,3,11,173,24,2,4,3,61,61,1,0,2,77,104,31,No
+Ant-ivy,org.apache.ivy.plugins.repository.BasicResource,BasicResource,Public Class,9,0,4,0,1,4,2,14,0,0,40,0,0,4,4,16,15,0,0,14,13,9,5,54,1,1,0,9,78,76,0,0,9,18,28,9,No
+Ant-ivy,org.apache.ivy.plugins.repository.file.FileRepository,FileRepository,Public Class,39,0,5,0,2,5,1,19,0,0,95,0,0,11,11,24,25,1,1,48,43,17,3,114,4,2,3,17,84,69,1,1,14,35,64,27,No
+Ant-ivy,org.apache.ivy.plugins.repository.RepositoryCopyProgressListener,RepositoryCopyProgressListener,Public Class,6,0,4,0,1,4,2,7,0,0,27,0,0,3,3,9,9,0,1,11,9,6,2,34,2,1,1,6,42,42,0,0,6,10,18,7,No
+Ant-ivy,org.apache.ivy.plugins.repository.jar.JarRepository,JarRepository,Public Class,29,0,7,0,2,7,1,11,0,0,50,0,0,16,16,15,15,0,0,28,25,7,2,61,4,2,2,7,64,57,0,1,6,21,34,12,No
+Ant-ivy,org.apache.ivy.plugins.repository.jar.JarResource,JarResource,Public Class,9,0,3,0,1,3,2,12,0,0,34,1,0.03,5,5,13,13,0,0,11,11,9,3,47,1,1,0,9,59,48,0,0,9,14,24,9,No
+Ant-ivy,org.apache.ivy.plugins.repository.LazyResource,LazyResource,Public Abstract Class,14,0,4,0,1,4,2,20,0,0,58,0,0,1,1,21,21,0,1,23,22,14,6,78,2,1,1,14,86,74,1,6,7,28,43,14,No
+Ant-ivy,org.apache.ivy.util.CopyProgressEvent,CopyProgressEvent,Public Class,7,0,3,0,1,3,1,10,0,0,28,3,0.11,0,0,11,11,0,0,9,9,7,3,41,1,1,0,7,71,43,0,1,6,12,20,7,No
+Ant-ivy,org.apache.ivy.plugins.repository.sftp.SFTPRepository,SFTPRepository,Public Class,60,0,10,2,3,13,1,20,0,1,148,37,0.25,25,25,40,39,0,0,90,77,13,0,205,6,3,4,13,0,0,4,1,8,61,99,34,No
+Ant-ivy,org.apache.ivy.plugins.repository.sftp.SFTPRepository.MyProgressMonitor,MyProgressMonitor,Private Final Class,3,0,4,0,1,4,2,3,0,0,14,0,0,2,2,5,5,0,0,5,5,3,1,17,1,1,0,3,33,33,0,0,3,6,10,3,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.AbstractSshBasedRepository,AbstractSshBasedRepository,Public Abstract Class,47,0,7,4,2,11,1,39,0,2,180,106,0.59,18,18,51,51,0,2,110,87,25,9,324,12,2,3,25,91,86,2,3,20,78,123,44,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshCache,SshCache,Public Final Class,11,0,11,8,3,20,1,45,2,2,234,133,0.57,20,20,67,62,0,0,139,117,9,2,412,8,1,3,11,82,67,6,0,5,109,164,28,No
+Ant-ivy,org.apache.ivy.plugins.repository.sftp.SFTPResource,SFTPResource,Public Class,10,0,4,0,1,4,2,15,0,0,48,0,0,4,4,18,18,0,0,20,19,10,6,63,2,1,1,10,77,48,1,0,9,24,36,11,No
+Ant-ivy,org.apache.ivy.util.Credentials,Credentials,Public Class,11,0,4,1,1,4,1,15,1,0,48,9,0.19,2,2,16,16,0,0,18,18,10,4,72,2,1,1,11,75,57,1,0,10,20,34,13,No
+Ant-ivy,org.apache.ivy.util.CredentialsUtil,CredentialsUtil,Public Final Class,3,0,16,0,4,16,1,15,2,0,95,1,0.01,14,14,22,20,0,0,71,63,1,0,110,5,1,3,3,0,0,1,0,2,53,70,11,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.RemoteScpException,RemoteScpException,Public Class,4,0,3,3,1,5,1,6,0,1,14,14,1,2,2,6,6,0,0,4,3,4,0,34,1,2,0,4,0,0,0,0,4,4,9,4,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.Scp,Scp,Public Class,12,6,27,6,6,39,1,102,0,10,354,110,0.31,19,19,83,77,0,0,239,194,12,1,566,14,1,4,12,83,58,7,0,5,170,248,68,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.Scp.FileInfo,FileInfo,Public Class,6,0,3,4,1,7,1,8,0,0,23,21,0.91,1,1,10,10,0,0,6,6,6,3,52,1,1,0,6,67,67,0,0,6,9,16,6,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshCache.CfUserInfo,CfUserInfo,Private Static Class,8,0,6,0,2,6,3,14,0,0,56,3,0.05,5,5,21,17,0,0,26,23,8,6,73,3,1,2,8,71,63,0,0,8,25,38,12,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshCache.Entry,Entry,Private Class,8,0,5,3,1,8,1,12,0,0,50,24,0.48,9,9,14,15,0,0,28,21,8,5,86,3,1,2,8,70,70,1,0,7,23,36,11,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshCache.Entry.Entry.(Anon_1),(Anon_1),Anonymous Class,1,0,4,0,1,4,2,0,0,0,5,0,0,4,4,0,1,0,0,4,2,1,0,5,1,1,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshRepository,SshRepository,Public Class,69,0,12,5,3,17,1,37,0,3,274,128,0.47,24,24,80,79,0,0,190,148,22,5,439,13,3,3,22,87,85,5,1,16,141,197,62,No
+Ant-ivy,org.apache.ivy.plugins.repository.ssh.SshResource,SshResource,Public Class,12,0,5,0,1,5,2,18,0,0,67,23,0.34,5,5,21,20,0,0,37,31,12,6,108,2,1,1,12,63,43,1,0,11,34,50,15,No
+Ant-ivy,org.apache.ivy.plugins.repository.url.ChainedRepository,ChainedRepository,Public Class,30,0,8,0,2,8,1,10,0,0,68,1,0.01,8,8,13,16,0,0,40,34,8,1,79,4,2,3,8,50,50,4,0,4,27,48,17,No
+Ant-ivy,org.apache.ivy.util.url.ApacheURLLister,ApacheURLLister,Public Class,4,4,22,15,6,40,1,22,0,1,91,67,0.74,18,18,27,22,0,0,63,55,4,0,179,20,1,4,4,0,0,0,0,4,39,61,23,No
+Ant-ivy,org.apache.ivy.util.url.URLHandler.URLInfo,URLInfo,Class,6,0,4,0,1,4,1,9,0,0,28,0,0,1,1,12,11,0,0,9,9,6,4,37,1,1,0,6,67,50,0,2,4,13,20,6,No
+Ant-ivy,org.apache.commons.vfs2.FileContent,FileContent,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.vfs2.FileObject,FileObject,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.vfs2.FileSystemException,FileSystemException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.vfs2.FileSystemManager,FileSystemManager,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.vfs2.FileType,FileType,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.commons.vfs2.impl.StandardFileSystemManager,StandardFileSystemManager,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsRepository,VfsRepository,Public Class,31,0,10,7,2,17,1,15,0,1,94,65,0.69,22,22,21,24,0,0,62,52,9,2,174,3,2,2,9,78,56,2,1,6,44,68,19,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsRepository.createVFSManager.(Anon_1),(Anon_1),Anonymous Class,1,0,2,1,1,3,1,0,0,0,3,1,0.33,1,1,0,1,0,0,2,0,1,0,4,1,2,0,1,0,0,0,1,0,0,1,1,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsResource,VfsResource,Public Class,14,0,6,3,2,10,2,23,1,0,98,50,0.51,13,13,24,25,0,0,54,48,13,8,169,4,1,3,14,83,35,1,0,13,48,72,22,No
+Ant-ivy,org.apache.ivy.plugins.resolver.VfsResolver,VfsResolver,Public Class,186,0,7,0,2,7,1,6,1,2,30,4,0.13,7,7,15,14,0,0,16,16,3,0,39,3,5,2,4,0,0,0,0,4,16,23,6,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository,VsftpRepository,Public Class,67,0,12,1,2,13,1,92,1,18,573,57,0.1,30,30,124,119,0,0,378,290,44,16,719,15,2,5,45,94,57,11,17,17,258,388,106,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository.ensureConnectionOpened.(Anon_3),(Anon_3),Anonymous Class,11,0,16,1,4,17,1,0,0,0,17,1,0.06,2,2,1,2,0,0,13,8,1,0,18,4,3,3,1,0,0,0,0,1,6,10,4,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository.ensureConnectionOpened.(Anon_4),(Anon_4),Anonymous Class,1,0,4,0,1,4,2,0,0,0,5,0,0,3,3,0,1,0,0,4,2,1,0,5,1,1,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository.exec.(Anon_5),(Anon_5),Anonymous Class,11,0,11,3,3,14,1,0,0,0,12,3,0.25,2,2,1,2,0,0,8,5,1,0,15,3,3,2,1,0,0,0,0,1,4,7,3,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository.get.(Anon_1),(Anon_1),Anonymous Class,11,0,8,0,2,8,1,0,0,0,9,0,0,2,2,1,1,0,0,7,4,1,0,9,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpRepository.readResponse.(Anon_2),(Anon_2),Anonymous Class,1,1,56,5,13,62,1,1,0,0,57,5,0.09,4,4,4,4,0,0,42,31,1,0,63,13,2,4,1,0,0,0,0,1,21,35,13,No
+Ant-ivy,org.apache.ivy.plugins.repository.vsftp.VsftpResource,VsftpResource,Public Class,18,0,6,0,2,6,1,5,0,0,26,0,0,7,7,6,6,0,0,13,10,4,1,31,2,2,1,4,25,25,0,1,3,9,16,6,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractPatternsBasedResolver,AbstractPatternsBasedResolver,Public Abstract Class,157,1,9,0,2,10,1,50,0,0,256,18,0.07,29,29,74,67,0,1,155,137,31,3,324,11,3,3,31,86,65,1,16,14,111,178,59,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractResolver.ResolverParserSettings,ResolverParserSettings,Private Class,14,0,3,0,1,3,2,14,0,0,45,0,0,16,16,16,15,0,0,14,14,14,0,59,1,1,0,14,0,0,0,0,14,14,29,14,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractResolver.getDownloadListener.(Anon_1),(Anon_1),Anonymous Class,3,0,8,0,2,8,2,2,0,0,26,0,0,13,13,0,3,0,0,19,9,3,0,28,3,1,1,3,0,0,0,0,3,5,12,7,No
+Ant-ivy,org.apache.ivy.plugins.resolver.ChainResolver.ResolvedModuleRevisionArtifactInfo,ResolvedModuleRevisionArtifactInfo,Public Static Class,3,0,3,0,1,3,2,3,0,0,12,0,0,3,3,5,5,0,0,3,3,3,1,15,1,1,0,3,0,0,0,0,3,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractSshBasedResolver,AbstractSshBasedResolver,Public Abstract Class,195,0,4,5,1,9,1,14,0,0,47,76,1.62,5,5,16,15,0,2,18,15,13,1,137,2,5,1,13,83,83,1,0,12,16,30,13,No
+Ant-ivy,org.apache.ivy.plugins.resolver.RepositoryResolver,RepositoryResolver,Public Class,182,0,10,1,2,11,1,35,0,0,260,22,0.08,41,41,76,57,0,7,157,123,25,3,317,8,4,6,25,72,68,2,11,12,96,157,54,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.(Anon_5),(Anon_5),Anonymous Class,1,0,4,0,1,4,2,0,0,0,5,0,0,4,4,1,1,0,0,4,2,1,0,5,1,1,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.(Anon_6),(Anon_6),Anonymous Class,1,1,18,0,5,19,2,1,0,0,19,0,0,7,7,2,2,0,0,14,10,1,0,20,5,1,2,1,0,0,0,0,1,6,11,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.UnresolvedDependencyException,UnresolvedDependencyException,Private Static Class,4,0,3,3,1,6,1,5,0,1,17,17,1,1,1,7,7,0,0,6,5,4,1,39,1,2,0,4,50,0,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.cacheModuleDescriptor.(Anon_1),(Anon_1),Anonymous Class,1,0,13,2,3,15,2,0,0,0,14,2,0.14,9,9,1,2,0,0,11,6,1,0,16,3,1,2,1,0,0,0,0,1,4,7,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.download.(Anon_4),(Anon_4),Anonymous Class,1,0,12,0,3,12,2,0,0,0,13,0,0,9,9,2,3,0,0,10,7,1,0,13,3,1,2,1,0,0,0,0,1,5,8,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.getDefaultRMDParser.(Anon_3),(Anon_3),Anonymous Class,1,0,10,0,1,10,2,0,0,0,11,0,0,10,10,4,3,0,0,10,5,1,0,11,1,1,0,1,0,0,0,0,1,5,6,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BasicResolver.getRMDParser.(Anon_2),(Anon_2),Anonymous Class,1,0,12,0,3,12,2,0,0,0,13,0,0,8,8,2,2,0,0,10,6,1,0,13,3,1,2,1,0,0,0,0,1,4,7,3,No
+Ant-ivy,org.apache.ivy.util.ChecksumHelper,ChecksumHelper,Public Final Class,8,1,11,4,3,15,1,22,7,3,109,34,0.31,15,15,27,26,0,0,71,57,1,0,159,7,1,5,8,0,0,4,0,4,46,74,21,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BintrayResolver,BintrayResolver,Public Class,226,0,6,0,2,6,1,12,0,3,39,8,0.21,3,3,12,12,0,0,21,18,5,3,56,3,7,1,5,67,27,2,0,3,21,30,8,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IBiblioResolver,IBiblioResolver,Public Class,221,0,11,2,2,13,1,48,0,5,430,80,0.19,41,41,119,87,0,2,267,213,37,4,556,8,6,5,37,88,45,8,4,25,172,268,89,No
+Ant-ivy,org.apache.ivy.plugins.resolver.CacheResolver,CacheResolver,Public Class,217,0,10,0,2,10,1,15,0,0,134,2,0.01,29,29,40,27,0,0,85,68,13,0,151,6,6,3,13,0,0,1,0,12,59,85,23,No
+Ant-ivy,org.apache.ivy.plugins.resolver.FileSystemResolver,FileSystemResolver,Public Class,204,0,10,0,2,10,1,34,0,2,236,26,0.11,21,21,58,46,0,2,148,106,22,6,295,8,5,4,22,84,66,6,2,14,87,137,48,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IBiblioResolver.findTimestampedSnapshotVersion.(Anon_1),(Anon_1),Anonymous Class,6,0,11,0,3,11,1,0,0,0,12,0,0,4,4,0,1,0,0,9,5,1,0,12,3,3,1,1,0,0,0,0,1,3,6,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IBiblioResolver.listRevisionsWithMavenMetadata.(Anon_2),(Anon_2),Anonymous Class,6,0,8,0,2,8,1,0,0,0,9,0,0,4,4,0,1,0,0,7,3,1,0,9,2,3,1,1,0,0,0,0,1,2,4,2,No
+Ant-ivy,org.apache.ivy.plugins.version.MavenTimedSnapshotVersionMatcher,MavenTimedSnapshotVersionMatcher,Public Class,14,0,11,5,3,16,1,12,1,2,71,54,0.76,7,7,23,21,0,0,37,35,3,0,137,5,2,1,4,0,0,0,0,4,30,49,12,No
+Ant-ivy,org.apache.ivy.util.ContextualSAXHandler,ContextualSAXHandler,Public Class,5,0,4,0,1,4,1,8,0,0,25,0,0,7,7,12,8,0,2,9,9,5,2,33,1,2,0,5,30,30,0,2,3,9,15,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.URLResolver,URLResolver,Public Class,184,0,4,0,1,4,1,2,0,0,9,4,0.44,4,4,4,3,0,3,2,2,2,0,15,1,5,0,2,0,0,0,0,2,2,5,2,No
+Ant-ivy,org.apache.ivy.plugins.version.MavenTimedSnapshotVersionMatcher.MavenSnapshotRevision,MavenSnapshotRevision,Public Static Final Class,4,0,5,6,2,11,1,5,0,0,25,29,1.16,2,2,8,8,0,0,10,10,4,3,59,3,1,1,4,50,50,1,0,3,11,18,6,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IvyRepResolver,IvyRepResolver,Public Class,212,0,8,0,2,8,1,33,0,1,218,19,0.09,33,33,57,46,0,0,124,102,28,4,270,6,6,3,28,85,59,6,0,22,85,138,49,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IvyRepResolver.listOrganisations.(Anon_1),(Anon_1),Anonymous Class,1,0,10,0,3,10,1,0,0,0,11,0,0,6,6,1,2,0,0,8,4,1,0,11,3,2,2,1,0,0,0,0,1,2,5,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.JarResolver,JarResolver,Public Class,189,0,8,0,2,8,1,8,0,0,61,1,0.02,20,20,16,14,0,0,33,26,7,1,70,5,5,2,7,71,71,1,0,6,22,37,13,No
+Ant-ivy,org.apache.ivy.plugins.resolver.LazyTimeoutConstraint,LazyTimeoutConstraint,Final Class,3,0,4,0,2,4,2,4,0,0,16,6,0.38,2,2,9,7,0,0,5,5,3,1,26,2,1,0,3,0,0,0,0,3,6,10,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.MirroredURLResolver,MirroredURLResolver,Public Class,189,0,9,0,2,9,1,8,0,0,66,0,0,21,21,23,21,0,0,39,32,7,1,74,5,5,2,7,57,43,3,0,4,28,44,13,No
+Ant-ivy,org.apache.ivy.plugins.resolver.packager.BuiltFileResource,BuiltFileResource,Public Class,11,0,3,0,1,3,2,13,0,1,37,7,0.19,7,7,14,14,0,0,12,11,11,1,57,1,1,0,11,36,9,0,0,11,13,25,11,No
+Ant-ivy,org.apache.tools.ant.BuildLogger,BuildLogger,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.DefaultLogger,DefaultLogger,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.resolver.packager.PackagerCacheEntry,PackagerCacheEntry,Public Class,10,1,12,4,3,17,1,31,1,0,133,42,0.32,23,23,30,28,0,0,84,73,9,10,206,13,1,2,10,72,69,2,3,5,68,95,26,No
+Ant-ivy,org.apache.tools.ant.ProjectHelper,ProjectHelper,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.resolver.packager.PackagerResolver,PackagerResolver,Public Class,203,0,6,4,2,10,1,37,0,3,126,78,0.62,18,18,38,39,0,0,68,54,19,10,241,6,6,2,19,87,87,0,1,18,54,87,30,No
+Ant-ivy,org.apache.ivy.plugins.resolver.packager.PackagerResolver.PackagerResolver.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,1,0,0,0,4,0,0,1,1,0,1,0,0,3,1,1,0,4,1,2,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.SFTPResolver,SFTPResolver,Public Class,198,0,3,0,1,3,1,3,0,0,12,6,0.5,4,4,5,4,0,0,3,3,3,0,21,1,6,0,3,0,0,0,0,3,3,7,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.SshResolver,SshResolver,Public Class,202,0,4,6,1,9,1,7,0,0,28,42,1.5,5,5,9,8,0,0,10,9,7,0,77,2,6,1,7,0,0,0,0,7,8,17,8,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.ApacheHttpURLLister,ApacheHttpURLLister,Public Class,3,0,3,0,1,3,2,3,0,0,13,0,0,6,6,6,5,0,0,4,4,3,1,16,1,1,0,3,67,67,0,0,3,4,8,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.FileURLLister,FileURLLister,Public Class,5,0,7,0,2,7,2,5,0,0,36,1,0.03,10,10,13,13,0,0,18,16,5,1,42,6,1,2,5,60,40,0,0,5,15,25,10,No
+Ant-ivy,org.apache.ivy.plugins.resolver.VsftpResolver,VsftpResolver,Public Class,194,0,3,0,1,3,1,11,0,0,39,4,0.1,4,4,14,13,0,0,12,12,12,0,54,1,5,0,12,0,0,0,0,12,12,25,12,No
+Ant-ivy,org.bouncycastle.bcpg.ArmoredOutputStream,ArmoredOutputStream,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.bcpg.BCPGOutputStream,BCPGOutputStream,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.operator.bc.BcKeyFingerprintCalculator,BcKeyFingerprintCalculator,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.operator.bc.BcPBESecretKeyDecryptorBuilder,BcPBESecretKeyDecryptorBuilder,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.operator.bc.BcPGPContentSignerBuilder,BcPGPContentSignerBuilder,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.operator.bc.BcPGPDigestCalculatorProvider,BcPGPDigestCalculatorProvider,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.jce.provider.BouncyCastleProvider,BouncyCastleProvider,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator,OpenPGPSignatureGenerator,Public Class,8,1,12,0,3,13,2,26,0,1,104,0,0,26,26,32,28,0,0,63,48,8,5,130,11,1,3,8,78,75,1,0,7,43,68,25,No
+Ant-ivy,org.bouncycastle.openpgp.operator.PBESecretKeyDecryptor,PBESecretKeyDecryptor,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPException,PGPException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPPrivateKey,PGPPrivateKey,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPSecretKey,PGPSecretKey,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPSecretKeyRing,PGPSecretKeyRing,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPSecretKeyRingCollection,PGPSecretKeyRingCollection,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPSignature,PGPSignature,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPSignatureGenerator,PGPSignatureGenerator,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.bouncycastle.openpgp.PGPUtil,PGPUtil,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.trigger.LogTrigger,LogTrigger,Public Class,15,0,7,6,2,13,1,10,0,1,50,41,0.82,13,13,14,14,0,0,30,20,6,4,101,6,2,4,6,67,54,0,1,5,20,32,11,No
+Ant-ivy,org.apache.ivy.plugins.version.AbstractVersionMatcher,AbstractVersionMatcher,Public Abstract Class,10,0,3,1,1,4,3,12,0,0,35,9,0.26,6,6,14,13,0,8,10,10,10,2,56,1,1,0,10,75,70,0,0,10,12,23,10,No
+Ant-ivy,org.apache.ivy.plugins.version.Match,Match,Public Class,11,1,6,0,2,6,1,25,1,0,76,3,0.04,14,14,29,30,0,0,36,36,10,4,104,3,1,1,11,80,75,2,0,9,34,56,17,No
+Ant-ivy,org.apache.ivy.plugins.version.Match.NoMatchMatcher,NoMatchMatcher,Private Static Class,2,0,3,0,1,3,2,1,0,0,8,0,0,1,1,3,3,0,0,2,2,2,0,9,1,1,0,2,0,0,0,0,2,2,5,2,No
+Ant-ivy,org.apache.ivy.plugins.version.PatternVersionMatcher,PatternVersionMatcher,Public Class,14,1,11,2,3,14,1,12,0,0,50,10,0.2,8,8,16,18,0,0,32,30,4,3,72,5,2,3,4,50,17,1,0,3,24,39,12,No
+Ant-ivy,org.apache.ivy.plugins.version.VersionRangeMatcher.(Anon_1),(Anon_1),Anonymous Class,1,0,10,0,3,10,1,0,0,0,11,0,0,5,5,5,4,0,0,9,6,1,0,11,3,2,1,1,0,0,0,0,1,5,7,3,No
+Ant-ivy,org.apache.ivy.plugins.version.VersionRangeMatcher.MRIDArtifactInfo,MRIDArtifactInfo,Private Final Class,3,0,3,0,1,3,2,3,0,0,12,0,0,2,2,5,5,0,0,3,3,3,1,15,1,1,0,3,33,33,0,0,3,4,8,3,No
+Ant-ivy,org.apache.ivy.tools.analyser.JarModule,JarModule,Public Class,4,0,3,0,1,3,1,6,0,0,17,0,0,3,3,7,7,0,0,5,5,4,2,23,1,1,0,4,25,25,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.tools.analyser.JarJarDependencyAnalyser,JarJarDependencyAnalyser,Public Class,3,2,17,0,3,19,2,10,1,0,54,0,0,18,18,22,19,0,0,39,31,2,1,64,6,1,3,3,33,0,0,0,3,28,38,8,No
+Ant-ivy,org.apache.ivy.tools.analyser.JarModuleFinder,JarModuleFinder,Public Class,3,0,12,1,3,13,1,5,1,0,40,2,0.05,12,12,16,16,0,0,24,18,2,2,46,6,1,5,3,33,0,0,0,3,14,28,9,No
+Ant-ivy,org.apache.ivy.tools.analyser.RepositoryAnalyser,RepositoryAnalyser,Public Class,2,1,14,0,3,15,1,2,1,0,30,0,0,11,11,10,10,0,0,21,14,1,0,32,3,1,2,2,0,0,0,0,2,13,20,5,No
+Ant-ivy,org.apache.ivy.util.MessageLoggerHelper,MessageLoggerHelper,Public Final Class,2,0,14,1,4,14,1,1,1,0,30,1,0.03,4,4,6,8,0,0,18,17,1,0,31,7,1,3,2,0,0,1,0,1,11,22,8,No
+Ant-ivy,org.apache.ivy.util.cli.Option,Option,Public Class,11,0,7,0,2,7,1,16,0,0,85,0,0,7,7,23,24,2,0,44,41,11,6,101,7,1,3,11,76,70,2,0,7,39,62,21,No
+Ant-ivy,org.apache.ivy.util.CollectionUtils,CollectionUtils,Public Class,1,0,7,0,2,7,1,1,1,0,9,0,0,3,3,3,3,0,0,4,4,0,0,10,2,1,1,1,0,0,0,0,1,3,6,2,No
+Ant-ivy,org.apache.ivy.util.Configurator.Attribute,Attribute,Public Static Class,4,0,3,0,1,3,1,5,0,0,16,0,0,1,1,7,7,0,0,4,4,4,2,21,1,1,0,4,50,50,0,0,4,6,11,4,No
+Ant-ivy,org.apache.ivy.util.Configurator.Element,Element,Public Static Class,4,0,3,0,1,3,1,5,0,0,16,0,0,1,1,7,7,0,0,5,4,4,2,21,1,1,0,4,50,50,0,0,4,6,11,4,No
+Ant-ivy,org.apache.ivy.util.Configurator.Macro,Macro,Public Static Class,4,0,6,0,2,6,1,7,0,0,28,0,0,9,9,10,10,0,0,15,14,4,3,35,2,1,1,4,42,42,0,0,4,13,20,6,No
+Ant-ivy,org.apache.ivy.util.Configurator.MacroRecord,MacroRecord,Public Static Class,8,0,4,0,1,4,1,11,0,0,34,0,0,5,5,15,15,0,0,14,14,8,4,45,1,1,0,8,75,66,0,0,8,16,25,8,No
+Ant-ivy,org.apache.ivy.util.Configurator.ObjectDescriptor,ObjectDescriptor,Private Static Class,16,0,6,0,2,6,1,23,0,0,106,1,0.01,7,7,33,33,0,0,60,53,16,8,130,10,1,3,16,88,83,3,0,13,42,74,29,No
+Ant-ivy,org.apache.ivy.util.CredentialsUtil.CredentialPanel,CredentialPanel,Private Static Final Class,1,7,39,1,5,46,1,11,0,1,46,1,0.02,11,11,11,9,1,0,38,34,1,3,57,5,2,1,1,0,0,0,0,0,32,37,5,No
+Ant-ivy,org.apache.ivy.util.EncryptedProperties,EncryptedProperties,Public Class,7,0,4,0,1,4,1,7,0,0,28,7,0.25,6,6,10,10,0,1,10,10,7,0,42,2,2,1,7,0,0,0,0,7,9,19,8,No
+Ant-ivy,org.apache.ivy.util.EncrytedProperties,EncrytedProperties,Public Class,7,0,0,0,0,0,1,0,0,0,4,3,0.75,2,2,3,1,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0,1,0,No
+Ant-ivy,org.apache.ivy.util.FileResolver.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,1,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.util.FileUtil.DissectedPath,DissectedPath,Private Static Final Class,2,0,5,0,1,5,1,3,0,0,13,0,0,2,2,6,5,0,0,4,3,2,2,16,1,1,0,2,0,0,1,0,1,5,8,2,No
+Ant-ivy,org.apache.ivy.util.FileUtil.UncloseInputStream,UncloseInputStream,Private Static Final Class,13,0,4,0,1,4,1,15,0,0,53,5,0.09,3,3,27,15,0,0,12,12,13,1,73,1,2,0,13,8,8,0,0,13,13,27,13,No
+Ant-ivy,org.apache.ivy.util.filter.ArtifactTypeFilter,ArtifactTypeFilter,Public Class,2,0,3,0,1,3,2,2,0,0,9,0,0,3,3,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.url.AbstractURLHandler,AbstractURLHandler,Public Abstract Class,14,1,9,1,2,10,2,25,1,2,124,16,0.13,19,19,36,27,0,3,76,50,13,0,165,9,1,2,14,86,86,0,6,8,46,70,30,No
+Ant-ivy,org.apache.ivy.util.url.AbstractURLHandler.createTimeoutConstraints.(Anon_1),(Anon_1),Anonymous Class,2,0,4,0,1,4,2,1,0,0,9,0,0,2,2,0,2,0,0,7,2,2,0,10,1,1,0,2,0,0,0,0,2,2,4,2,No
+Ant-ivy,org.apache.ivy.util.url.BasicURLHandler,BasicURLHandler,Public Class,30,1,16,2,4,19,2,41,1,1,266,33,0.12,22,22,79,58,0,0,170,135,15,0,340,10,2,3,16,0,0,3,0,13,109,169,60,No
+Ant-ivy,org.apache.ivy.util.url.BasicURLHandler.HttpStatus,HttpStatus,Private Static Final Class,1,0,2,0,1,2,1,2,0,2,6,0,0,0,0,4,4,0,0,2,0,1,0,8,1,1,0,1,0,0,1,0,0,2,4,1,No
+Ant-ivy,org.apache.ivy.util.url.IvyAuthenticator,IvyAuthenticator,Public Final Class,9,1,9,3,2,13,1,18,6,1,88,29,0.33,10,10,23,22,1,0,57,43,3,1,135,6,2,2,9,83,78,6,1,1,36,56,21,No
+Ant-ivy,org.apache.http.auth.AuthSchemeProvider,AuthSchemeProvider,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.config.AuthSchemes,AuthSchemes,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.auth.AuthScope,AuthScope,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.auth.BasicSchemeFactory,BasicSchemeFactory,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.client.CloseableHttpClient,CloseableHttpClient,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.methods.CloseableHttpResponse,CloseableHttpResponse,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.entity.ContentType,ContentType,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.auth.Credentials,Credentials,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.CredentialsProvider,CredentialsProvider,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.auth.DigestSchemeFactory,DigestSchemeFactory,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.entity.FileEntity,FileEntity,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.Header,Header,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.conn.HttpClientConnectionManager,HttpClientConnectionManager,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.util.url.HttpClientHandler,HttpClientHandler,Public Class,40,0,8,1,2,9,3,37,4,2,278,25,0.09,47,47,96,68,0,0,162,121,22,1,340,9,2,3,26,81,38,12,0,14,104,160,52,No
+Ant-ivy,org.apache.ivy.util.url.HttpClientHandler.(Anon_1),(Anon_1),Anonymous Class,1,0,7,1,2,8,1,0,0,0,8,1,0.13,3,3,1,1,0,0,6,2,1,0,9,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.util.url.HttpClientHandler.IvyCredentialsProvider,IvyCredentialsProvider,Private Static Class,4,0,9,0,2,9,2,5,1,0,40,0,0,10,10,15,12,0,0,21,20,3,1,45,3,1,1,4,50,50,1,0,3,18,27,8,No
+Ant-ivy,org.apache.http.impl.client.HttpClients,HttpClients,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.HttpEntity,HttpEntity,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.methods.HttpGet,HttpGet,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.methods.HttpHead,HttpHead,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.methods.HttpPut,HttpPut,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.HttpResponse,HttpResponse,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.conn.routing.HttpRoutePlanner,HttpRoutePlanner,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.HttpStatus,HttpStatus,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.config.Lookup,Lookup,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.auth.NTCredentials,NTCredentials,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.auth.NTLMSchemeFactory,NTLMSchemeFactory,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.conn.PoolingHttpClientConnectionManager,PoolingHttpClientConnectionManager,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.config.RegistryBuilder,RegistryBuilder,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.client.config.RequestConfig,RequestConfig,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.http.impl.conn.SystemDefaultRoutePlanner,SystemDefaultRoutePlanner,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.util.url.URLHandlerDispatcher.createTimeoutConstraints.(Anon_1),(Anon_1),Anonymous Class,2,0,4,0,1,4,2,1,0,0,9,0,0,2,2,0,2,0,0,7,2,2,0,10,1,1,0,2,0,0,0,0,2,2,4,2,No
+Ant-ivy,org.xml.sax.SAXNotRecognizedException,SAXNotRecognizedException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.resolver.CustomResolver,CustomResolver,Public Class,221,0,0,0,0,0,1,1,0,0,2,5,2.5,0,0,1,1,0,0,0,0,0,0,8,0,7,0,0,0,0,0,0,0,0,1,0,No
+Ant-ivy,org.apache.ivy.ant.AntBuildResolverTest,AntBuildResolverTest,Public Class,8,2,17,0,1,18,1,25,0,2,142,0,0,20,20,40,30,0,0,113,95,8,3,167,1,1,0,8,54,54,0,0,8,98,107,8,No
+Ant-ivy,org.apache.ivy.TestHelper,TestHelper,Public Class,22,0,9,7,2,17,1,31,22,1,247,165,0.67,43,43,85,74,0,0,156,121,0,0,443,6,1,4,22,91,91,0,0,22,111,167,33,Yes
+Ant-ivy,org.apache.ivy.ant.AntBuildTriggerTest,AntBuildTriggerTest,Public Class,2,2,7,1,1,9,1,4,0,0,16,1,0.06,7,7,7,5,0,0,8,8,2,0,21,1,1,0,2,0,0,0,0,2,8,11,2,No
+Ant-ivy,org.apache.ivy.ant.AntCallTriggerTest,AntCallTriggerTest,Public Class,9,2,11,6,2,19,1,28,0,0,99,58,0.59,23,23,26,21,0,0,69,53,9,0,185,5,1,3,9,0,0,7,0,2,54,71,16,No
+Ant-ivy,org.apache.tools.ant.input.DefaultInputHandler,DefaultInputHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.DemuxInputStream,DemuxInputStream,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.DemuxOutputStream,DemuxOutputStream,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.input.InputHandler,InputHandler,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.tools.ant.Main,Main,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.BuildOBRTaskTest,BuildOBRTaskTest,Public Class,7,1,8,0,1,10,1,20,0,0,61,0,0,18,18,24,19,0,0,36,36,7,2,81,1,1,1,7,57,57,2,0,5,38,47,7,No
+Ant-ivy,org.junit.Assume,Assume,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.FileUtilTest,FileUtilTest,Public Class,4,3,16,7,2,25,1,16,1,1,68,31,0.46,15,15,28,24,0,0,52,47,3,0,115,2,1,1,4,50,50,0,0,4,46,54,6,No
+Ant-ivy,org.apache.ivy.ant.FixDepsTaskTest,FixDepsTaskTest,Public Class,7,3,22,0,1,25,1,30,0,0,157,0,0,19,19,32,22,0,0,132,126,7,2,187,2,1,1,7,29,29,1,0,6,127,137,8,No
+Ant-ivy,org.apache.tools.ant.BuildFileRule,BuildFileRule,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyAntSettingsBuildFileTest,IvyAntSettingsBuildFileTest,Public Class,6,0,7,2,1,9,1,7,0,0,47,10,0.21,5,5,19,12,0,0,26,25,6,1,64,1,1,0,6,0,0,0,0,6,25,32,6,No
+Ant-ivy,org.apache.ivy.ant.IvyArtifactPropertyTest,IvyArtifactPropertyTest,Public Class,5,1,10,1,1,12,1,11,0,0,55,4,0.07,13,13,16,11,0,0,36,34,5,2,70,1,1,0,5,30,30,0,0,5,36,42,5,No
+Ant-ivy,org.apache.ivy.ant.IvyArtifactReportTest,IvyArtifactReportTest,Public Class,3,1,7,0,1,7,1,7,0,0,24,0,0,9,9,9,6,0,0,11,11,3,2,31,1,1,0,3,50,50,0,0,3,13,17,3,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildListTest,IvyBuildListTest,Public Class,27,3,12,1,1,15,1,122,0,0,320,24,0.07,15,15,100,78,0,0,237,229,27,3,447,2,1,1,27,67,65,4,0,23,233,262,28,No
+Ant-ivy,org.apache.ivy.ant.IvyBuildNumberTest,IvyBuildNumberTest,Public Class,14,0,10,0,1,11,1,19,0,0,149,5,0.03,7,7,33,19,0,0,104,104,14,1,173,1,1,0,14,7,7,0,0,14,105,120,14,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Delete,Delete,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.junit.rules.ExpectedException,ExpectedException,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyCacheFilesetTest,IvyCacheFilesetTest,Public Class,17,0,10,1,1,12,1,26,0,0,175,25,0.14,20,20,71,52,0,0,117,92,17,3,226,2,1,1,17,53,53,3,0,14,97,118,19,No
+Ant-ivy,org.apache.ivy.ant.IvyCachePathTest,IvyCachePathTest,Public Class,16,1,15,1,1,16,1,34,0,0,237,10,0.04,14,14,68,52,0,0,185,165,16,2,281,1,1,0,16,9,9,1,0,15,177,194,16,No
+Ant-ivy,org.apache.ivy.ant.IvyCleanCacheTest,IvyCleanCacheTest,Public Class,6,0,10,1,1,11,1,12,0,0,68,3,0.04,11,11,22,15,0,0,42,41,6,6,83,1,1,0,6,36,36,0,0,6,46,53,6,No
+Ant-ivy,org.apache.ivy.ant.IvyConfigureTest,IvyConfigureTest,Public Class,16,2,12,2,1,16,1,57,0,0,203,26,0.13,22,22,66,46,0,0,148,132,16,3,286,2,1,1,16,52,35,1,0,15,134,153,17,No
+Ant-ivy,org.apache.ivy.ant.IvyConfigureTest.getIvyInstance.(Anon_1),(Anon_1),Anonymous Class,30,0,2,0,1,2,1,0,0,0,3,0,0,1,1,1,1,0,0,2,0,1,0,3,1,3,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.ant.IvyConvertPomTest,IvyConvertPomTest,Public Class,1,2,10,7,1,19,1,3,0,0,12,12,1,6,6,5,4,0,0,7,7,1,0,27,1,1,0,1,0,0,0,0,1,7,9,1,No
+Ant-ivy,org.apache.ivy.ant.IvyDeliverTest,IvyDeliverTest,Public Class,20,2,22,2,1,26,1,68,0,0,434,47,0.11,32,32,138,109,0,0,368,310,20,2,549,3,1,3,20,20,20,3,0,17,312,340,24,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyTreeTest,IvyDependencyTreeTest,Public Class,13,0,9,1,1,11,1,15,0,0,85,13,0.15,12,12,24,15,0,0,54,53,9,2,113,1,2,0,9,39,39,0,0,9,56,66,9,No
+Ant-ivy,org.apache.ivy.ant.testutil.AntTaskTestCase,AntTaskTestCase,Public Class,4,0,6,0,1,6,1,6,0,0,27,0,0,5,5,9,9,0,2,15,12,4,1,33,2,1,1,4,0,0,1,0,3,12,18,5,No
+Ant-ivy,org.apache.ivy.ant.IvyDependencyUpdateCheckerTest,IvyDependencyUpdateCheckerTest,Public Class,21,1,8,2,1,12,1,35,0,0,148,41,0.28,13,13,40,23,0,0,94,84,17,2,224,1,2,0,17,50,50,1,0,16,85,103,17,No
+Ant-ivy,org.apache.ivy.ant.IvyFindRevisionTest,IvyFindRevisionTest,Public Class,5,0,7,0,1,8,1,8,0,0,40,0,0,7,7,13,8,0,0,22,22,5,1,48,1,1,0,5,20,20,0,0,5,23,29,5,No
+Ant-ivy,org.apache.ivy.ant.IvyInfoRepositoryTest,IvyInfoRepositoryTest,Public Class,5,0,10,0,1,10,1,8,0,0,52,0,0,7,7,13,8,0,0,34,34,5,1,60,1,1,0,5,20,20,0,0,5,35,41,5,No
+Ant-ivy,org.apache.ivy.ant.IvyInfoTest,IvyInfoTest,Public Class,5,2,12,2,1,16,1,14,0,0,62,11,0.18,7,7,13,8,0,0,44,42,5,1,87,1,1,0,5,0,0,0,0,5,43,49,5,No
+Ant-ivy,org.apache.ivy.ant.IvyInstallTest,IvyInstallTest,Public Class,20,2,12,1,1,14,1,53,0,0,235,26,0.11,11,11,41,24,0,0,173,165,20,3,314,1,1,0,20,42,38,3,0,17,168,189,20,No
+Ant-ivy,org.apache.ivy.ant.IvyListModulesTest,IvyListModulesTest,Public Class,4,0,9,0,1,9,1,7,0,0,37,0,0,7,7,11,7,0,0,22,22,4,1,44,1,1,0,4,25,25,0,0,4,23,28,4,No
+Ant-ivy,org.apache.ivy.ant.IvyPostResolveTaskTest,IvyPostResolveTaskTest,Public Class,17,3,17,1,1,20,1,78,0,0,286,9,0.03,12,12,91,67,0,0,230,200,17,3,369,1,1,0,17,37,37,2,0,15,203,222,17,No
+Ant-ivy,org.apache.ivy.ant.IvyPostResolveTaskTest.setUp.(Anon_1),(Anon_1),Anonymous Class,78,0,3,0,1,3,1,0,0,0,4,0,0,1,1,0,1,0,0,3,1,1,0,4,1,4,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.util.CacheCleaner,CacheCleaner,Public Class,1,0,3,7,1,10,1,1,1,0,5,7,1.4,2,2,2,2,0,0,1,1,0,0,13,1,1,0,1,0,0,0,0,1,1,3,1,No
+Ant-ivy,org.apache.ivy.ant.IvyPublishTest,IvyPublishTest,Public Class,29,3,20,3,1,27,1,122,0,0,601,98,0.16,30,30,142,107,0,0,504,457,29,4,821,4,1,4,29,56,55,5,0,24,452,491,32,No
+Ant-ivy,org.apache.ivy.ant.IvyReportTest,IvyReportTest,Public Class,8,3,16,1,1,20,1,36,0,0,134,9,0.07,13,13,34,26,0,0,100,94,8,2,177,1,1,1,8,13,13,0,0,8,90,105,8,No
+Ant-ivy,org.apache.ivy.ant.IvyRepositoryReportTest,IvyRepositoryReportTest,Public Class,5,2,11,1,1,14,1,14,0,0,60,4,0.07,13,13,19,14,0,0,42,40,5,1,78,1,1,0,5,20,20,0,0,5,41,47,5,No
+Ant-ivy,org.apache.ivy.ant.IvyResolveTest,IvyResolveTest,Public Class,41,2,11,1,1,14,1,111,0,0,469,54,0.12,23,23,109,68,0,0,343,320,41,3,634,1,1,0,41,67,64,4,0,37,322,364,41,No
+Ant-ivy,org.apache.tools.ant.taskdefs.Parallel,Parallel,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.ant.IvyResourcesTest,IvyResourcesTest,Public Class,13,1,14,0,1,15,1,32,0,0,180,0,0,19,19,46,36,0,0,139,117,13,1,212,2,1,1,13,23,15,3,0,10,117,133,14,No
+Ant-ivy,org.apache.ivy.ant.IvyRetrieveBuildFileTest,IvyRetrieveBuildFileTest,Public Class,2,0,6,0,1,6,1,2,0,0,16,0,0,5,5,8,5,0,0,7,7,2,1,18,1,1,0,2,0,0,0,0,2,7,10,2,No
+Ant-ivy,org.apache.ivy.ant.IvyRetrieveTest,IvyRetrieveTest,Public Class,24,1,12,2,1,15,1,63,0,2,293,49,0.17,17,17,67,47,0,0,211,158,24,3,396,3,1,1,24,46,46,3,0,21,164,198,29,No
+Ant-ivy,org.apache.ivy.ant.IvyTaskTest,IvyTaskTest,Public Class,3,2,22,1,1,25,1,9,0,0,68,2,0.03,11,11,21,18,0,0,51,38,3,0,79,1,1,0,3,0,0,0,0,3,38,45,3,No
+Ant-ivy,org.apache.ivy.ant.IvyTaskTest.testDefaultSettings.(Anon_1),(Anon_1),Anonymous Class,30,0,2,0,1,2,1,0,0,0,3,0,0,1,1,1,1,0,0,2,0,1,0,3,1,3,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.ant.IvyTaskTest.testIvyVersionAsAntProperty.(Anon_3),(Anon_3),Anonymous Class,30,0,2,0,1,2,1,0,0,0,3,0,0,1,1,1,1,0,0,2,0,1,0,3,1,3,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.ant.IvyTaskTest.testReferencedSettings.(Anon_2),(Anon_2),Anonymous Class,30,0,2,0,1,2,1,0,0,0,3,0,0,1,1,1,1,0,0,2,0,1,0,3,1,3,0,1,0,0,0,0,1,0,1,1,No
+Ant-ivy,org.apache.ivy.ant.IvyVarTest,IvyVarTest,Public Class,4,0,12,0,1,12,1,3,0,0,48,0,0,5,5,17,13,0,0,34,34,4,0,51,1,1,0,4,0,0,0,0,4,34,39,4,No
+Ant-ivy,org.apache.ivy.ant.testutil.AntTestListener,AntTestListener,Public Class,9,0,3,7,1,10,2,12,0,0,28,66,2.36,3,3,12,12,0,0,6,6,9,2,106,2,1,1,9,78,78,0,0,9,6,17,10,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManagerTest,DefaultRepositoryCacheManagerTest,Public Class,6,3,17,1,1,21,1,28,1,0,110,11,0.1,32,32,46,38,0,0,81,75,5,4,148,1,1,0,6,46,46,1,0,5,80,89,6,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManagerTest.testLatestIntegrationIsCachedPerResolver.(Anon_1),(Anon_1),Anonymous Class,1,0,10,0,1,10,2,0,0,0,11,0,0,7,7,4,4,0,0,10,6,1,0,11,1,1,0,1,0,0,0,0,1,7,8,1,No
+Ant-ivy,org.apache.ivy.core.cache.DefaultRepositoryCacheManagerTest.testLatestIntegrationIsCachedPerResolver.(Anon_2),(Anon_2),Anonymous Class,1,0,4,0,1,4,2,0,0,0,5,0,0,5,5,1,1,0,0,4,1,1,0,5,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.MockResolver,MockResolver,Public Class,78,0,6,0,1,6,1,13,3,0,63,2,0.03,22,22,27,21,3,10,30,27,7,2,78,3,2,2,10,85,75,1,1,5,24,40,14,No
+Ant-ivy,org.apache.ivy.core.cache.ModuleDescriptorMemoryCacheTest,ModuleDescriptorMemoryCacheTest,Public Class,11,0,9,0,1,9,1,32,0,0,133,3,0.02,12,12,66,53,0,0,86,79,11,12,165,1,1,0,11,58,58,0,0,11,86,103,11,No
+Ant-ivy,org.apache.ivy.core.cache.ModuleDescriptorMemoryCacheTest.ModuleDescriptorProviderMock,ModuleDescriptorProviderMock,Private Static Class,3,0,5,0,1,5,2,5,0,0,18,0,0,3,3,7,6,0,0,7,6,3,2,23,2,1,1,3,33,33,0,0,3,7,12,4,No
+Ant-ivy,org.apache.ivy.core.deliver.DeliverTest,DeliverTest,Public Class,6,2,9,1,1,11,1,17,0,0,56,6,0.11,16,16,22,19,0,0,35,33,6,3,79,2,1,1,6,50,50,3,0,3,36,44,7,No
+Ant-ivy,org.apache.ivy.core.event.IvyEventFilterTest,IvyEventFilterTest,Public Class,6,2,11,0,1,13,1,21,0,0,71,0,0,11,11,24,16,0,0,51,40,6,4,92,1,1,0,6,13,13,0,0,6,44,51,6,No
+Ant-ivy,org.apache.ivy.core.install.InstallTest,InstallTest,Public Class,13,3,10,0,1,13,1,46,0,0,135,4,0.03,16,16,40,26,0,0,94,79,13,0,185,1,1,0,13,0,0,1,0,12,79,93,13,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptorTest,DefaultDependencyDescriptorTest,Public Class,2,3,6,0,1,9,1,9,0,0,14,8,0.57,2,2,5,3,0,0,6,6,2,0,31,1,1,0,2,0,0,0,0,2,6,9,2,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.IvyMakePomTest,IvyMakePomTest,Public Class,2,2,19,6,3,26,1,13,0,0,124,15,0.12,16,16,39,33,0,0,84,69,2,2,152,4,1,2,2,25,25,0,0,2,74,92,5,No
+Ant-ivy,org.apache.ivy.core.module.descriptor.IvyMakePomTest.PomDependency,PomDependency,Private Static Final Class,5,0,15,0,3,15,1,5,2,0,82,1,0.01,6,6,25,21,1,0,54,38,3,6,88,11,1,2,5,63,23,3,0,1,44,56,16,No
+Ant-ivy,org.junit.rules.TemporaryFolder,TemporaryFolder,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.util.TestXmlHelper,TestXmlHelper,Public Class,2,0,9,12,3,21,1,2,2,0,20,26,1.3,10,10,6,5,0,0,10,10,0,0,48,4,1,1,2,0,0,0,0,2,7,13,5,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleIdTest,ModuleIdTest,Public Class,11,1,8,0,1,9,1,19,0,0,90,6,0.07,3,3,59,48,0,0,55,33,11,0,115,1,1,0,11,0,0,0,0,11,55,67,11,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRevisionIdTest,ModuleRevisionIdTest,Public Class,9,0,6,0,1,6,1,13,0,0,59,0,0,7,7,19,12,0,0,32,29,9,1,72,1,1,0,9,89,44,3,0,6,29,39,9,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRulesTest,ModuleRulesTest,Public Class,10,1,7,0,1,8,1,23,0,0,87,5,0.06,9,9,25,28,0,0,47,40,10,2,115,2,1,1,10,55,55,7,0,3,44,64,11,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRulesTest.MridMatcherBuilder,MridMatcherBuilder,Public Class,3,0,4,0,1,4,1,4,0,0,15,0,0,7,7,6,6,0,0,7,6,3,2,19,1,1,0,3,33,33,0,0,3,7,11,3,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRulesTest.acceptNone.(Anon_1),(Anon_1),Anonymous Class,2,0,3,0,1,3,2,1,0,0,7,0,0,1,1,0,2,0,0,5,2,2,0,8,1,1,0,2,0,0,0,0,2,2,4,2,No
+Ant-ivy,org.apache.ivy.core.module.id.ModuleRulesTest.acceptSecond.(Anon_2),(Anon_2),Anonymous Class,2,0,3,0,1,3,2,2,0,0,8,0,0,1,1,0,3,0,0,6,2,2,1,10,1,1,0,2,50,50,0,0,2,3,5,2,No
+Ant-ivy,org.apache.ivy.core.NormalRelativeUrlResolverTest,NormalRelativeUrlResolverTest,Public Class,7,0,7,3,1,7,1,9,0,0,50,18,0.36,7,7,27,20,0,0,27,24,7,1,59,1,1,0,7,0,0,0,0,7,25,33,7,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEngineTest,PublishEngineTest,Public Class,7,1,12,0,2,13,1,11,0,0,89,1,0.01,25,25,24,18,0,0,56,43,7,0,101,4,1,2,7,0,0,4,0,3,35,54,11,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEngineTest.testAtomicity.(Anon_1),(Anon_1),Anonymous Class,205,0,10,0,1,10,1,0,0,0,11,0,0,4,4,1,1,0,0,8,6,1,0,11,1,6,0,1,0,0,0,0,1,4,7,1,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEngineTest.testAtomicity.(Anon_2),(Anon_2),Anonymous Class,1,0,11,0,2,11,1,0,0,0,12,0,0,5,5,0,1,0,0,9,5,1,0,12,2,2,1,1,0,0,0,0,1,3,6,2,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest,PublishEventsTest,Public Class,8,2,16,8,2,26,1,82,1,0,263,114,0.43,21,21,79,63,0,0,190,140,7,16,459,3,1,1,8,54,42,1,0,7,164,191,12,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest.InstrumentedResolver,InstrumentedResolver,Public Static Class,79,5,21,5,2,31,1,6,0,0,23,10,0.43,6,6,4,3,0,0,18,13,1,0,39,2,3,1,1,0,0,0,0,1,12,15,2,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest.PostPublishTrigger,PostPublishTrigger,Public Static Class,11,6,22,6,2,34,1,8,0,0,24,11,0.46,6,6,6,5,0,0,20,11,1,0,43,2,3,0,1,0,0,0,0,1,13,15,2,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest.PrePublishTrigger,PrePublishTrigger,Public Static Class,11,5,21,5,1,31,1,7,0,0,23,10,0.43,8,8,7,6,0,0,19,13,1,0,40,1,3,0,1,0,0,0,0,1,14,16,1,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest.PublishTestCase,PublishTestCase,Public Static Class,1,0,5,0,1,5,1,6,0,0,13,0,0,2,2,8,8,0,0,3,3,1,6,19,1,1,0,1,50,50,0,0,1,9,11,1,No
+Ant-ivy,org.apache.ivy.core.publish.PublishEventsTest.TestPublishTrigger,TestPublishTrigger,Public Static Class,10,7,36,5,3,48,1,9,0,0,38,10,0.26,13,13,16,11,0,2,32,16,1,0,57,3,2,2,1,0,0,0,0,1,20,24,3,No
+Ant-ivy,org.apache.ivy.core.report.ResolveReportTest,ResolveReportTest,Public Class,12,2,13,1,1,15,1,43,0,0,156,7,0.04,19,19,52,35,0,0,117,81,12,4,206,1,1,0,12,69,69,4,0,8,85,98,12,No
+Ant-ivy,org.apache.ivy.core.repository.RepositoryManagementEngineTest,RepositoryManagementEngineTest,Public Class,4,1,7,0,1,7,1,7,0,0,31,0,0,12,12,12,8,0,0,15,12,4,2,38,1,1,0,4,13,13,0,0,4,14,19,4,No
+Ant-ivy,org.apache.ivy.TestFixture,TestFixture,Public Class,9,0,5,0,1,5,1,12,0,0,49,32,0.65,18,18,16,14,0,0,25,22,9,2,93,2,1,1,9,61,50,1,0,8,21,33,11,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveEngineTest,ResolveEngineTest,Public Class,6,1,8,0,1,9,1,14,0,0,53,0,0,19,19,22,16,0,0,33,26,6,2,67,1,1,0,6,50,50,2,0,4,28,35,6,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest,ResolveTest,Public Class,269,2,16,4,1,23,1,941,0,0,4409,1168,0.26,68,68,1451,961,0,0,3569,2585,269,5,6510,6,1,3,269,86,80,27,0,242,2582,2895,288,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest.testLatest.(Anon_4),(Anon_4),Anonymous Class,1,0,7,0,2,7,1,0,0,0,8,0,0,4,4,0,1,0,0,6,2,1,0,8,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest.testMultiConfs.(Anon_3),(Anon_3),Anonymous Class,1,0,7,0,2,7,1,0,0,0,8,0,0,4,4,0,1,0,0,6,2,1,0,8,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest.testResolveConflict.(Anon_1),(Anon_1),Anonymous Class,1,0,7,0,2,7,1,0,0,0,8,0,0,4,4,0,1,0,0,6,2,1,0,8,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest.testResolveConflict2.(Anon_2),(Anon_2),Anonymous Class,1,0,7,0,2,7,1,0,0,0,8,0,0,4,4,0,1,0,0,6,2,1,0,8,2,2,1,1,0,0,0,0,1,1,3,2,No
+Ant-ivy,org.apache.ivy.core.resolve.ResolveTest.testUseCacheOnly.(Anon_5),(Anon_5),Anonymous Class,25,0,3,0,1,3,1,2,0,0,10,0,0,5,5,0,3,0,0,7,3,3,0,12,1,2,0,3,0,0,0,0,3,3,6,3,No
+Ant-ivy,org.apache.ivy.util.MockMessageLogger,MockMessageLogger,Public Class,35,0,4,0,1,4,1,21,0,0,75,0,0,6,6,22,25,0,0,35,33,16,4,96,3,2,2,16,78,72,1,0,15,29,54,21,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveTest,RetrieveTest,Public Class,20,2,18,5,1,26,1,71,1,1,369,105,0.28,38,38,139,103,0,0,302,216,19,1,545,3,1,1,20,57,48,3,0,17,227,254,23,No
+Ant-ivy,org.apache.ivy.core.retrieve.RetrieveTest.testEvent.(Anon_1),(Anon_1),Anonymous Class,1,0,3,0,1,3,2,0,0,0,4,0,0,2,2,0,1,0,0,3,1,1,0,4,1,1,0,1,0,0,0,0,1,1,2,1,No
+Ant-ivy,org.apache.ivy.core.search.SearchTest,SearchTest,Public Class,3,3,16,0,1,19,1,11,0,0,51,0,0,16,16,23,18,0,0,40,33,3,0,62,1,1,0,3,0,0,0,0,3,34,38,3,No
+Ant-ivy,org.apache.ivy.core.settings.ConfigureTest,ConfigureTest,Public Class,4,2,10,0,1,12,1,10,0,0,43,0,0,11,11,20,16,0,0,29,26,4,0,53,1,1,0,4,0,0,0,0,4,27,32,4,No
+Ant-ivy,org.apache.ivy.core.settings.IvySettingsTest,IvySettingsTest,Public Class,2,7,24,6,1,36,1,16,0,0,49,11,0.22,7,7,11,9,0,0,41,41,2,0,76,1,1,0,2,0,0,0,0,2,41,44,2,No
+Ant-ivy,org.apache.ivy.core.settings.OnlineXmlSettingsParserTest,OnlineXmlSettingsParserTest,Public Class,5,1,10,2,1,12,1,10,0,0,52,13,0.25,11,11,24,20,0,0,36,33,5,0,71,1,1,0,5,0,0,1,0,4,33,39,5,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParserTest,XmlSettingsParserTest,Public Class,30,3,18,2,1,23,1,113,0,0,571,55,0.1,42,42,209,175,0,0,465,411,30,1,736,1,1,0,30,97,97,1,0,29,424,461,30,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParserTest.MyLockStrategy,MyLockStrategy,Public Static Class,8,0,3,0,1,3,1,1,0,0,8,0,0,3,3,4,3,0,0,1,1,2,0,9,1,2,0,2,0,0,0,0,2,1,4,2,No
+Ant-ivy,org.apache.ivy.core.settings.XmlSettingsParserTest.MyOutputter,MyOutputter,Public Static Class,2,0,3,0,1,3,2,2,0,0,8,0,0,4,4,4,3,0,0,1,1,2,0,10,1,1,0,2,0,0,0,0,2,1,4,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistryTest,ModuleDescriptorParserRegistryTest,Public Class,1,0,10,0,1,10,1,4,0,0,25,0,0,7,7,12,8,0,0,10,7,1,0,29,1,1,0,1,0,0,0,0,1,7,13,1,No
+Ant-ivy,org.apache.ivy.plugins.version.MockVersionMatcher,MockVersionMatcher,Public Class,13,0,3,0,1,3,1,4,0,0,10,0,0,1,1,4,4,0,0,2,2,3,0,14,1,2,0,3,0,0,0,0,3,2,6,3,No
+Ant-ivy,org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistryTest.MyParser,MyParser,Public Static Class,6,0,4,0,1,4,1,3,0,0,13,0,0,10,10,6,4,0,0,3,2,3,0,16,1,2,0,3,0,0,0,0,3,2,6,3,No
+Ant-ivy,org.apache.ivy.core.sort.SortTest,SortTest,Public Class,14,2,17,3,2,21,1,44,0,0,241,48,0.2,24,24,71,60,0,0,159,140,14,7,331,11,1,3,14,50,42,5,0,9,146,190,29,No
+Ant-ivy,org.apache.ivy.core.sort.SortTest.testCircularDependencyReport.CircularDependencyReporterMock,CircularDependencyReporterMock,Class,3,0,8,0,1,8,2,3,0,0,26,0,0,5,5,8,7,0,0,17,12,3,1,29,2,1,1,3,33,33,0,0,3,13,18,4,No
+Ant-ivy,org.apache.ivy.core.sort.SortTest.testDifferentVersionWarning.NonMatchingVersionReporterMock,NonMatchingVersionReporterMock,Class,2,0,6,0,1,6,2,2,0,0,14,0,0,3,3,5,4,0,0,7,5,2,1,16,1,1,0,2,0,0,0,0,2,6,9,2,No
+Ant-ivy,org.apache.ivy.core.TestPerformance,TestPerformance,Public Class,7,1,12,0,2,13,1,15,0,1,85,3,0.04,24,24,33,28,0,0,58,44,7,1,103,6,1,5,7,71,71,3,0,4,49,62,12,No
+Ant-ivy,org.apache.ivy.IvyTest,IvyTest,Public Class,6,1,9,1,1,11,1,10,0,0,57,5,0.09,14,14,17,13,0,0,39,31,6,1,72,1,1,0,6,50,50,3,0,3,32,39,6,No
+Ant-ivy,org.apache.ivy.LocalFileRepoOverHttp,LocalFileRepoOverHttp,Final Class,4,0,12,0,3,12,2,5,0,0,52,6,0.12,12,12,16,14,1,0,31,29,4,2,63,5,1,2,4,50,50,2,0,1,26,37,10,No
+Ant-ivy,org.apache.ivy.MainTest,MainTest,Public Class,15,0,8,1,1,10,1,20,0,0,127,22,0.17,21,21,62,40,0,0,78,58,15,3,169,1,1,0,15,89,89,1,0,14,65,81,15,No
+Ant-ivy,org.apache.ivy.osgi.core.AggregatedOSGiResolverTest,AggregatedOSGiResolverTest,Public Class,5,4,18,0,1,22,1,30,0,0,98,1,0.01,28,28,34,25,0,0,75,69,5,5,129,2,1,1,5,64,52,1,0,4,73,81,6,No
+Ant-ivy,org.apache.ivy.osgi.core.ExecutionEnvironmentProfileLoaderTest,ExecutionEnvironmentProfileLoaderTest,Public Class,1,1,27,0,1,28,1,2,0,0,29,0,0,4,4,5,3,0,0,24,23,1,0,31,1,1,0,1,0,0,0,0,1,23,25,1,No
+Ant-ivy,org.junit.experimental.runners.Enclosed,Enclosed,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderTest,ManifestHeaderTest,Public Class,0,0,0,0,0,0,1,23,0,0,101,3,0.03,2,2,42,28,0,0,63,49,0,0,127,0,1,0,0,0,0,0,0,0,53,63,0,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderTest.IllegalOptionTests,IllegalOptionTests,Public Static Class,2,0,7,2,1,8,1,6,1,0,22,3,0.14,11,11,12,6,0,0,8,5,1,3,31,1,1,0,2,50,50,0,0,2,7,10,2,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderTest.OptionNormalisationTests,OptionNormalisationTests,Public Static Class,2,0,9,0,1,9,1,5,1,0,25,0,0,9,9,10,5,0,0,12,2,1,2,30,1,1,0,2,50,50,0,0,2,4,7,2,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestHeaderTest.SingleTests,SingleTests,Public Static Class,2,3,25,0,1,27,1,8,0,0,51,0,0,4,4,18,16,0,0,43,42,2,0,59,1,1,0,2,0,0,0,0,2,42,45,2,No
+Ant-ivy,org.junit.runners.Parameterized,Parameterized,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.hamcrest.Matchers,org.hamcrest.Matchers,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.osgi.core.ManifestParserTest,ManifestParserTest,Public Class,3,1,27,0,1,29,1,7,0,0,84,0,0,14,14,14,10,0,0,69,47,3,0,91,1,1,1,3,0,0,0,0,3,47,53,3,No
+Ant-ivy,org.apache.ivy.osgi.core.OsgiLatestStrategyTest,OsgiLatestStrategyTest,Public Class,4,1,11,0,1,12,1,16,0,0,61,0,0,13,13,31,26,0,0,35,28,4,0,77,2,1,1,4,0,0,1,0,3,29,41,5,No
+Ant-ivy,org.apache.ivy.osgi.core.OsgiLatestStrategyTest.MockArtifactInfo,MockArtifactInfo,Private Static Class,4,0,3,0,1,3,2,6,0,0,17,0,0,1,1,7,7,0,0,5,5,4,2,23,1,1,0,4,38,38,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.osgi.core.OSGiManifestParserTest,OSGiManifestParserTest,Public Class,10,2,11,3,1,16,1,10,0,0,36,8,0.22,14,14,13,9,0,0,24,21,3,1,54,1,2,0,3,0,0,0,0,3,22,26,3,No
+Ant-ivy,org.apache.ivy.plugins.parser.AbstractModuleDescriptorParserTester,AbstractModuleDescriptorParserTester,Public Abstract Class,7,0,15,0,3,15,1,7,0,0,104,0,0,12,12,23,29,0,3,66,61,7,0,111,4,1,3,7,0,0,0,7,0,49,85,24,No
+Ant-ivy,org.apache.ivy.osgi.filter.OSGiFilterTest,OSGiFilterTest,Public Class,5,0,8,0,1,8,1,6,0,0,41,0,0,10,10,23,18,0,0,25,23,5,0,47,1,1,0,5,0,0,1,0,4,23,29,5,No
+Ant-ivy,org.apache.ivy.osgi.obr.OBRParserTest,OBRParserTest,Public Class,2,0,24,1,3,24,1,3,0,0,50,1,0.02,14,14,20,14,0,0,39,30,2,1,53,4,1,3,2,0,0,0,0,2,29,35,5,No
+Ant-ivy,org.apache.ivy.osgi.obr.OBRResolverTest,OBRResolverTest,Public Class,21,1,10,0,1,11,1,53,0,7,248,4,0.02,44,44,113,76,0,0,173,118,21,8,304,4,1,2,21,89,70,4,0,17,134,162,25,No
+Ant-ivy,org.apache.ivy.osgi.obr.OBRXMLWriterTest,OBRXMLWriterTest,Public Class,1,6,35,4,2,41,1,11,0,3,40,4,0.1,21,21,14,13,0,0,31,28,1,0,51,2,1,1,1,0,0,0,0,1,28,33,2,No
+Ant-ivy,org.apache.ivy.osgi.p2.P2DescriptorTest,P2DescriptorTest,Public Class,6,7,23,0,2,30,1,52,0,0,147,2,0.01,25,25,58,42,0,0,116,103,6,7,201,3,1,2,6,52,52,0,0,6,108,120,10,No
+Ant-ivy,org.apache.ivy.osgi.repo.BundleRepoTest,BundleRepoTest,Public Class,4,3,15,0,1,18,1,18,0,0,63,0,0,25,25,37,25,0,0,47,36,4,2,81,2,1,1,4,50,50,0,0,4,36,42,5,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteAndIbiblioResolverTest,UpdateSiteAndIbiblioResolverTest,Public Class,2,8,25,1,2,33,1,25,0,0,58,2,0.03,22,22,22,18,0,0,42,38,2,7,85,2,1,1,2,36,36,0,0,2,44,49,3,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteLoaderTest,UpdateSiteLoaderTest,Public Class,6,0,8,1,1,8,1,9,0,0,50,4,0.08,21,21,30,19,0,0,24,22,6,2,60,2,1,1,6,42,42,0,0,6,23,31,7,No
+Ant-ivy,org.apache.ivy.osgi.updatesite.UpdateSiteResolverTest,UpdateSiteResolverTest,Public Class,5,3,13,0,1,16,1,24,0,0,74,1,0.01,27,27,27,20,0,0,51,45,5,5,99,2,1,1,5,64,60,1,0,4,49,57,6,No
+Ant-ivy,org.apache.ivy.osgi.util.ParseUtilTest,ParseUtilTest,Public Class,1,0,9,0,1,9,1,2,0,0,11,0,0,2,2,5,3,0,0,6,5,1,0,13,1,1,0,1,0,0,0,0,1,5,7,1,No
+Ant-ivy,org.apache.ivy.osgi.util.VersionRangeTest,VersionRangeTest,Public Class,2,4,30,0,1,34,1,10,0,0,62,0,0,4,4,5,3,0,0,54,47,2,0,72,1,1,0,2,0,0,0,0,2,47,50,2,No
+Ant-ivy,org.apache.ivy.osgi.util.VersionTest,VersionTest,Public Class,2,3,15,0,1,18,1,9,0,0,32,0,0,2,2,6,4,0,0,23,23,2,0,41,1,1,0,2,0,0,0,0,2,24,27,2,No
+Ant-ivy,org.apache.ivy.plugins.circular.IgnoreCircularDependencyStrategyTest,IgnoreCircularDependencyStrategyTest,Public Class,6,1,6,0,1,7,1,11,0,0,40,1,0.03,10,10,15,11,0,0,17,17,6,3,52,2,1,1,6,56,56,2,0,4,18,27,8,No
+Ant-ivy,org.apache.ivy.plugins.circular.WarnCircularDependencyStrategyTest,WarnCircularDependencyStrategyTest,Public Class,8,1,7,1,1,9,1,15,0,0,61,7,0.11,18,18,19,14,0,0,33,31,8,3,83,2,1,1,8,58,58,3,0,5,32,43,10,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestCompatibleConflictManagerTest,LatestCompatibleConflictManagerTest,Public Class,15,0,7,1,1,8,1,15,0,0,115,20,0.17,16,16,37,22,0,0,67,35,15,1,142,1,1,0,15,7,7,1,0,14,36,52,15,No
+Ant-ivy,org.apache.ivy.plugins.conflict.LatestConflictManagerTest,LatestConflictManagerTest,Public Class,9,1,15,7,3,22,1,19,0,0,137,60,0.44,16,16,47,36,0,0,96,73,9,2,216,6,1,3,9,50,50,1,0,8,61,90,26,No
+Ant-ivy,org.apache.ivy.plugins.conflict.RegexpConflictManagerTest,RegexpConflictManagerTest,Public Class,5,0,5,0,1,5,1,8,0,0,32,0,0,11,11,14,9,0,0,13,11,5,3,40,1,1,0,5,60,60,1,0,4,13,19,5,No
+Ant-ivy,org.apache.ivy.plugins.conflict.StrictConflictManagerTest,StrictConflictManagerTest,Public Class,8,0,5,1,1,6,1,9,0,0,43,10,0.23,12,12,19,12,0,0,16,12,8,2,62,1,1,0,8,50,50,1,0,7,14,23,8,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategyTest,LatestRevisionStrategyTest,Public Class,5,1,12,0,1,13,1,18,0,0,77,0,0,14,14,38,31,0,0,48,41,5,0,95,2,1,1,5,0,0,1,0,4,44,56,6,No
+Ant-ivy,org.apache.ivy.plugins.latest.LatestRevisionStrategyTest.MockArtifactInfo,MockArtifactInfo,Private Static Class,4,0,3,0,1,3,2,6,0,0,17,0,0,1,1,7,7,0,0,5,5,4,2,23,1,1,0,4,38,38,0,0,4,7,12,4,No
+Ant-ivy,org.apache.ivy.plugins.lock.ArtifactLockStrategyTest,ArtifactLockStrategyTest,Public Class,9,0,9,1,1,10,1,21,0,0,127,11,0.09,27,27,41,35,0,0,77,60,9,0,158,2,1,1,9,0,0,6,0,3,62,85,10,No
+Ant-ivy,org.apache.ivy.plugins.lock.ArtifactLockStrategyTest.ResolveThread,ResolveThread,Private Class,4,0,9,0,2,9,1,9,0,0,44,1,0.02,8,8,13,13,0,0,22,20,4,6,54,5,2,3,4,50,50,0,0,4,23,33,8,No
+Ant-ivy,org.apache.ivy.plugins.lock.ArtifactLockStrategyTest.createSlowResolver.(Anon_1),(Anon_1),Anonymous Class,40,0,3,0,1,3,1,1,0,0,11,1,0.09,1,1,0,3,0,0,9,4,1,1,12,1,3,0,1,0,0,0,1,0,4,6,1,No
+Ant-ivy,org.apache.ivy.plugins.lock.ArtifactLockStrategyTest.createSlowResolver.(Anon_1).(Anon_2),(Anon_2),Anonymous Class,7,0,4,1,1,4,1,0,0,0,5,1,0.2,2,2,0,1,0,0,4,2,1,0,5,1,2,0,1,0,0,0,0,1,2,3,1,No
+Ant-ivy,org.apache.ivy.plugins.matcher.AbstractPatternMatcherTest,AbstractPatternMatcherTest,Public Abstract Class,10,1,8,0,2,9,1,14,0,0,65,7,0.11,4,4,29,25,0,4,35,31,10,1,86,3,1,1,10,0,0,0,3,7,37,51,11,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactOrRegexpPatternMatcherTest,ExactOrRegexpPatternMatcherTest,Public Class,14,1,7,0,1,8,1,7,0,0,30,3,0.1,7,7,8,6,0,0,18,18,4,0,40,1,2,0,4,0,0,0,2,2,18,23,4,No
+Ant-ivy,org.apache.ivy.plugins.matcher.ExactPatternMatcherTest,ExactPatternMatcherTest,Public Class,14,0,5,0,1,5,1,4,0,0,20,4,0.2,6,6,8,6,0,0,8,8,4,0,27,1,2,0,4,0,0,0,2,2,8,13,4,No
+Ant-ivy,org.apache.ivy.plugins.matcher.GlobPatternMatcherTest,GlobPatternMatcherTest,Public Class,20,0,6,0,1,6,1,10,0,0,61,3,0.05,7,7,25,17,0,0,31,31,10,0,74,1,2,0,10,0,0,0,2,8,31,42,10,No
+Ant-ivy,org.apache.ivy.plugins.matcher.RegexpPatternMatcherTest,RegexpPatternMatcherTest,Public Class,14,0,5,0,1,5,1,5,0,0,21,3,0.14,7,7,8,6,0,0,9,9,4,0,29,1,2,0,4,0,0,0,2,2,9,14,4,No
+Ant-ivy,org.apache.ivy.plugins.namespace.MRIDTransformationRuleTest,MRIDTransformationRuleTest,Public Class,1,5,24,0,1,29,1,6,0,0,26,0,0,4,4,4,3,0,0,21,15,1,0,32,1,1,0,1,0,0,0,0,1,15,17,1,No
+Ant-ivy,org.apache.ivy.plugins.namespace.NameSpaceHelperTest,NameSpaceHelperTest,Public Class,1,2,13,0,1,15,1,2,0,0,15,0,0,11,11,7,5,0,0,10,7,1,0,17,1,1,0,1,0,0,0,0,1,7,9,1,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.MavenVersionRangeParserTest,MavenVersionRangeParserTest,Public Class,8,1,10,4,1,15,1,18,0,0,83,37,0.45,3,3,24,16,0,0,57,50,8,0,136,1,1,0,8,0,0,0,0,8,57,66,8,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest,PomModuleDescriptorParserTest,Public Class,57,2,19,2,1,22,1,149,1,0,944,87,0.09,45,45,301,208,0,0,744,518,49,5,1176,7,2,3,50,80,80,2,0,48,502,595,65,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.MockedDependencyResolver,MockedDependencyResolver,Private Class,80,0,4,1,1,5,1,1,0,0,10,1,0.1,6,6,5,4,0,1,3,3,2,0,12,1,3,0,2,0,0,0,1,1,3,6,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.createIvySettingsForParentLicenseTesting.(Anon_9),(Anon_9),Anonymous Class,81,0,14,0,3,14,1,0,0,0,15,0,0,8,8,4,5,0,0,12,8,1,0,15,3,4,2,1,0,0,0,1,0,6,10,3,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testGrandparentBomImport.(Anon_7),(Anon_7),Anonymous Class,79,0,13,0,2,13,1,0,0,0,14,0,0,10,10,2,2,0,0,12,4,1,0,14,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testOverrideGrandparentProperties.(Anon_5),(Anon_5),Anonymous Class,79,0,16,0,3,16,1,0,0,0,17,0,0,10,10,3,3,0,0,13,7,1,0,17,3,3,1,1,0,0,0,0,1,6,9,3,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testOverrideParentProperties.(Anon_4),(Anon_4),Anonymous Class,79,0,11,0,2,11,1,0,0,0,12,0,0,8,8,2,2,0,0,10,4,1,0,12,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testOverrideParentVersionPropertyDependencyMgt.(Anon_2),(Anon_2),Anonymous Class,79,0,12,0,2,12,1,0,0,0,13,0,0,8,8,2,2,0,0,11,4,1,0,13,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testParentBomImport.(Anon_6),(Anon_6),Anonymous Class,79,0,13,0,2,13,1,0,0,0,14,0,0,10,10,2,2,0,0,12,4,1,0,14,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testParentDependencyMgt.(Anon_1),(Anon_1),Anonymous Class,79,0,11,0,2,11,1,0,0,0,12,0,0,8,8,2,2,0,0,10,4,1,0,12,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testParentProfileBomImport.(Anon_8),(Anon_8),Anonymous Class,79,0,13,0,2,13,1,0,0,0,14,0,0,10,10,2,2,0,0,12,4,1,0,14,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorParserTest.testParentProperties.(Anon_3),(Anon_3),Anonymous Class,79,0,11,0,2,11,1,0,0,0,12,0,0,8,8,2,2,0,0,10,4,1,0,12,2,3,1,1,0,0,0,0,1,3,5,2,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParserTest,XmlModuleDescriptorParserTest,Public Class,53,3,24,3,1,30,1,200,0,0,1104,131,0.12,51,51,255,171,0,0,961,750,46,2,1432,2,2,2,46,46,46,1,0,45,757,808,47,No
+Ant-ivy,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorWriterTest,PomModuleDescriptorWriterTest,Public Class,16,1,11,0,1,11,1,29,0,1,183,0,0,17,17,106,55,0,0,128,85,16,1,212,3,1,1,16,53,16,2,0,14,82,103,19,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorWriterTest,XmlModuleDescriptorWriterTest,Public Class,13,1,12,2,1,15,1,27,0,1,168,23,0.14,24,24,88,48,0,0,121,79,13,1,218,3,1,1,13,15,15,1,0,12,76,94,16,No
+Ant-ivy,org.custommonkey.xmlunit.XMLAssert,org.custommonkey.xmlunit.XMLAssert,Unknown Class,7,0,6,0,1,7,1,8,0,0,32,1,0.03,6,6,12,11,0,0,15,12,4,1,46,2,1,1,4,25,15,0,0,3,14,23,6,No
+Ant-ivy,org.apache.ivy.plugins.parser.xml.XmlModuleUpdaterTest,XmlModuleUpdaterTest,Public Class,17,3,20,3,1,26,1,70,0,0,342,55,0.16,32,32,135,101,0,0,287,206,17,0,463,2,1,1,17,0,0,2,0,15,204,226,19,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportParserTest,XmlReportParserTest,Public Class,4,1,7,0,1,8,1,8,0,0,30,0,0,14,14,14,10,0,0,16,12,4,1,38,1,1,0,4,50,50,1,0,3,13,18,4,No
+Ant-ivy,org.apache.ivy.plugins.report.XmlReportWriterTest,XmlReportWriterTest,Public Class,8,1,10,0,1,12,1,19,0,0,85,1,0.01,15,15,41,32,0,0,60,41,8,2,105,1,1,0,8,63,50,3,0,5,51,60,8,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsRepositoryTest,VfsRepositoryTest,Public Class,9,1,12,5,2,18,1,23,0,0,113,67,0.59,11,11,40,38,0,0,71,51,9,3,203,3,1,2,9,11,11,0,0,9,51,81,22,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsTestHelper,VfsTestHelper,Public Class,3,0,7,3,1,10,1,16,0,10,34,12,0.35,9,9,17,19,0,0,23,12,3,2,62,2,1,1,3,33,33,0,0,3,21,28,4,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsURI,VfsURI,Public Class,6,2,13,7,3,22,1,29,1,8,99,44,0.44,6,6,27,23,0,0,69,41,5,5,170,5,1,2,6,63,30,1,0,5,47,62,17,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsResourceTest,VfsResourceTest,Public Class,9,1,11,4,2,16,1,15,0,0,106,39,0.37,13,13,36,34,0,0,69,50,9,1,160,5,1,3,9,11,11,1,0,8,45,70,17,No
+Ant-ivy,org.apache.ivy.plugins.repository.vfs.VfsTestHelper.VfsTestHelper.(Anon_1),(Anon_1),Anonymous Class,1,0,2,1,1,3,1,0,0,0,3,1,0.33,1,1,0,1,0,0,2,0,1,0,4,1,2,0,1,0,0,0,1,0,0,1,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.AbstractDependencyResolverTest,AbstractDependencyResolverTest,Public Class,1,0,3,0,1,3,1,2,0,0,5,0,0,1,1,2,2,0,9,1,1,1,0,7,1,1,0,1,0,0,0,1,0,1,3,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.BintrayResolverTest,BintrayResolverTest,Public Class,15,2,12,1,1,14,1,43,0,0,177,12,0.07,30,30,68,45,0,0,130,115,14,3,222,1,2,0,14,74,74,0,0,14,118,133,14,No
+Ant-ivy,org.apache.ivy.plugins.resolver.ChainResolverTest,ChainResolverTest,Public Class,21,2,21,2,2,25,1,60,0,0,421,49,0.12,39,39,127,105,0,0,340,229,20,3,530,4,2,1,20,50,47,3,0,17,230,281,38,No
+Ant-ivy,org.apache.ivy.plugins.resolver.DualResolverTest,DualResolverTest,Public Class,8,1,13,2,1,15,1,15,0,0,97,14,0.14,23,23,48,31,0,0,70,57,7,4,126,1,2,0,7,54,54,0,0,7,62,70,7,No
+Ant-ivy,org.apache.ivy.plugins.resolver.FileSystemResolverTest,FileSystemResolverTest,Public Class,34,4,23,2,1,29,1,185,0,3,779,63,0.08,46,46,249,188,0,0,676,542,33,6,1027,1,2,0,33,73,73,3,0,30,552,586,33,No
+Ant-ivy,org.apache.ivy.plugins.resolver.ResolverTestHelper,ResolverTestHelper,Public Class,8,0,11,0,3,11,1,7,8,0,86,5,0.06,6,6,18,20,6,0,49,40,0,0,96,4,1,3,8,0,0,2,0,0,30,60,21,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IBiblioMavenSnapshotsResolutionTest,IBiblioMavenSnapshotsResolutionTest,Public Class,3,2,16,3,1,22,1,11,0,0,52,15,0.29,18,18,24,20,0,0,40,32,3,1,78,1,1,0,3,33,33,0,0,3,36,40,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IBiblioResolverTest,IBiblioResolverTest,Public Class,7,2,23,2,1,25,1,22,0,0,140,16,0.11,33,33,36,26,0,0,115,97,6,3,166,2,2,1,6,56,56,0,0,6,99,108,7,No
+Ant-ivy,org.apache.ivy.plugins.resolver.IvyRepResolverTest,IvyRepResolverTest,Public Class,6,3,15,2,1,19,1,21,0,0,82,14,0.17,26,26,29,21,0,0,61,54,5,4,113,1,2,0,5,55,55,0,0,5,57,63,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.JarResolverTest,JarResolverTest,Public Class,5,1,11,0,1,11,1,14,0,0,61,0,0,21,21,29,20,0,0,38,35,5,5,75,1,1,0,5,52,52,0,0,5,40,46,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.Maven2LocalTest,Maven2LocalTest,Public Class,5,1,8,0,1,9,1,12,0,0,46,2,0.04,18,18,21,15,0,0,26,22,5,4,60,1,1,0,5,60,50,1,0,4,26,32,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.MirroredURLResolverTest,MirroredURLResolverTest,Public Class,5,1,11,0,1,11,1,12,0,0,58,0,0,18,18,29,21,0,0,38,28,5,3,70,1,1,0,5,40,40,0,0,5,34,40,5,No
+Ant-ivy,org.apache.ivy.plugins.resolver.PackagerResolverTest,PackagerResolverTest,Public Class,7,6,25,3,1,34,1,49,0,0,156,23,0.15,31,31,53,39,0,0,127,109,6,6,228,2,2,1,6,44,42,1,0,5,111,122,7,No
+Ant-ivy,org.apache.ivy.plugins.resolver.URLResolverTest,URLResolverTest,Public Class,8,4,26,4,1,33,1,41,0,0,206,31,0.15,44,44,82,64,0,0,163,145,7,3,274,3,2,2,7,38,38,0,0,7,149,165,9,No
+Ant-ivy,org.apache.ivy.plugins.resolver.URLResolverTest.ServerManager,ServerManager,Private Final Class,2,0,8,1,2,9,2,3,0,0,21,2,0.1,7,7,9,7,1,0,8,8,2,4,26,2,1,1,2,0,0,0,0,1,11,15,3,No
+Ant-ivy,org.apache.ivy.plugins.resolver.util.ResolverHelperTest,ResolverHelperTest,Public Class,1,2,11,0,1,13,1,4,0,0,13,0,0,5,5,6,4,0,0,8,7,1,0,17,1,1,0,1,0,0,0,0,1,7,9,1,No
+Ant-ivy,org.apache.ivy.plugins.resolver.VfsResolverTest,VfsResolverTest,Public Class,5,0,4,0,1,4,1,4,0,0,19,0,0,4,4,10,6,0,0,5,4,4,1,23,1,2,0,4,0,0,0,0,4,5,10,4,No
+Ant-ivy,org.apache.ivy.plugins.trigger.LogTriggerTest,LogTriggerTest,Public Class,5,2,9,0,1,10,1,16,0,1,50,0,0,16,16,18,13,0,0,30,28,5,3,66,1,1,0,5,20,20,0,0,5,31,37,5,No
+Ant-ivy,org.apache.ivy.plugins.version.LatestVersionMatcherTest,LatestVersionMatcherTest,Public Class,11,0,6,0,1,6,1,12,0,0,67,1,0.01,11,11,29,17,0,0,34,29,11,1,80,1,1,0,11,64,18,4,0,7,29,41,11,No
+Ant-ivy,org.apache.ivy.plugins.version.MavenTimedSnapshotVersionMatcherTest,MavenTimedSnapshotVersionMatcherTest,Public Class,2,2,14,3,1,19,1,6,0,0,29,9,0.31,5,5,14,12,0,0,21,15,2,0,44,1,1,0,2,0,0,0,0,2,18,21,2,No
+Ant-ivy,org.apache.ivy.plugins.version.PatternVersionMatcherTest,PatternVersionMatcherTest,Public Class,7,1,8,2,1,11,1,13,0,0,57,12,0.21,5,5,18,14,0,0,37,36,7,0,82,1,1,0,7,0,0,4,0,3,36,44,7,No
+Ant-ivy,org.apache.ivy.plugins.version.VersionRangeMatcherTest,VersionRangeMatcherTest,Public Class,8,2,15,0,1,17,1,23,0,0,124,1,0.01,6,6,16,10,0,0,100,97,8,1,148,1,1,0,8,75,0,2,0,6,97,106,8,No
+Ant-ivy,org.apache.ivy.TestHelper.AuthFilter,AuthFilter,Private Static Final Class,4,0,9,1,2,10,1,5,0,0,38,4,0.11,12,12,14,11,1,0,20,16,4,1,47,5,2,2,4,50,50,1,0,2,15,26,9,Yes
+Ant-ivy,org.apache.ivy.TestHelper.createBasicAuthHttpServerBackedRepo.(Anon_2),(Anon_2),Anonymous Class,1,0,8,0,2,8,1,0,0,0,9,0,0,3,3,2,2,0,0,7,4,1,0,9,2,2,1,1,0,0,0,0,1,3,5,2,Yes
+Ant-ivy,org.apache.ivy.TestHelper.createBasicAuthHttpServerBackedRepo.(Anon_3),(Anon_3),Anonymous Class,1,0,5,0,1,5,1,0,0,0,6,0,0,3,3,1,2,0,0,5,1,1,0,6,1,2,0,1,0,0,0,0,1,2,3,1,Yes
+Ant-ivy,org.apache.ivy.TestHelper.createHttpServerBackedRepository.(Anon_1),(Anon_1),Anonymous Class,1,0,5,0,1,5,1,0,0,0,6,0,0,3,3,1,2,0,0,5,1,1,0,6,1,2,0,1,0,0,0,0,1,2,3,1,Yes
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest,ConfiguratorTest,Public Class,14,1,13,0,1,13,1,66,0,0,295,5,0.02,12,12,95,81,0,0,167,167,14,1,366,1,1,0,14,0,0,0,0,14,177,229,14,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.City,City,Public Static Class,6,0,3,0,1,3,1,8,0,0,23,0,0,5,5,10,10,0,0,8,8,6,3,31,1,1,0,6,67,67,0,0,6,9,16,6,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.FileTester,FileTester,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,1,1,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Flat,Flat,Public Static Class,8,0,3,0,1,3,1,2,0,0,9,0,0,0,0,4,4,0,0,2,2,2,1,11,1,2,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.House,House,Public Static Class,6,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Housing,Housing,Public Static Abstract Class,6,0,3,0,1,3,1,8,0,0,23,0,0,4,4,10,10,0,2,7,7,6,3,31,1,1,0,6,67,67,0,0,6,9,16,6,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Person,Person,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,1,1,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Room,Room,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,0,0,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Street,Street,Public Static Class,6,0,3,0,1,3,1,8,0,0,23,0,0,6,6,10,10,0,0,8,8,6,3,31,1,1,0,6,67,67,0,0,6,9,16,6,No
+Ant-ivy,org.apache.ivy.util.ConfiguratorTest.Tree,Tree,Public Static Class,2,0,3,0,1,3,1,2,0,0,9,0,0,0,0,4,4,0,0,2,2,2,1,11,1,1,0,2,0,0,0,0,2,3,6,2,No
+Ant-ivy,org.apache.ivy.util.IvyPatternHelperTest,IvyPatternHelperTest,Public Class,7,0,7,0,1,7,1,7,0,0,49,0,0,5,5,23,16,0,0,26,15,7,0,56,1,1,0,7,0,0,0,0,7,21,29,7,No
+Ant-ivy,org.apache.ivy.util.StringUtilsTest,StringUtilsTest,Public Class,2,1,7,0,1,8,1,3,0,0,16,0,0,4,4,6,4,0,0,8,6,2,0,19,1,1,0,2,0,0,0,0,2,6,9,2,No
+Ant-ivy,org.apache.ivy.util.url.AbstractURLHandlerTest,AbstractURLHandlerTest,Public Class,4,0,7,5,1,10,1,10,0,0,54,20,0.37,6,6,34,19,0,0,21,17,4,0,76,1,1,0,4,0,0,0,0,4,17,28,4,No
+Ant-ivy,org.apache.ivy.util.url.AbstractURLHandlerTest.TestURLHandler,TestURLHandler,Private Static Class,19,0,4,0,1,4,1,5,0,0,24,0,0,9,9,13,6,0,0,5,5,5,0,29,1,2,0,5,0,0,0,0,5,5,11,5,No
+Ant-ivy,org.apache.ivy.util.url.ApacheURLListerTest,ApacheURLListerTest,Public Class,6,1,10,2,1,13,1,13,0,0,60,17,0.28,5,5,35,22,0,0,39,30,6,0,90,2,1,1,6,0,0,0,0,6,29,38,7,No
+Ant-ivy,org.apache.ivy.util.url.ArtifactoryListingTest,ArtifactoryListingTest,Public Class,1,1,8,1,1,9,1,2,0,0,10,2,0.2,5,5,6,4,0,0,5,4,1,0,13,1,1,0,1,0,0,0,0,1,4,6,1,No
+Ant-ivy,org.apache.ivy.util.url.BasicURLHandlerTest,BasicURLHandlerTest,Public Class,5,1,8,3,1,9,1,9,0,0,45,17,0.38,9,9,13,9,0,0,27,18,5,2,60,1,1,0,5,40,30,1,0,4,21,27,5,No
+Ant-ivy,org.apache.ivy.util.url.HttpclientURLHandlerTest,HttpclientURLHandlerTest,Public Class,7,1,12,5,1,17,1,16,0,0,98,40,0.41,27,27,38,27,0,0,66,45,7,4,143,2,1,1,7,50,43,1,0,6,49,60,8,No
+Ant-ivy,org.apache.ivy.util.url.IvyAuthenticatorTest,IvyAuthenticatorTest,Public Class,4,1,8,4,1,12,1,11,0,0,57,17,0.3,11,11,23,18,0,0,30,27,4,2,85,1,1,0,4,50,38,1,0,3,37,44,4,No
+Ant-ivy,org.apache.ivy.util.url.IvyAuthenticatorTest.TestAuthenticator,TestAuthenticator,Private Class,1,0,12,0,1,12,1,2,0,0,22,0,0,6,6,11,10,0,0,10,9,1,8,24,1,2,0,1,0,0,0,1,0,17,19,1,No
