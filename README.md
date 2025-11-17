@@ -1,7 +1,7 @@
 # Dataset for Class level Code Smell collected from Open Source Projects
 
 
-This repository accompanies the thesis **"Enhancing Code Smell Detection through Transformer-Based Deep Learning, Automated Machine Learning Optimization and SHAP-Based Explainability"**. It provides metadata, documentation, and sample scripts related to the dataset and framework described in the research.
+This repository accompanies the thesis **"An Interpretable Framework for Code Smell Detection Using Transformers, AutoML, and Explainable AI"**. It provides metadata, documentation, and sample scripts related to the dataset and framework described in the research.
 
 ## DESCRIPTION
 
@@ -10,6 +10,23 @@ The dataset consists of structural software metrics and labeled code smell annot
 ## Folder Informations
 __Final Datasets: This folder contains binary data on existence of code smell of seven code smells individually.  
 __7 smell Dataset: This folder contains seven folder of seven code smells. Each folder has a compilation of that smell from open source projects.
+
+## Steps of how the Dataset was created:
+1. Setup "Understand" tool.
+2. We have collected .java files of code smells from this research paper: https://shorturl.at/ZAiAk
+3. Create **.und** files of the real source codes and .java files of smelly codes using Understand tool to collect information of all metrics of the codes:
+     -Go to File > New > Project
+     -Select the source file of the project from "Root Directory" and press "Next"
+     -Select Languages & Compilers and press next
+     -Press "Create Project"
+4. Both the files are are converted to CSV files using a python script "MakeProjectCSV.py" from CODE folder.
+      -Modify Understand API path sys.path.insert(0, r"Demo->E:/Thesis/SciTools/bin/pc-win64/Python") and Python path to locate DLLs os.add_dll_directory(r"Demo->E:/Thesis/SciTools/bin/pc-win64/")
+      -Modify und_file_path and csv_output_file each time for each files
+6. Merge the smelly csv files with all metrics from source code pointing out smell or not using "mergingcsv.py" from CODE folder
+      -Modify source_csv = r"path"  # All Java class metrics
+           smelly_csv = r"path"  # Smelly class metrics
+           output_csv = r"path"  # Final output file
+7. After the creation of all .csv file from individual projects merge them into individual code smells. In our case we handled the last step manually in excel sheet and the result .csv binary files are in **__Final Datasets folder**
 
 <!-- ## REPOSITORY CONTENTS
 
@@ -20,8 +37,7 @@ __7 smell Dataset: This folder contains seven folder of seven code smells. Each 
 
 
 ## **Note:**
- The **full raw dataset is NOT included here** due to privacy, licensing, or storage constraints.
-To request access to the complete dataset, please contact any of the authors:
+For further queries, please contact any of the authors:
 
 > **Name:** AFIA FAHMIDA  
 > **Email:** afiafahmida.p@outlook.com  
@@ -36,8 +52,6 @@ To request access to the complete dataset, please contact any of the authors:
 > **Email:** dewanjeeamrita06@gmail.com  
 > **Institution:** Ahsanullah University of Science and Technology
 
-
-Include a brief description of your intended use and affiliation. Access will be granted on a case-by-case basis.
 
 
 <!-- ## How to Use
