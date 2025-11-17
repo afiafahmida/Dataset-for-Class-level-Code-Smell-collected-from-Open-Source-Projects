@@ -14,18 +14,9 @@ __7 smell Dataset: This folder contains seven folder of seven code smells. Each 
 ## Steps of how the Dataset was created:
 1. Setup "Understand" tool.
 2. We have collected .java files of code smells from this research paper: https://shorturl.at/ZAiAk
-3. Create **.und** files of the real source codes and .java files of smelly codes using Understand tool to collect information of all metrics of the codes:
-     -Go to File > New > Project
-     -Select the source file of the project from "Root Directory" and press "Next"
-     -Select Languages & Compilers and press next
-     -Press "Create Project"
-4. Both the files are are converted to CSV files using a python script "MakeProjectCSV.py" from CODE folder.
-      -Modify Understand API path sys.path.insert(0, r"Demo->E:/Thesis/SciTools/bin/pc-win64/Python") and Python path to locate DLLs os.add_dll_directory(r"Demo->E:/Thesis/SciTools/bin/pc-win64/")
-      -Modify und_file_path and csv_output_file each time for each files
-6. Merge the smelly csv files with all metrics from source code pointing out smell or not using "mergingcsv.py" from CODE folder
-      -Modify source_csv = r"path"  # All Java class metrics
-           smelly_csv = r"path"  # Smelly class metrics
-           output_csv = r"path"  # Final output file
+3. Create **.und** files of the real source codes and .java files of smelly codes using Understand tool to collect information of all metrics of the codes: Go to **File > New > Project** then Select the source file of the project from "Root Directory" and press "Next". Select Languages & Compilers and press next. Press "Create Project"
+4. Both the files are are converted to CSV files using a python script "MakeProjectCSV.py" from CODE folder. Modify Understand API path **sys.path.insert(0, r"Demo->E:/Thesis/SciTools/bin/pc-win64/Python")** and Python path to locate DLLs **os.add_dll_directory(r"Demo->E:/Thesis/SciTools/bin/pc-win64/")** in the code. Also modify und_file_path and csv_output_file each time for each files.
+6. Merge the smelly csv files with all metrics from source code pointing out smell or not using "mergingcsv.py" from CODE folder. Modify source_csv = r"path", smelly_csv = r"path", output_csv = r"path" in the code.
 7. After the creation of all .csv file from individual projects merge them into individual code smells. In our case we handled the last step manually in excel sheet and the result .csv binary files are in **__Final Datasets folder**
 
 <!-- ## REPOSITORY CONTENTS
